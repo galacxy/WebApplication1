@@ -1,4 +1,4 @@
-<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="search.aspx.cs" Inherits="WebApplication1.search" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="search.aspx.cs" Inherits="WebApplication1.search"  Trace="true"%>
 
 <!DOCTYPE html>
 <html>
@@ -63,8 +63,10 @@
            </div>
            <!-- /input-group -->
        </div>
-   <!-- /.col-lg-6 -->
-       <div style="padding-top:40px;padding-bottom:10px">
+       <div style="padding-top:10px;padding-bottom:10px">
+           <asp:Label ID="Label3" runat="server" Font-Names="Ubuntu" ForeColor="Gray">Did you mean: </asp:Label>
+            <asp:LinkButton ID="LinkButton4" runat="server" Font-Bold="true" Font-Italic="true" Font-Underline="true" Font-Names="Open Sans" ForeColor="DarkBlue" OnClick="LinkButton4_Click"></asp:LinkButton>
+           <br />
            <asp:Label ID="Label2" runat="server" Font-Names="Ubuntu" Font-Bold="false"></asp:Label>
        </div>
    </div>

@@ -1,4 +1,4 @@
-?using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -12,6 +12,7 @@ namespace WebApplication1
    public partial class search : System.Web.UI.Page
    {
        String message;
+       Boolean did_you_mean;
        KeyValuePair<String, String>[] Results;
        Int32 numResults;
        Int32 lower;
@@ -61,8 +62,15 @@ namespace WebApplication1
            set { message = value; }
        }
 
+       public Boolean Did_you_mean
+       {
+           get { return did_you_mean; }
+           set { did_you_mean = value; }
+       }
+
        public search()
        {
+           Did_you_mean = false;
            Lower = 0;
            windowSize = Upper = 15;
            CurrentWindow1 = new KeyValuePair<string, string>[WindowSize];
@@ -76,7 +84,7 @@ namespace WebApplication1
                Label1.Text = "WikiSearch";
                Label1.ForeColor = System.Drawing.Color.DeepSkyBlue;
                Label1.Font.Bold = true;
-               Label2.Text = "";
+               Label2.Visible = false;
                Label2.Font.Bold = false;
                //TextBox1.BorderColor = System.Drawing.Color.LightGray;
                repLinks.Visible = false;
@@ -88,7 +96,11 @@ namespace WebApplication1
                LinkButton1.Visible = false;
                LinkButton2.Visible = false;
            }
+          
            TextBox1.Focus();
+           LinkButton4.Text = "";
+           Label3.Visible = false;
+           LinkButton4.Visible = false;
        }
 
        protected void Page_Unload(object sender, EventArgs e)
@@ -109,10 +121,17 @@ namespace WebApplication1
                else
                {
                    TextBox1.BorderColor = System.Drawing.Color.DeepSkyBlue;
-                   Session.Clear();
-                   String filename = @"C:\Users\Rohit\Documents\Visual Studio 2010\Projects\WikiSearch\WikiSearch\mergerResults.csv";
+                   String filename = @"D:\rohit.bansal\SandBox\Interns\rohit.bansal\WebApplication1\WebApplication1\mergerResults.csv";
                    ExecuteSearch ES = new ExecuteSearch(filename);
-                   ES.getSearchResults(TextBox1.Text, out Results);
+                   try
+                   {
+                       String suggestion=Session["suggestion"].ToString();
+                       TextBox1.Text = suggestion;
+                   }
+                   catch
+                   {
+                   }
+                   ES.getSearchResults(TextBox1.Text, out Results, out did_you_mean);
                    if (Results == null)
                    {
                        Label2.Style["color"] = "red";
@@ -124,7 +143,7 @@ namespace WebApplication1
                    else
                    {
                        NumResults = Results1.Length;
-
+                       Label2.Visible = true;
                        if (NumResults > 0)
                        {
                            for (int index = Lower; index < WindowSize; index++)
@@ -150,6 +169,14 @@ namespace WebApplication1
                            Session.Add("WikiSearchResults", Results1);
                            Label2.Style["color"] = "#9c9c9c";
                            Message = "About " + NearestNum(NumResults) + " results found";
+                           if (Did_you_mean == true)
+                           {
+                               Label3.Visible = true;
+                               LinkButton4.Text = CurrentWindow1[0].Key;
+                               Session.Add("suggestion", LinkButton4.Text);
+                               //LinkButton4.PostBackUrl = CurrentWindow1[0].Value;
+                               LinkButton4.Visible = true;
+                           }
                        }
                        else
                        {
@@ -273,6 +300,10 @@ namespace WebApplication1
            Label2.Text = Message;
        }
 
+       protected void LinkButton4_Click(object sender, EventArgs e)
+       {
+           Button1_Click(sender, e);
+       }
 
    }
 }

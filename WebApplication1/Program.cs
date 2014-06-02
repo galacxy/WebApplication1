@@ -41,18 +41,20 @@ namespace Search
 
        public static Boolean operator ==(LinkItem L1, LinkItem L2)
        {
-           return L1.Text.Equals(L2.Text);
+           try
+           {
+               return L1.Text.Equals(L2.Text);
+           }
+           catch
+           {
+               return false;
+           }
        }
 
        public static Boolean operator !=(LinkItem L1, LinkItem L2)
        {
-           return !(L1.Text.Equals(L2.Text));
+           return !(L1 == L2);
        }
-
-       //public static LinkItem operator =(LinkItem L1, LinkItem L2)
-       //{
-         
-       //}
    }
 
    class preparedData
@@ -82,12 +84,19 @@ namespace Search
 
        public static Boolean operator ==(preparedData pd1, preparedData pd2)
        {
-           return pd1.Link.Equals(pd2.Link);
+           try
+           {
+               return pd1.Link.Equals(pd2.Link);
+           }
+           catch
+           {
+               return false;
+           }
        }
 
        public static Boolean operator !=(preparedData pd1, preparedData pd2)
        {
-           return !(pd1.Link.Equals(pd2.Link));
+           return !(pd1 == pd2);
        }
    }
 
@@ -389,6 +398,10 @@ namespace Search
                    {
                        ResultSet.Add(explodedLine[1], temp);
                    }
+                   else
+                   {
+                       ResultSet[explodedLine[1]].Hits += Convert.ToInt64(explodedLine[0]);
+                   }
                }
            }
            catch (Exception e)
@@ -434,9 +447,10 @@ namespace Search
 
        
 
-       public void getSearchResults(String query, out KeyValuePair<String, String>[] Results)
+       public void getSearchResults(String query, out KeyValuePair<String, String>[] Results, out Boolean Did_you_mean)
        {
            Results = null;
+           Did_you_mean = false;
            if (LR.LoadedResultsSet1.Count == 0)
            {
                return;
@@ -444,7 +458,7 @@ namespace Search
            query = cleanQuery(query);
            List<String> queryParts = new List<string>(query.Split(' '));
            Dictionary<String, String> ResultSet = new Dictionary<string, string>();
-           ResultSet = retrieveResults(queryParts);
+           ResultSet = retrieveResults(queryParts, out Did_you_mean);
            String[] leastImpKey = { "International Standard Book Number",
                                    "Digital object identifier"
                                };
@@ -461,12 +475,12 @@ namespace Search
            ResultSet.Clear();
        }
 
-       public Dictionary<String, String> retrieveResults(List<String> queryParts)
+       public Dictionary<String, String> retrieveResults(List<String> queryParts,out Boolean Did_you_mean)
        {
            Dictionary<String, String> ResultSet = new Dictionary<string, string>();
            Dictionary<String, titleHits> BestMatches = new Dictionary<String, titleHits>();
-           LinkItem mostValuable;
-           BestMatches = findBestHitPage(queryParts, out mostValuable);
+           LinkItem mostValuable = null;
+           BestMatches = findBestHitPage(queryParts, out mostValuable, out Did_you_mean);
            if (mostValuable.Href != null && mostValuable.Href != "")
            {
                ResultSet.Add(mostValuable.Text, mostValuable.Href);
@@ -482,7 +496,14 @@ namespace Search
            }
            foreach (var match in BestMatches)
            {
-               ResultSet.Add(match.Key, match.Value.Link);
+               try
+               {
+                   ResultSet.Add(match.Key, match.Value.Link);
+               }
+               catch
+               {
+                   continue;
+               }
            }
            //if (BestMatches.Count > 0)
            //{gg
@@ -506,7 +527,7 @@ namespace Search
            return ResultSet;
        }
 
-       public Dictionary<String, titleHits> findBestHitPage(List<String> queryTerms, out LinkItem mostValuable)
+       public Dictionary<String, titleHits> findBestHitPage(List<String> queryTerms, out LinkItem mostValuable, out Boolean Did_you_mean)
        {
            Dictionary<String, titleHits> exactWordsMatch = new Dictionary<string, titleHits>();
            Dictionary<String, titleHits> DerivedWordmatch = new Dictionary<String, titleHits>();
@@ -514,22 +535,25 @@ namespace Search
            LinkItem SimilarMatch = null; ;
            Boolean impDone = false;
            Boolean SimDone = false;
-           float benchmark=0.2F;
+           float benchmark=0.45F;
+           Did_you_mean = false;
            foreach (var result in LR.LoadedResultsSet1) //.OrderByDescending(key => key.Value)
            {
                int success = 0;
-               foreach (var term in queryTerms)
+               foreach (var queryterm in queryTerms)
                {
+                   String term = queryterm;
                    if (Regex.IsMatch(result.Key, term, RegexOptions.IgnoreCase) == true)
                    {
                        success++;
                    }
-                   else if (SimDone==false && CompareSimilarMatch(term, result.Key, benchmark) < benchmark)
+                   else if (SimDone==false && CompareSimilarMatch(term, result.Key, benchmark) <= benchmark)
                    {
                        SimilarMatch = new LinkItem();
                        SimilarMatch.Href = result.Value.Link;
                        SimilarMatch.Text = result.Key;
                        SimDone = true;
+                       success++;
                    }
                }
                if (success == queryTerms.Count)
@@ -555,14 +579,17 @@ namespace Search
                    }
                }
            }
-           foreach(var match in DerivedWordmatch)
+           foreach (var match in DerivedWordmatch)
            {
                exactWordsMatch.Add(match.Key, new titleHits(match.Value));
            }
-           if (SimilarMatch!=null && String.IsNullOrEmpty(mostValuable.Href) && String.IsNullOrEmpty(mostValuable.Text))
+           bool b1=String.IsNullOrEmpty(mostValuable.Href);
+           bool b2=String.IsNullOrEmpty(mostValuable.Text);
+           if ( b1 && b2 && SimDone == true && impDone == false)
            {
                mostValuable.Href = SimilarMatch.Href;
                mostValuable.Text = SimilarMatch.Text;
+               Did_you_mean = true;
            }
            return exactWordsMatch;
        }
@@ -604,11 +631,11 @@ namespace Search
                }
            }
 
-           if (exactsuccess == pageTitle.Split(' ').Length)
+           if (success == pageTitle.Split(' ').Length || exactsuccess == pageTitle.Split(' ').Length)
            {
                deviationValue = SearchQuality.BEST;
            }
-           else if (exactsuccess>0 || (success > 0 && success <= pageTitle.Split(' ').Length))
+           else if (exactsuccess>0 || (success > 0 && success < pageTitle.Split(' ').Length))
            {
                deviationValue = SearchQuality.BETTER;
            }
@@ -623,7 +650,8 @@ namespace Search
        {
            float deviation = benchmark;
            int count = 0;
-           for (int index = 0; index < str2.Length; index++)
+           int length = str1.Length < str2.Length ? str1.Length : str2.Length;
+           for (int index = 0; index < length; index++)
            {
                if (str1[index] != str2[index])
                {
@@ -641,7 +669,7 @@ namespace Search
            Dictionary<string, string> relatedLinks = new Dictionary<string, string>();
            try
            {
-               String dataSource = @"C:\Users\Rohit\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\DataStore\" + pageTitle + ".html";
+               String dataSource = @"D:\rohit.bansal\WebApplication1\WebApplication1\DataStore\" + pageTitle + ".html";
                fr = new System.IO.StreamReader(dataSource);
                pageSource = fr.ReadToEnd();
            }

@@ -1,0 +1,3027 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 2855-BB39
+
+ Directory of D:\rohit.bansal\WebApplication1\WebApplication1\DataStore
+
+05/27/2014  05:19 PM    <DIR>          .
+05/27/2014  05:19 PM    <DIR>          ..
+05/27/2014  09:43 AM           109,844 .edu.html
+05/27/2014  09:43 AM           112,574 .gov.html
+05/27/2014  09:55 AM            80,345 .in.html
+05/27/2014  02:38 PM            78,074 .jp.html
+05/27/2014  09:43 AM            91,094 .mil.html
+05/27/2014  09:43 AM            89,725 .us.html
+05/27/2014  09:54 AM           109,397 100th meridian west.html
+05/27/2014  10:09 AM           504,866 112th United States Congress.html
+05/27/2014  10:08 AM           439,429 113th United States Congress.html
+05/27/2014  09:48 AM           167,745 13 colonies.html
+05/27/2014  10:48 AM           163,503 1951 Asian Games.html
+05/27/2014  03:07 PM           262,477 1964 Summer Olympics.html
+05/27/2014  03:07 PM           127,521 1972 Winter Olympics.html
+05/27/2014  02:54 PM           220,873 1973 oil crisis.html
+05/27/2014  10:48 AM            92,292 1982 Asian Games.html
+05/27/2014  10:48 AM           190,101 1983 Cricket World Cup.html
+05/27/2014  10:48 AM           183,122 1987 Cricket World Cup.html
+05/27/2014  09:53 AM            36,399 1990s United States boom.html
+05/27/2014  10:30 AM            54,288 1991 India economic crisis.html
+05/27/2014  10:49 AM           275,897 1996 Cricket World Cup.html
+05/27/2014  03:07 PM           193,269 1998 Winter Olympics.html
+05/27/2014  10:32 AM           253,570 2000s energy crisis.html
+05/27/2014  03:08 PM           586,511 2002 FIFA World Cup.html
+05/27/2014  10:48 AM           163,497 2002 ICC Champions Trophy.html
+05/27/2014  10:49 AM           242,299 2003 Afro-Asian Games.html
+05/27/2014  10:49 AM           214,205 2006 ICC Champions Trophy.html
+05/27/2014  10:48 AM           211,235 2007 ICC World Twenty20.html
+05/27/2014  10:31 AM           475,030 2008-2012 global recession.html
+05/27/2014  10:50 AM           414,915 2010 Commonwealth Games.html
+05/27/2014  10:48 AM           389,073 2011 Cricket World Cup.html
+05/27/2014  10:09 AM           498,488 2012 U.S. presidential election.html
+05/27/2014  10:48 AM           176,874 2013 ICC Champions Trophy.html
+05/27/2014  10:11 AM           664,874 2014 Indian general election.html
+05/27/2014  03:08 PM           158,252 2020 Summer Olympics.html
+05/27/2014  03:06 PM           141,189 20th-century classical music.html
+05/27/2014  10:22 AM           253,043 34th G8 summit.html
+05/27/2014  11:05 AM           279,949 51st state.html
+05/27/2014  10:58 AM            62,982 A. K. Ramanujan.html
+05/27/2014  11:00 AM           272,364 Aaron Copland.html
+05/27/2014  03:09 PM            32,975 ABC-CLIO.html
+05/27/2014  02:46 PM            45,735 Abolition of the han system.html
+05/27/2014  09:48 AM           252,858 Abolitionism in the United States.html
+05/27/2014  10:00 AM           378,891 Abortion in the United States.html
+05/27/2014  09:49 AM           583,122 Abraham Lincoln.html
+05/27/2014  03:24 PM           110,741 Absolute monarchy.html
+05/27/2014  10:59 AM           282,119 Abstract expressionism.html
+05/27/2014  10:07 AM            89,064 Acacia nilotica.html
+05/27/2014  11:03 AM            35,157 Adam Tooze.html
+05/27/2014  10:36 AM           265,063 Adivasi.html
+05/27/2014  10:14 AM           144,510 Administrative divisions of India.html
+05/27/2014  10:01 AM            74,557 Adoption in the United States.html
+05/27/2014  10:41 AM           256,680 Advanced Micro Devices.html
+05/27/2014  10:57 AM           167,918 Adventures of Huckleberry Finn.html
+05/27/2014  03:08 PM           388,752 AFC Asian Cup.html
+05/27/2014  11:06 AM           333,707 Affirmative action in the United States.html
+05/27/2014  10:33 AM           242,565 Affluence in the United States.html
+05/27/2014  03:13 PM           842,975 Afghanistan.html
+05/27/2014  09:50 AM           461,054 African American.html
+05/27/2014  10:47 AM           307,327 African-American culture.html
+05/27/2014  10:51 AM           143,018 African-American music.html
+05/27/2014  09:53 AM           461,224 African-American.html
+05/27/2014  03:06 PM            39,725 Agency for Cultural Affairs.html
+05/27/2014  03:03 PM            62,232 Agglutinative language.html
+05/27/2014  03:00 PM            61,525 Aging of Japan.html
+05/27/2014  10:00 AM           283,786 Agnosticism.html
+05/27/2014  10:39 AM           279,879 Agra.html
+05/27/2014  11:03 AM           256,762 Agriculture in India.html
+05/27/2014  10:24 AM           148,490 Agriculture in the United States.html
+05/27/2014  02:52 PM           101,126 Agriculture, forestry, and fishing in Japan.html
+05/27/2014  10:35 AM           399,257 Ahmedabad.html
+05/27/2014  10:08 AM           131,882 Ahmednagar.html
+05/27/2014  03:01 PM           127,578 Aichi Prefecture.html
+05/27/2014  02:35 PM           131,081 Ainu language.html
+05/27/2014  02:43 PM           270,588 Ainu people.html
+05/27/2014  10:35 AM            65,583 Airline Deregulation Act.html
+05/27/2014  09:57 AM           202,226 Ajanta Caves.html
+05/27/2014  10:00 AM           390,144 Akbar.html
+05/27/2014  02:36 PM           311,608 Akihito.html
+05/27/2014  03:12 PM           116,256 Akita Prefecture.html
+05/27/2014  11:12 AM           145,769 Akrotiri and Dhekelia.html
+05/27/2014  10:02 AM           649,290 Alabama.html
+05/27/2014  09:57 AM            92,457 Alaska Natives.html
+05/27/2014  09:50 AM            90,396 Alaska Purchase.html
+05/27/2014  09:44 AM           475,619 Alaska.html
+05/27/2014  10:40 AM           444,786 Albert Einstein.html
+05/27/2014  09:54 AM           115,318 Aleutian Islands.html
+05/27/2014  09:54 AM            52,183 Alexander Archipelago.html
+05/27/2014  10:38 AM           412,119 Alexander Graham Bell.html
+05/27/2014  11:00 AM           179,130 Alfred Stieglitz.html
+05/27/2014  11:02 AM            87,861 All Things Considered.html
+05/27/2014  02:47 PM           320,993 Allies of World War I.html
+05/27/2014  02:48 PM           419,775 Allies of World War II.html
+05/27/2014  09:54 AM            53,895 Alpine climate.html
+05/27/2014  09:53 AM           664,754 Al-Qaeda.html
+05/27/2014  03:04 PM            50,406 Amami language.html
+05/27/2014  10:35 AM           383,815 American Airlines.html
+05/27/2014  11:02 AM            87,279 American Century.html
+05/27/2014  09:45 AM           601,932 American Civil War.html
+05/27/2014  10:56 AM            42,696 American classical music.html
+05/27/2014  10:50 AM           126,558 American comic book.html
+05/27/2014  11:00 AM           256,451 American cuisine.html
+05/27/2014  10:47 AM           170,330 American Dream.html
+05/27/2014  09:59 AM           276,223 American English.html
+05/27/2014  11:06 AM           213,678 American exceptionalism.html
+05/27/2014  10:54 AM           122,222 American folk music revival.html
+05/27/2014  11:01 AM           387,705 American football.html
+05/27/2014  11:03 AM           496,039 American frontier.html
+05/27/2014  11:04 AM           291,642 American imperialism.html
+05/27/2014  09:45 AM           263,647 American Indian Wars.html
+05/27/2014  09:59 AM           375,004 American Jews.html
+05/27/2014  10:55 AM           273,646 American literature.html
+05/27/2014  11:06 AM           247,687 American middle class.html
+05/27/2014  11:07 AM           101,987 American nationalism.html
+05/27/2014  09:50 AM           496,196 American Old West.html
+05/27/2014  10:55 AM           244,002 American philosophy.html
+05/27/2014  09:42 AM           392,679 American Revolution.html
+05/27/2014  09:45 AM           485,840 American Revolutionary War.html
+05/27/2014  10:02 AM           390,886 American Samoa.html
+05/27/2014  09:41 AM           465,594 Americans.html
+05/27/2014  09:46 AM           445,508 Americas.html
+05/27/2014  09:46 AM           105,693 Amerigo Vespucci.html
+05/16/2014  09:33 AM           154,717 Amritsar.html
+05/27/2014  10:35 AM           534,140 Amtrak.html
+05/27/2014  02:52 PM            49,662 Amurian Plate.html
+05/27/2014  10:32 AM           210,966 Anaemic.html
+05/27/2014  10:59 AM           224,835 Analytic philosophy.html
+05/27/2014  09:51 AM           369,789 Anarchism in the United States.html
+05/27/2014  09:57 AM           180,632 Anatomically modern humans.html
+05/27/2014  09:57 AM           259,841 Ancient Greece.html
+05/27/2014  09:55 AM           179,548 Andaman and Nicobar Islands.html
+05/27/2014  10:06 AM           143,074 Andaman Islands.html
+05/27/2014  10:05 AM           117,475 Andaman Sea.html
+05/27/2014  10:15 AM           408,831 Andhra Pradesh.html
+05/27/2014  03:21 PM           312,054 Andorra.html
+05/27/2014  10:59 AM           330,089 Andy Warhol.html
+05/27/2014  03:18 PM           431,168 Angela Merkel.html
+05/27/2014  10:14 AM           148,810 Anglo-Indian.html
+05/27/2014  11:12 AM           275,116 Anguilla.html
+05/27/2014  11:03 AM            69,308 Animal husbandry in India.html
+05/27/2014  10:49 AM           162,158 Animation.html
+05/27/2014  03:06 PM           242,462 Anime.html
+05/27/2014  02:38 PM           151,097 Anno Domini.html
+05/27/2014  11:00 AM           191,193 Ansel Adams.html
+05/27/2014  11:02 AM            64,975 Anthony B. Atkinson.html
+05/27/2014  11:06 AM           436,565 Anti-Americanism.html
+05/27/2014  02:50 PM           167,245 Anti-ballistic missile.html
+05/27/2014  02:47 PM           149,745 Anti-Comintern Pact.html
+05/27/2014  03:21 PM           302,523 Antigua and Barbuda.html
+05/27/2014  09:50 AM            42,244 Anti-lynching movement.html
+05/27/2014  10:45 AM           154,973 Anxiety.html
+05/27/2014  03:12 PM           142,744 Aomori Prefecture.html
+05/27/2014  09:52 AM           329,909 Apollo 11.html
+05/27/2014  10:38 AM           215,750 Apollo 15.html
+05/27/2014  10:38 AM           145,954 Apollo Lunar Module.html
+05/27/2014  02:59 PM           434,305 Apollo program.html
+05/27/2014  09:54 AM           259,519 Appalachian Mountains.html
+05/27/2014  10:14 AM            33,017 Appellate jurisdiction.html
+05/27/2014  10:42 AM           597,742 Apple Inc..html
+05/27/2014  11:00 AM            84,522 Apple pie.html
+05/27/2014  09:55 AM           121,335 Arabian Sea.html
+05/27/2014  03:03 PM           131,480 Arabic numerals.html
+05/27/2014  10:03 AM            66,823 Aravalli Range.html
+05/27/2014  02:40 PM            81,751 Archipelago.html
+05/27/2014  09:58 AM           159,144 Architecture of India.html
+05/27/2014  11:06 AM           236,307 Architecture of the United States.html
+05/27/2014  03:14 PM           712,844 Argentina.html
+05/27/2014  10:26 AM           130,655 Arihant class submarine.html
+05/27/2014  10:02 AM           464,161 Arizona.html
+05/27/2014  10:50 AM           208,013 Arjuna Award.html
+05/27/2014  10:02 AM           464,075 Arkansas.html
+05/27/2014  10:59 AM           177,355 Armory Show.html
+05/27/2014  09:53 AM           210,417 ARPANET.html
+05/27/2014  10:45 AM           146,442 Arranged marriage in the Indian subcontinent.html
+05/27/2014  11:03 AM            36,447 Arteriosclerosis, Thrombosis, and Vascular Biology.html
+05/27/2014  10:58 AM            43,180 Arthur Anthony Macdonell.html
+05/27/2014  02:41 PM            84,937 Article 9 of the Japanese Constitution.html
+05/27/2014  10:02 AM           265,839 Article One of the United States Constitution.html
+05/27/2014  09:47 AM           249,679 Articles of Confederation.html
+05/27/2014  11:04 AM            91,053 Arts and entertainment in India.html
+05/27/2014  10:15 AM           238,872 Arunachal Pradesh.html
+05/27/2014  02:50 PM            80,915 ASEAN Plus Three.html
+05/27/2014  10:58 AM            32,445 Ashgate Publishing.html
+05/27/2014  02:45 PM           130,287 Ashikaga shogunate.html
+05/27/2014  02:45 PM           123,211 Ashikaga Takauji.html
+05/27/2014  02:45 PM           123,483 Ashikaga Yoshimitsu.html
+05/27/2014  11:11 AM           114,454 Ashmore and Cartier Islands.html
+05/27/2014  09:58 AM           213,586 Ashoka.html
+05/27/2014  09:45 AM           394,680 Asia.html
+05/27/2014  09:57 AM           411,007 Asian American.html
+05/27/2014  03:08 PM           143,306 Asian Five Nations.html
+05/27/2014  02:50 PM           265,461 Asia-Pacific Economic Cooperation.html
+05/27/2014  10:07 AM           159,856 Asiatic lion.html
+05/27/2014  10:28 AM            79,973 Assam Rifles.html
+05/27/2014  10:16 AM           452,721 Assam.html
+05/27/2014  09:54 AM           169,160 Assamese language.html
+05/27/2014  10:39 AM           129,858 Assembly line.html
+05/27/2014  10:24 AM           559,055 Association of Southeast Asian Nations.html
+05/27/2014  02:43 PM           136,808 Asuka period.html
+05/27/2014  10:10 AM           180,814 Atal Bihari Vajpayee.html
+05/27/2014  10:00 AM           570,369 Atheism.html
+05/27/2014  09:58 AM           263,153 Atlanta metropolitan area.html
+05/27/2014  09:58 AM           630,164 Atlanta.html
+05/27/2014  09:45 AM           115,814 Atlantic seaboard.html
+05/27/2014  09:54 AM           259,693 Atlantic.html
+05/27/2014  10:01 AM            81,069 At-large.html
+05/27/2014  10:40 AM           142,990 Atomic Age.html
+05/27/2014  02:48 PM           660,357 Atomic bombings of Hiroshima and Nagasaki.html
+05/27/2014  02:47 PM           408,843 Attack on Pearl Harbor.html
+05/27/2014  11:00 AM            97,345 August Wilson.html
+05/27/2014  09:57 AM           198,630 Aurangabad, Maharashtra.html
+05/27/2014  02:50 PM           759,858 Australia.html
+05/27/2014  11:11 AM           117,343 Australian Antarctic Territory.html
+05/27/2014  10:36 AM           166,622 Austroasiatic languages.html
+05/27/2014  11:01 AM           211,887 Auto racing.html
+05/27/2014  10:31 AM           410,045 Automotive industry in India.html
+05/27/2014  11:01 AM           106,603 Autonomous regions of India.html
+05/27/2014  02:53 PM           118,613 Autumn.html
+05/27/2014  10:47 AM           189,679 Average Joe.html
+05/27/2014  09:52 AM           554,404 Axis powers.html
+05/27/2014  10:53 AM            59,683 Ayesha Jalal.html
+05/27/2014  09:58 AM           232,806 Ayurveda.html
+05/27/2014  02:43 PM           127,798 Baekje.html
+05/27/2014  10:47 AM            46,631 Bagepalli.html
+05/27/2014  03:14 PM           614,539 Bahrain.html
+05/27/2014  11:03 AM            89,147 Bahujan Samaj Party.html
+05/27/2014  02:46 PM           397,998 Bakumatsu.html
+05/27/2014  09:56 AM           348,550 Bald eagle.html
+05/27/2014  09:58 AM           565,893 Baltimore.html
+05/27/2014  10:34 AM           520,368 Bangalore.html
+05/27/2014  10:23 AM           373,924 Bangladesh Liberation War.html
+05/27/2014  09:55 AM           463,056 Bangladesh.html
+05/27/2014  03:11 PM           126,450 Bank of Japan.html
+05/27/2014  11:05 AM           285,040 Banking in the United States.html
+05/27/2014  03:19 PM         1,050,523 Barack Obama.html
+05/27/2014  03:21 PM           440,251 Barbados.html
+05/27/2014  10:53 AM            48,554 Barbara Metcalf.html
+05/27/2014  10:25 AM           237,198 Barley.html
+05/27/2014  03:08 PM            66,530 Baseball in Japan.html
+05/27/2014  11:00 AM           479,475 Baseball.html
+05/27/2014  10:50 AM            48,052 Basketball at the South Asian Games.html
+05/27/2014  11:01 AM           327,700 Basketball.html
+05/27/2014  09:49 AM           297,196 Battle of Gettysburg.html
+05/27/2014  11:00 AM           223,947 Battle of Plassey.html
+05/27/2014  02:46 PM           120,724 Battle of Sekigahara.html
+05/27/2014  10:42 AM           129,120 Baul.html
+05/27/2014  09:55 AM           206,412 Bay of Bengal.html
+05/27/2014  03:10 PM           284,246 BBC News.html
+05/27/2014  10:55 AM           597,522 BBC.html
+05/27/2014  10:58 AM           255,672 Beat Generation.html
+05/27/2014  10:26 AM           184,303 Beef.html
+05/27/2014  10:07 AM            72,066 Before Present.html
+05/27/2014  03:21 PM           615,067 Belgium.html
+05/27/2014  03:21 PM           433,380 Belize.html
+05/27/2014  11:02 AM            74,994 Belknap Press.html
+05/27/2014  11:00 AM           185,839 Bengal famine of 1943.html
+05/27/2014  11:00 AM           126,794 Bengal Renaissance.html
+05/27/2014  10:07 AM           226,987 Bengal tiger.html
+05/27/2014  09:58 AM           234,620 Bengal.html
+05/27/2014  09:54 AM           306,840 Bengali language.html
+05/27/2014  09:47 AM            88,744 Beringia.html
+05/27/2014  11:12 AM           434,020 Bermuda.html
+05/27/2014  10:28 AM           349,497 Beryllium.html
+05/27/2014  10:40 AM            81,886 Bhakti movement.html
+05/27/2014  09:58 AM           192,596 Bhakti.html
+05/27/2014  10:44 AM            96,957 Bharata Natyam.html
+05/27/2014  09:54 AM           241,933 Bharatiya Janata Party.html
+05/27/2014  10:44 AM            37,375 Bhavai.html
+05/27/2014  09:57 AM            87,177 Bhimbetka rock shelters.html
+05/27/2014  03:21 PM           415,559 Bhutan.html
+05/27/2014  10:00 AM           116,092 Bible Belt.html
+05/27/2014  10:14 AM           128,576 Bicameralism.html
+05/27/2014  10:16 AM           379,307 Bihar.html
+05/27/2014  10:44 AM            67,754 Bihu.html
+05/27/2014  10:06 AM            53,133 Biodiversity hotspot.html
+05/27/2014  10:06 AM           534,751 Biodiversity.html
+05/27/2014  10:08 AM            43,690 Biological Diversity Act, 2002.html
+05/27/2014  02:57 PM           112,139 Biomedical research.html
+05/27/2014  10:32 AM            84,506 Biopharmaceutical.html
+05/27/2014  10:08 AM           105,494 Biosphere reserves of India.html
+05/27/2014  10:02 AM           164,026 Birthright citizenship in the United States.html
+05/27/2014  09:57 AM           319,125 Bisexual.html
+05/27/2014  09:53 AM            86,953 Black nationalism.html
+05/27/2014  02:46 PM            60,904 Black Ships.html
+05/27/2014  10:52 AM           353,881 Blues.html
+05/27/2014  10:48 AM           111,620 Board of Control for Cricket in India.html
+05/27/2014  10:54 AM           749,970 Bob Dylan.html
+05/27/2014  09:54 AM            61,048 Bodo language.html
+05/27/2014  10:45 AM           347,361 Bollywood.html
+05/27/2014  11:03 AM           144,178 Bombay Stock Exchange.html
+05/27/2014  10:33 AM            73,651 Bond credit rating.html
+05/27/2014  02:53 PM           158,578 Bonin Islands.html
+05/27/2014  03:11 PM           251,385 Bonsai.html
+05/27/2014  02:43 PM           102,867 Book of Han.html
+05/27/2014  11:02 AM           152,574 Border Security Force.html
+05/27/2014  02:46 PM           216,688 Boshin War.html
+05/27/2014  09:58 AM           651,271 Boston.html
+05/27/2014  11:06 AM           313,314 Botswana.html
+05/27/2014  11:01 AM           258,259 Boxing.html
+05/27/2014  10:04 AM           166,593 Brahmaputra River.html
+05/27/2014  03:19 PM           815,545 Brazil.html
+05/27/2014  03:00 PM           177,886 Brazilian people.html
+05/27/2014  03:00 PM            83,224 Brazilians in Japan.html
+05/27/2014  11:00 AM            82,138 Breakfast cereal.html
+05/27/2014  11:16 AM           245,192 BRICS.html
+05/27/2014  10:45 AM           124,394 Bride burning.html
+05/27/2014  10:53 AM            37,948 Bridget Allchin.html
+05/27/2014  09:58 AM           145,899 Brihadeeswarar Temple.html
+05/27/2014  10:58 AM            47,772 Brill Publishers.html
+05/27/2014  11:12 AM           127,201 British Antarctic Territory.html
+05/27/2014  10:58 AM           161,248 British Film Institute.html
+05/27/2014  11:00 AM           139,262 British Indian Army.html
+05/27/2014  11:12 AM           180,994 British Indian Ocean Territory.html
+05/27/2014  09:56 AM           532,384 British Raj.html
+05/27/2014  11:12 AM           288,822 British Virgin Islands.html
+05/27/2014  10:59 AM           185,285 Broadway theatre.html
+05/27/2014  02:53 PM           419,070 Brown bear.html
+05/27/2014  03:16 PM           404,445 Brunei.html
+05/27/2014  02:43 PM           218,918 Buddhism in Japan.html
+05/27/2014  09:59 AM           303,755 Buddhism in the United States.html
+05/27/2014  10:38 AM           193,385 Buddhist philosophy.html
+05/27/2014  10:07 AM            33,511 Bufo beddomii.html
+05/27/2014  02:46 PM            39,959 Buke shohatto.html
+05/27/2014  03:05 PM            75,308 Bunraku.html
+05/27/2014  03:00 PM           125,916 Burakumin.html
+05/27/2014  11:02 AM            54,854 Bureau of Police Research and Development.html
+05/27/2014  03:16 PM           777,185 Burma.html
+05/27/2014  10:44 AM            40,536 Burrakatha.html
+05/27/2014  10:53 AM            40,607 Burton Stein.html
+05/27/2014  10:56 AM            43,473 Business Line.html
+05/27/2014  10:54 AM            69,795 Business Standard.html
+05/27/2014  11:02 AM            89,754 Cabinet of India.html
+05/27/2014  02:46 PM            76,986 Cabinet of Japan.html
+05/27/2014  11:04 AM           213,046 Cabinet of the United States.html
+05/27/2014  11:00 AM           157,733 Cajun cuisine.html
+05/27/2014  09:49 AM           301,585 California Gold Rush.html
+05/27/2014  09:54 AM           595,031 California.html
+05/27/2014  03:16 PM           494,424 Cambodia.html
+05/27/2014  10:53 AM           124,937 Cambridge University Press.html
+05/27/2014  11:06 AM           363,601 Cameroon.html
+05/27/2014  03:17 PM           602,479 Canada.html
+05/27/2014  09:49 AM           174,511 Canals.html
+05/27/2014  02:56 PM                 0 Canon Inc..html
+05/27/2014  09:59 AM           171,707 Cantonese language.html
+05/27/2014  11:02 AM            77,764 Capital in the Twenty-First Century.html
+05/27/2014  02:40 PM            89,287 Capital of Japan.html
+05/27/2014  10:19 AM           480,692 Capital punishment in the United States.html
+05/27/2014  10:21 AM           540,817 Capital punishment.html
+05/27/2014  09:52 AM           361,252 Capitalism.html
+05/27/2014  03:11 PM           150,800 Career woman.html
+05/27/2014  09:45 AM           314,638 Caribbean.html
+05/27/2014  02:57 PM            36,476 Carl Friedrich Gauss Prize.html
+05/27/2014  10:42 AM           189,231 Carnatic music.html
+05/27/2014  09:43 AM            36,665 Carolinian language.html
+05/27/2014  10:17 AM           140,615 Carrier strike group.html
+05/27/2014  09:46 AM           168,230 Cartographer.html
+05/27/2014  09:54 AM           114,134 Cascade Range.html
+05/27/2014  10:45 AM           306,420 Caste system in India.html
+05/27/2014  09:57 AM           221,675 Caste system.html
+05/27/2014  10:02 AM            93,986 Caste-related violence in India.html
+05/27/2014  09:59 AM           242,861 Catholic Church in the United States.html
+05/27/2014  09:59 AM           272,033 Catholic.html
+05/27/2014  11:12 AM           367,337 Cayman Islands.html
+05/27/2014  11:02 AM           168,794 Censorship in India.html
+05/27/2014  11:02 AM            34,048 Center for Economic and Policy Research.html
+05/27/2014  11:02 AM           238,335 Central Bureau of Investigation.html
+05/27/2014  11:02 AM           102,933 Central Industrial Security Force.html
+05/27/2014  10:52 AM           572,889 Central Intelligence Agency.html
+05/27/2014  09:51 AM           213,133 Central Powers.html
+05/27/2014  11:02 AM            71,492 Central Reserve Police Force.html
+05/27/2014  09:57 AM            68,342 Chain migration.html
+05/27/2014  11:02 AM            28,771 Chained dollars.html
+05/27/2014  09:57 AM            78,279 Chalcolithic.html
+05/27/2014  09:58 AM           241,474 Chalukya dynasty.html
+05/27/2014  09:43 AM            95,042 Chamorro language.html
+05/27/2014  10:20 AM           252,215 Chandigarh.html
+05/27/2014  11:00 AM           140,514 Charles Ives.html
+05/27/2014  10:59 AM           421,032 Charles Sanders Peirce.html
+05/27/2014  10:47 AM           137,548 Chaturanga.html
+05/27/2014  11:01 AM           185,834 Cheerleading.html
+05/27/2014  02:55 PM            87,180 Chemical substance.html
+05/27/2014  10:50 AM           233,339 Chennai Open.html
+05/27/2014  10:34 AM           825,712 Chennai.html
+05/27/2014  09:58 AM           219,266 Chera Dynasty.html
+05/27/2014  02:53 PM           141,230 Cherry blossom.html
+05/27/2014  10:47 AM           575,768 Chess.html
+05/27/2014  10:46 AM            70,714 Chhath.html
+05/27/2014  10:16 AM           306,548 Chhattisgarh.html
+05/27/2014  10:44 AM            93,520 Chhau dance.html
+05/27/2014  03:01 PM           200,205 Chiba Prefecture.html
+05/27/2014  03:01 PM           145,936 Chiba, Chiba.html
+05/27/2014  09:58 AM           248,247 Chicago metropolitan area.html
+05/27/2014  10:59 AM           142,302 Chicago school of economics.html
+05/27/2014  09:57 AM           803,100 Chicago.html
+05/27/2014  09:54 AM            74,056 Chief Justice of India.html
+05/27/2014  10:02 AM           137,243 Chief Justice of the United States.html
+05/27/2014  10:06 AM            62,499 Chikmagalur.html
+05/27/2014  10:45 AM           210,046 Child marriage.html
+05/27/2014  02:39 PM           951,502 China.html
+05/27/2014  09:57 AM           313,233 Chinese American.html
+05/27/2014  03:03 PM           413,958 Chinese character.html
+05/27/2014  10:29 AM            63,351 Chinese fishing nets.html
+05/27/2014  02:42 PM           282,128 Chinese language.html
+05/27/2014  02:49 PM           106,504 Chinese law.html
+05/27/2014  02:36 PM            92,540 Chinese people in Japan.html
+05/27/2014  11:00 AM           295,865 Chocolate.html
+05/27/2014  09:58 AM           332,185 Chola dynasty.html
+05/27/2014  11:00 AM            50,788 Choreography.html
+05/27/2014  10:03 AM           101,652 Chota Nagpur Plateau.html
+05/27/2014  09:48 AM           102,450 Christian revival.html
+05/27/2014  10:56 AM           101,664 Christian Science Monitor.html
+05/27/2014  09:56 AM           361,803 Christianity in India.html
+05/27/2014  03:03 PM           156,372 Christianity in Japan.html
+05/27/2014  09:59 AM           255,282 Christianity in the United States.html
+05/27/2014  09:59 AM           603,611 Christianity.html
+05/27/2014  11:11 AM           316,389 Christmas Island.html
+05/27/2014  10:46 AM           437,305 Christmas worldwide.html
+05/27/2014  03:03 PM           466,176 Christmas.html
+05/27/2014  09:47 AM           362,251 Christopher Columbus.html
+05/27/2014  10:45 AM           369,875 Chronic obstructive pulmonary disease.html
+05/27/2014  10:53 AM           193,495 Chuck Berry.html
+05/27/2014  03:09 PM           573,869 CIA.html
+05/27/2014  10:45 AM           326,067 Cinema of Andhra Pradesh.html
+05/27/2014  10:44 AM           126,526 Cinema of Assam.html
+05/27/2014  10:45 AM           236,784 Cinema of Bengal.html
+05/27/2014  10:44 AM           505,685 Cinema of India.html
+05/27/2014  03:06 PM           232,567 Cinema of Japan.html
+05/27/2014  10:45 AM           109,355 Cinema of Karnataka.html
+05/27/2014  10:45 AM           109,407 Cinema of Odisha.html
+05/27/2014  10:45 AM           134,584 Cinema of Punjab.html
+05/27/2014  10:48 AM           245,997 Cinema of the United States.html
+05/27/2014  02:52 PM            64,732 Cities of Japan.html
+05/27/2014  10:49 AM           413,903 Citizen Kane.html
+05/27/2014  11:05 AM            77,704 Civil liberties in the United States.html
+05/27/2014  09:53 AM           276,196 Civil Rights Act of 1964.html
+05/27/2014  10:44 AM            72,446 Classical Indian dance.html
+05/27/2014  10:47 AM           145,319 Classless society.html
+05/27/2014  11:02 AM           114,064 Clerk of the United States House of Representatives.html
+05/27/2014  10:05 AM           394,676 Climate of India.html
+05/27/2014  02:53 PM           142,761 Climate of Japan.html
+05/27/2014  09:45 AM           105,112 Climate of the United States.html
+05/27/2014  11:00 AM            78,939 Climatic regions of India.html
+05/27/2014  10:47 AM           177,713 Clothing in India.html
+05/27/2014  10:27 AM           322,178 Coal.html
+05/27/2014  10:09 AM           100,829 Coalition government.html
+05/27/2014  09:56 AM            44,736 Coastal California.html
+05/27/2014  10:29 AM           327,097 Coca-Cola.html
+05/27/2014  10:29 AM           545,230 Cochin.html
+05/27/2014  11:05 AM            72,295 Code of Federal Regulations.html
+05/27/2014  10:26 AM           626,575 Cold War.html
+05/27/2014  11:00 AM           182,981 Cole Porter.html
+05/27/2014  11:01 AM           138,107 College basketball.html
+05/27/2014  11:01 AM           134,083 College football.html
+05/27/2014  11:03 AM           191,512 Colonial American military history.html
+05/27/2014  09:45 AM           110,476 Colonial empire.html
+05/27/2014  09:47 AM           303,781 Colonial history of the United States.html
+05/27/2014  11:00 AM           125,489 Colonial India.html
+05/27/2014  02:58 PM           284,428 Colonization of the Moon.html
+05/27/2014  11:04 AM           622,290 Colorado River.html
+05/27/2014  09:54 AM           598,395 Colorado.html
+05/27/2014  11:04 AM           471,980 Columbia River.html
+05/27/2014  10:58 AM            51,470 Columbia University Press.html
+05/27/2014  11:03 AM           568,770 Columbia University.html
+05/27/2014  10:49 AM           148,518 Comic strip.html
+05/27/2014  10:01 AM           298,668 Commander-in-chief.html
+05/27/2014  10:54 AM            44,130 Commission on Population and Development.html
+05/27/2014  09:48 AM            46,105 Committee of Five.html
+05/27/2014  09:56 AM           254,851 Common Era.html
+05/27/2014  10:20 AM           272,487 Common law.html
+05/27/2014  11:05 AM           463,199 Commonwealth of Nations.html
+05/27/2014  03:24 PM           323,393 Commonwealth realm.html
+05/27/2014  10:31 AM           314,869 Communications in India.html
+05/27/2014  11:05 AM           154,688 Communications in the United States.html
+05/27/2014  09:52 AM           364,928 Communism.html
+05/27/2014  11:03 AM           142,926 Communist Party of India.html
+05/27/2014  09:52 AM           365,052 Communist.html
+05/27/2014  10:44 AM            81,282 Community college.html
+05/27/2014  10:12 AM            67,544 Compact of Free Association.html
+05/27/2014  09:56 AM           354,588 Company rule in India.html
+05/27/2014  10:25 AM           123,889 Comprehensive Nuclear-Test-Ban Treaty.html
+05/27/2014  10:41 AM            85,387 Computer hardware.html
+05/27/2014  10:43 AM           293,513 Computer.html
+05/27/2014  11:00 AM           102,533 Confectionery.html
+05/27/2014  09:49 AM           599,001 Confederate States of America.html
+05/27/2014  10:00 AM           297,611 Confucian.html
+05/27/2014  03:03 PM           297,475 Confucianism.html
+05/27/2014  10:31 AM           105,731 Congressional Budget Office.html
+05/27/2014  10:01 AM            39,926 Congressional district.html
+05/27/2014  10:02 AM           554,972 Connecticut.html
+05/27/2014  10:17 AM           208,053 Conscription in the United States.html
+05/27/2014  10:54 AM            85,290 Conservation International.html
+05/27/2014  10:06 AM           467,723 Conservatism in the United States.html
+05/27/2014  10:14 AM            53,024 Constituency.html
+05/27/2014  09:57 AM           206,598 Constitution of India.html
+05/27/2014  02:36 PM           162,342 Constitution of Japan.html
+05/27/2014  02:36 PM           148,650 Constitutional monarchy.html
+05/27/2014  09:54 AM           183,684 Constitutional republic.html
+05/27/2014  10:01 AM            38,272 Constitutionality.html
+05/27/2014  10:32 AM            64,707 Consumer Confidence Index.html
+05/27/2014  10:22 AM           117,812 Consumer price index.html
+05/27/2014  10:30 AM            51,169 Consumer spending.html
+05/27/2014  09:52 AM           117,172 Containment.html
+05/27/2014  09:44 AM            79,482 Contiguous United States.html
+05/27/2014  09:47 AM           125,664 Continental Army.html
+05/27/2014  11:03 AM           140,136 Continental Congress.html
+05/27/2014  10:03 AM            61,760 Continental crust.html
+05/27/2014  02:46 PM            65,536 Convention of Kanagawa.html
+05/27/2014  03:21 PM           229,516 Cook Islands.html
+05/27/2014  02:38 PM           205,352 Coordinated Universal Time.html
+05/27/2014  10:28 AM           417,470 Copper.html
+05/27/2014  11:11 AM            97,547 Coral Sea Islands.html
+05/27/2014  10:59 AM           171,942 Cornel West.html
+05/27/2014  03:10 PM            55,483 Cornell University Press.html
+05/27/2014  10:45 AM           245,424 Coronary artery disease.html
+05/27/2014  10:14 AM           145,743 Corporate tax in the United States.html
+05/27/2014  09:56 AM           214,159 Corruption in India.html
+05/27/2014  10:01 AM           116,972 Corruption Perceptions Index.html
+05/27/2014  10:25 AM           239,417 Cotton.html
+05/27/2014  10:14 AM            90,425 Council of Ministers of Republic of India.html
+05/27/2014  09:53 AM           654,056 Counterculture of the 1960s.html
+05/27/2014  02:38 PM           117,501 Country code top-level domain.html
+05/27/2014  10:53 AM           286,423 Country music.html
+05/27/2014  10:10 AM           321,123 Covert United States foreign regime change actions.html
+05/27/2014  10:51 AM           124,225 Craigslist.html
+05/27/2014  10:58 AM            41,555 CRC Press.html
+05/27/2014  10:58 AM           515,971 Createspace.html
+05/27/2014  10:33 AM           395,313 Credit rating agency.html
+05/27/2014  10:14 AM            83,916 Credit rating.html
+05/27/2014  10:47 AM            78,433 Creed.html
+05/27/2014  10:48 AM           125,560 Cricket in India.html
+05/27/2014  10:49 AM           305,728 Cricket World Cup.html
+05/27/2014  10:47 AM           270,569 Cricket.html
+05/27/2014  03:11 PM            68,310 Crime in Japan.html
+05/27/2014  10:18 AM           245,286 Crime in the United States.html
+05/27/2014  11:06 AM           328,454 Criticism of the United States government.html
+05/27/2014  02:49 PM           153,961 Crown Prince Naruhito.html
+05/27/2014  11:00 AM           256,269 Cuisine of the United States.html
+05/27/2014  03:05 PM           187,723 Cultural Properties of Japan.html
+05/27/2014  09:56 AM           380,517 Culture of India.html
+05/27/2014  03:04 PM           145,585 Culture of Japan.html
+05/27/2014  10:46 AM           404,164 Culture of the United States.html
+05/27/2014  10:54 AM            32,608 Current Science.html
+05/27/2014  11:06 AM           553,560 Cyprus.html
+05/27/2014  10:48 AM           127,846 D. W. Griffith.html
+05/27/2014  10:20 AM           195,406 Dadra and Nagar Haveli.html
+05/27/2014  02:45 PM            67,955 Daimyo.html
+05/27/2014  09:57 AM           599,739 Dallas.html
+05/27/2014  10:20 AM           138,119 Daman and Diu.html
+05/27/2014  10:44 AM           147,674 Dance in India.html
+05/27/2014  11:06 AM           122,752 Dance in the United States.html
+05/27/2014  10:44 AM            52,940 Dandiya Raas.html
+05/27/2014  03:02 PM            68,223 Danka system.html
+05/27/2014  10:50 AM            95,128 Dark Horse Comics.html
+05/20/2014  01:03 PM        15,544,444 DataStore.rar
+05/20/2014  01:04 PM        19,419,597 DataStore2.zip
+05/20/2014  01:05 PM        19,667,756 DataStore3.zip
+05/20/2014  01:06 PM        16,701,102 DataStore4.zip
+05/27/2014  03:19 PM           732,009 David Cameron.html
+05/27/2014  02:38 PM           351,655 Daylight saving time.html
+05/27/2014  10:50 AM           209,609 DC Comics.html
+05/27/2014  09:43 AM            81,277 De facto.html
+05/27/2014  11:02 AM            39,729 Death Penalty Information Center.html
+05/27/2014  09:57 AM           142,456 Deccan Plateau.html
+05/27/2014  10:07 AM            65,230 Deccan Traps.html
+05/27/2014  09:54 AM            78,731 Deciduous.html
+05/27/2014  10:01 AM           120,228 Declaration of war.html
+05/27/2014  09:48 AM            70,397 Deep South.html
+05/27/2014  11:05 AM           336,885 Defense Intelligence Agency.html
+05/27/2014  09:56 AM           322,028 Deforestation.html
+05/27/2014  10:00 AM           320,899 Deist.html
+05/27/2014  02:46 PM           154,952 Dejima.html
+05/27/2014  09:58 AM           241,773 Delaware Valley.html
+05/27/2014  10:03 AM           398,759 Delaware.html
+05/27/2014  10:50 AM            56,751 Delhi Half Marathon.html
+05/27/2014  10:00 AM           140,521 Delhi Sultanate.html
+05/27/2014  10:21 AM           538,937 Delhi.html
+05/27/2014  10:01 AM            70,113 Democracy Index.html
+05/27/2014  09:55 AM           363,555 Democracy.html
+05/27/2014  02:49 PM           120,265 Democratic Party of Japan.html
+05/27/2014  11:04 AM           202,773 Demographic history of the United States.html
+05/27/2014  09:57 AM           145,505 Demographic transition.html
+05/27/2014  09:55 AM           242,500 Demographics of India.html
+05/27/2014  02:37 PM           248,038 Demographics of Japan.html
+05/27/2014  09:42 AM           412,766 Demographics of the United States.html
+05/27/2014  02:36 PM           179,733 Demonym.html
+05/27/2014  03:22 PM           611,404 Denmark.html
+05/27/2014  10:48 AM            50,641 Deodhar Trophy.html
+05/27/2014  11:11 AM           184,501 Dependent territory.html
+05/27/2014  10:17 AM           119,868 Deployments of the United States Military.html
+05/27/2014  11:02 AM            40,304 Deputy Prime Minister of India.html
+05/27/2014  02:36 PM            73,677 Deputy Prime Minister of Japan.html
+05/27/2014  10:07 AM            82,078 Deserts and xeric shrublands.html
+05/27/2014  09:58 AM           622,303 Detroit.html
+05/27/2014  09:54 AM           426,122 Devanagari.html
+05/27/2014  09:46 AM           270,468 Developed country.html
+05/27/2014  10:37 AM           237,573 Dharma.html
+05/27/2014  09:57 AM           129,740 Dholavira.html
+05/27/2014  10:47 AM            77,301 Dhoti.html
+05/27/2014  10:45 AM           261,530 Diabetes mellitus type 2.html
+05/27/2014  03:24 PM            67,148 Diarchy.html
+05/27/2014  10:08 AM           181,460 Diclofenac.html
+05/27/2014  02:41 PM           122,167 Diet of Japan.html
+05/27/2014  03:09 PM           126,657 Digital object identifier.html
+05/27/2014  11:02 AM            48,196 Directorate of Revenue Intelligence.html
+05/27/2014  11:06 AM            93,782 Discrimination in the United States.html
+05/27/2014  09:50 AM           149,410 Disfranchisement after the Reconstruction Era.html
+05/27/2014  09:46 AM           483,856 Dissolution of the Soviet Union.html
+05/27/2014  11:02 AM            61,551 District Courts of India.html
+05/27/2014  09:47 AM           625,941 District of Columbia.html
+05/27/2014  10:15 AM           414,776 Districts of India.html
+05/27/2014  03:10 PM            44,743 Districts of Japan.html
+05/27/2014  10:46 AM           304,803 Diwali.html
+05/27/2014  10:22 AM           393,378 Dmitry Medvedev.html
+05/27/2014  03:10 PM           126,716 DMOZ.html
+05/27/2014  09:54 AM           129,915 Dogri language.html
+05/27/2014  11:06 AM           312,293 Dominica.html
+05/27/2014  09:54 AM           224,535 Dominion.html
+05/27/2014  10:58 AM           206,012 Don DeLillo.html
+05/27/2014  10:45 AM           148,933 Doordarshan.html
+05/27/2014  02:54 PM           142,447 Dot-com bubble.html
+05/27/2014  10:45 AM           109,077 Dowry deaths.html
+05/27/2014  10:45 AM            87,499 Dowry law in India.html
+05/27/2014  10:45 AM           108,399 Dowry system in India.html
+05/27/2014  10:39 AM           127,404 Dravidian architecture.html
+05/27/2014  10:36 AM           240,840 Dravidian languages.html
+05/27/2014  11:00 AM            78,401 Drive-through.html
+05/27/2014  10:50 AM            63,672 Dronacharya Award.html
+05/27/2014  10:22 AM            91,709 Drug policy of the United States.html
+05/27/2014  10:52 AM           256,244 Duke Ellington.html
+05/27/2014  03:10 PM            47,658 Duke University Press.html
+05/27/2014  10:48 AM            78,238 Duleep Trophy.html
+05/27/2014  10:46 AM           291,805 Durga Puja.html
+05/27/2014  09:52 AM           114,660 Dust Bowl.html
+05/27/2014  09:41 AM            81,185 E pluribus unum.html
+05/27/2014  02:57 PM           264,584 Earthquake engineering.html
+05/27/2014  02:42 PM           246,739 Earthquakes.html
+05/27/2014  02:56 PM           189,287 Ease of doing business index.html
+05/27/2014  02:50 PM           152,876 East Asia Summit.html
+05/27/2014  02:38 PM           160,163 East Asia.html
+05/27/2014  02:53 PM            53,955 East Asian rainy season.html
+05/27/2014  02:39 PM           110,669 East China Sea.html
+05/27/2014  11:04 AM           115,646 East Coast of the United States.html
+05/27/2014  10:01 AM           262,497 East India Company.html
+05/27/2014  11:01 AM           224,854 East India.html
+05/27/2014  11:01 AM            37,194 Eastern coastal plains.html
+05/27/2014  10:03 AM           192,848 Eastern Ghats.html
+05/27/2014  02:35 PM            85,832 Eastern Japanese.html
+05/27/2014  09:59 AM           576,523 Eastern Orthodox.html
+05/27/2014  11:04 AM            84,926 Eastern United States.html
+05/27/2014  10:51 AM           280,467 EBay.html
+05/27/2014  10:33 AM            75,895 Economic depression.html
+05/27/2014  10:29 AM           120,991 Economic development in India.html
+05/27/2014  10:28 AM           256,775 Economic history of India.html
+05/27/2014  03:10 PM           159,672 Economic history of Japan.html
+05/27/2014  11:04 AM           297,967 Economic history of the United States.html
+05/27/2014  11:05 AM            91,721 Economic issues in the United States.html
+05/27/2014  09:56 AM           136,952 Economic liberalisation in India.html
+05/27/2014  11:02 AM            58,901 Economic Policy Institute.html
+05/27/2014  11:00 AM           105,256 Economy of India under the British Raj.html
+05/27/2014  09:56 AM           459,477 Economy of India.html
+05/27/2014  02:54 PM           447,970 Economy of Japan.html
+05/27/2014  09:46 AM           561,104 Economy of the United States.html
+05/27/2014  02:53 PM            31,816 Ecoregions in Japan.html
+05/27/2014  10:56 AM           317,436 Edgar Allan Poe.html
+05/27/2014  02:45 PM           526,890 Edo period.html
+05/27/2014  02:46 PM            62,314 Edo.html
+05/27/2014  10:33 AM           309,038 Education in India.html
+05/27/2014  03:04 PM           140,532 Education in Japan.html
+05/27/2014  03:04 PM            69,178 Education in the Empire of Japan.html
+05/27/2014  10:43 AM           429,383 Education in the United States.html
+05/27/2014  10:00 AM           204,585 Educational attainment in the United States.html
+05/27/2014  11:00 AM           116,954 Edward Albee.html
+05/27/2014  10:59 AM            48,356 Edward Harrigan.html
+05/27/2014  11:00 AM            89,536 Edward Steichen.html
+05/27/2014  03:02 PM            87,058 Edwin O. Reischauer.html
+05/27/2014  03:14 PM           625,974 Egypt.html
+05/27/2014  03:13 PM           102,212 Ehime Prefecture.html
+05/27/2014  10:46 AM           170,717 Eid al-Adha.html
+05/27/2014  10:46 AM           240,423 Eid ul-Fitr.html
+05/27/2014  09:54 AM           195,995 Eighth Schedule to the Constitution.html
+05/27/2014  10:52 AM            29,259 Eisenbrauns.html
+05/27/2014  10:09 AM           107,260 Election Commission of India.html
+05/27/2014  10:11 AM           165,482 Elections in India.html
+05/27/2014  03:10 PM           202,632 Elections in Japan.html
+05/27/2014  10:01 AM           345,785 Elections in the United States.html
+05/27/2014  03:24 PM           133,714 Elective monarchy.html
+05/27/2014  10:13 AM            51,147 Electoral college.html
+05/27/2014  02:55 PM           124,998 Electronics.html
+05/27/2014  03:04 PM            61,029 Elementary schools in Japan.html
+05/27/2014  09:50 AM           265,703 Ellis Island.html
+05/27/2014  10:53 AM           569,143 Elvis Presley.html
+05/27/2014  09:49 AM           291,418 Emancipation Proclamation.html
+05/27/2014  09:53 AM            68,848 Emblem of India.html
+05/27/2014  10:57 AM           263,504 Emily Dickinson.html
+05/27/2014  11:03 AM            63,563 Emmanuel Saez.html
+05/27/2014  03:09 PM           117,133 Emperor Jimmu.html
+05/27/2014  02:44 PM           118,845 Emperor Kammu.html
+05/27/2014  02:40 PM           204,235 Emperor Meiji.html
+05/27/2014  02:36 PM           151,038 Emperor of Japan.html
+05/27/2014  02:40 PM           399,649 Empire of Japan.html
+05/27/2014  10:22 AM            54,267 Employment-to-population ratio.html
+05/27/2014  02:49 PM           163,006 Empress Michiko.html
+05/27/2014  09:56 AM           162,394 Endangered Species Act.html
+05/27/2014  10:06 AM            88,484 Endemism.html
+05/27/2014  02:59 PM           147,521 Energy in Japan.html
+05/27/2014  10:36 AM           209,585 Energy in the United States.html
+05/27/2014  03:10 PM            79,710 Energy Information Administration.html
+05/27/2014  10:33 AM           157,965 Energy policy of India.html
+05/27/2014  10:36 AM           360,440 Energy policy of the United States.html
+05/27/2014  09:57 AM           264,880 English American.html
+05/27/2014  10:01 AM            61,660 English Education Act 1835.html
+05/27/2014  03:04 PM            65,638 English language education in Japan.html
+05/27/2014  09:41 AM           471,337 English language.html
+05/27/2014  10:40 AM           364,728 Enrico Fermi.html
+05/27/2014  11:00 AM            58,622 Environment of India.html
+05/27/2014  09:53 AM            79,188 Environment of the United States.html
+05/27/2014  10:05 AM            64,202 Environmental degradation.html
+05/27/2014  10:05 AM           207,734 Environmental issues in India.html
+05/27/2014  02:54 PM            89,116 Environmental issues in Japan.html
+05/27/2014  09:56 AM            84,217 Environmental issues in the United States.html
+05/27/2014  11:06 AM           173,632 Environmental movement in the United States.html
+05/27/2014  02:54 PM           162,560 Environmental Performance Index.html
+05/27/2014  09:57 AM            85,966 Eponym.html
+05/27/2014  10:04 AM           253,052 Eric Cantor.html
+05/27/2014  09:49 AM           350,719 Erie Canal.html
+05/27/2014  10:58 AM           309,664 Ernest Hemingway.html
+05/27/2014  09:59 AM           161,233 Establishment Clause.html
+05/27/2014  02:36 PM           184,472 Ethnic groups.html
+05/27/2014  03:00 PM           191,363 Ethnic issues in Japan.html
+05/27/2014  11:04 AM            98,647 Ethnic relations in India.html
+05/27/2014  03:11 PM           126,972 Etiquette in Japan.html
+05/27/2014  10:03 AM            73,835 Eurasian plate.html
+05/27/2014  09:52 AM           670,169 Europe.html
+05/27/2014  10:47 AM           313,221 European American.html
+05/27/2014  09:45 AM           181,222 European colonization of the Americas.html
+05/27/2014  02:55 PM           742,458 European Union.html
+05/27/2014  02:54 PM           174,475 Eutrophication.html
+05/27/2014  10:00 AM           322,208 Evangelical Protestant.html
+05/27/2014  09:48 AM           322,167 Evangelical.html
+05/27/2014  02:51 PM           329,116 Exclusive economic zone.html
+05/27/2014  11:04 AM           141,664 Executive Office of the President of the United States.html
+05/27/2014  02:46 PM            34,226 Expansionism.html
+05/27/2014  11:04 AM           238,322 Extreme points of the United States.html
+05/27/2014  10:57 AM           159,991 F. Scott Fitzgerald.html
+05/27/2014  10:51 AM               200 Facebook.html
+05/27/2014  11:03 AM            35,857 Facts on File.html
+05/27/2014  11:12 AM           353,197 Falkland Islands.html
+05/27/2014  10:00 AM           124,284 Family structure in the United States.html
+05/27/2014  10:02 AM           340,354 Famine in India.html
+05/27/2014  10:34 AM            43,203 Famine scales.html
+05/27/2014  11:06 AM            73,931 Fashion in the United States.html
+05/27/2014  11:00 AM           173,751 Fast food.html
+05/27/2014  11:00 AM           140,504 Fauna of India.html
+05/27/2014  10:19 AM           457,748 Federal Bureau of Investigation.html
+05/27/2014  10:02 AM            79,950 Federal district.html
+05/27/2014  11:06 AM            91,481 Federal drug policy of the United States.html
+05/27/2014  09:41 AM           219,822 Federal government of the United States.html
+05/27/2014  11:05 AM           131,040 Federal judiciary of the United States.html
+05/27/2014  11:05 AM           114,201 Federal law enforcement in the United States.html
+05/27/2014  10:01 AM            33,681 Federal law.html
+05/27/2014  03:24 PM            60,596 Federal monarchy.html
+05/27/2014  11:05 AM            74,775 Federal preemption.html
+05/27/2014  11:05 AM            38,945 Federal Reporter.html
+05/27/2014  09:44 AM            85,475 Federal republic.html
+05/27/2014  10:52 AM            35,847 Federal Research Division.html
+05/27/2014  11:02 AM            95,704 Federal Reserve Bank of St. Louis.html
+05/27/2014  11:06 AM           530,318 Federal Reserve System.html
+05/27/2014  09:50 AM           114,992 Federalism in the United States.html
+05/27/2014  09:54 AM           175,034 Federalism.html
+05/27/2014  11:03 AM            94,330 Federalist Era.html
+05/27/2014  10:13 AM           264,500 Federated States of Micronesia.html
+05/27/2014  10:11 AM           165,541 Federation.html
+05/16/2014  09:28 AM            32,796 Feeder ship.html
+05/27/2014  10:45 AM            64,924 Female foeticide in India.html
+05/27/2014  10:45 AM            89,807 Female infanticide in India.html
+05/27/2014  09:57 AM           117,851 Fertility.html
+05/27/2014  10:13 AM            54,136 Ficus benghalensis.html
+05/27/2014  10:47 AM           101,201 Field hockey in India.html
+05/27/2014  02:57 PM           219,454 Fields Medal.html
+05/27/2014  11:01 AM           418,005 FIFA World Cup.html
+05/27/2014  03:10 PM           304,847 FIFA.html
+05/27/2014  09:50 AM           201,469 Fifteenth Amendment to the United States Constitution.html
+05/27/2014  03:15 PM            74,897 Fifth East Asia Summit.html
+05/27/2014  11:07 AM           292,779 Fiji.html
+05/27/2014  05:21 PM                 0 files.txt
+05/27/2014  09:57 AM           450,646 Filipino American.html
+05/27/2014  03:00 PM            65,221 Filipinos in Japan.html
+05/27/2014  10:48 AM            33,855 Film grammar.html
+05/27/2014  10:42 AM            74,108 Filmi.html
+05/27/2014  11:06 AM           203,255 Financial position of the United States.html
+05/27/2014  03:09 PM           208,912 Financial Times.html
+05/27/2014  09:59 AM           414,301 First Amendment to the United States Constitution.html
+05/27/2014  03:15 PM            74,155 First East Asia Summit.html
+05/27/2014  10:43 AM            42,207 First grade.html
+05/27/2014  09:48 AM           125,752 First Great Awakening.html
+05/27/2014  02:40 PM           236,891 First Sino-Japanese War.html
+05/27/2014  09:50 AM           323,817 First Transcontinental Railroad.html
+05/27/2014  09:50 AM            40,601 First Transcontinental Telegraph.html
+05/27/2014  10:29 AM           130,544 Fishing in India.html
+05/27/2014  10:33 AM            64,414 Fitch Group.html
+05/27/2014  11:00 AM           117,154 Five-Year plans of India.html
+05/27/2014  09:53 AM           191,482 Flag of India.html
+05/27/2014  02:35 PM           276,629 Flag of Japan.html
+05/27/2014  09:41 AM           346,001 Flag of the United States.html
+05/27/2014  11:01 AM            98,930 Flora of India.html
+05/27/2014  09:54 AM           671,650 Florida.html
+05/27/2014  09:56 AM           241,332 Flowering plant.html
+05/27/2014  02:53 PM            72,093 Foehn wind.html
+05/27/2014  10:51 AM           329,804 Folk music.html
+05/27/2014  11:04 AM           110,163 Folklore of India.html
+05/27/2014  11:06 AM           158,421 Folklore of the United States.html
+05/27/2014  02:55 PM            91,944 Food processing.html
+05/27/2014  10:47 AM           141,323 Football in India.html
+05/27/2014  02:57 PM           292,517 Forbes Global 2000.html
+05/27/2014  09:57 AM            76,495 Foreign born.html
+05/27/2014  03:11 PM           108,429 Foreign policy of Japan.html
+05/27/2014  10:10 AM           380,218 Foreign policy of the United States.html
+05/27/2014  10:12 AM           208,781 Foreign relations of Bhutan.html
+05/27/2014  10:21 AM           778,034 Foreign relations of India.html
+05/27/2014  02:49 PM           385,297 Foreign relations of Japan.html
+05/27/2014  10:10 AM           412,187 Foreign relations of the United States.html
+05/27/2014  11:06 AM           186,028 Foreign trade of the United States.html
+05/27/2014  11:03 AM           169,583 Forestry in India.html
+05/27/2014  03:08 PM           110,487 Formula Nippon.html
+05/27/2014  02:56 PM           158,231 Fossil fuel.html
+05/27/2014  02:54 PM            72,370 Four Big Pollution Diseases of Japan.html
+05/27/2014  09:50 AM           405,652 Fourteenth Amendment to the United States Constitution.html
+05/27/2014  03:15 PM            88,285 Fourth East Asia Summit.html
+05/27/2014  09:47 AM           135,962 Fourth of July.html
+05/27/2014  03:17 PM           905,356 France.html
+05/27/2014  10:29 AM           124,176 Franchising.html
+05/27/2014  09:48 AM            72,364 Francophone.html
+05/27/2014  10:59 AM           199,583 Frank Gehry.html
+05/27/2014  10:59 AM           318,217 Frank Lloyd Wright.html
+05/27/2014  09:52 AM           788,058 Franklin D. Roosevelt.html
+05/27/2014  09:59 AM           128,180 Free Exercise Clause.html
+05/27/2014  09:59 AM           225,570 Freedom of religion in the United States.html
+05/27/2014  09:48 AM           244,548 French and Indian War.html
+05/27/2014  09:48 AM            93,058 French colonization of the Americas.html
+05/27/2014  09:59 AM            92,255 French language in the United States.html
+05/27/2014  09:59 AM           456,158 French language.html
+05/27/2014  11:00 AM           135,192 Frito-Lay.html
+05/27/2014  10:47 AM            63,223 Frontier.html
+05/27/2014  03:12 PM            98,156 Fukui Prefecture.html
+05/27/2014  03:02 PM           121,569 Fukuoka Prefecture.html
+05/27/2014  03:02 PM           199,114 Fukuoka, Fukuoka.html
+05/27/2014  03:01 PM           198,943 Fukuoka.html
+05/27/2014  02:49 PM           631,615 Fukushima Daiichi nuclear disaster.html
+05/27/2014  03:12 PM           167,229 Fukushima Prefecture.html
+05/27/2014  03:20 PM            78,811 Fumio Kishida.html
+05/27/2014  02:57 PM            41,982 Fundamental research.html
+05/27/2014  10:14 AM           165,439 Fundamental Rights in India.html
+05/27/2014  11:02 AM           202,486 Fundamental Rights, Directive Principles and Fundamental Duties of India.html
+05/27/2014  10:54 AM           157,408 Funk.html
+05/27/2014  10:21 AM            53,572 Furman v. Georgia.html
+05/27/2014  02:54 PM           126,829 Futures contract.html
+05/27/2014  03:19 PM           383,928 G-20 major economies.html
+05/27/2014  02:51 PM            78,842 G4 nations.html
+05/27/2014  11:15 AM           153,267 G7.html
+05/27/2014  02:50 PM           368,344 G8.html
+05/27/2014  11:03 AM           122,705 Gabriel Kolko.html
+05/27/2014  03:06 PM            69,710 Gagaku.html
+05/27/2014  03:11 PM            61,429 Gambling in Japan.html
+05/27/2014  03:09 PM           157,821 GameSpot.html
+05/27/2014  10:46 AM            59,107 Gandhi Jayanti.html
+05/27/2014  10:46 AM           109,129 Ganesh Chaturthi.html
+05/27/2014  10:13 AM           445,652 Ganga.html
+05/27/2014  09:57 AM           445,536 Ganges.html
+05/27/2014  09:57 AM           303,680 Gautama Buddha.html
+05/27/2014  10:32 AM           217,443 GDP per capita.html
+05/27/2014  10:14 AM           217,394 GDP.html
+05/27/2014  03:05 PM           246,738 Geisha.html
+05/27/2014  10:05 AM            38,325 General election.html
+05/27/2014  11:00 AM           141,899 General Mills.html
+05/27/2014  09:52 AM           192,431 General Secretary of the Communist Party of the Soviet Union.html
+05/27/2014  10:43 AM           213,488 Genetically modified food.html
+05/27/2014  03:06 PM            61,429 Genji Monogatari Emaki.html
+05/27/2014  02:44 PM           100,031 Genpei war.html
+05/27/2014  10:59 AM           139,029 Geographic coordinate system.html
+05/27/2014  09:55 AM           271,103 Geography of India.html
+05/27/2014  02:37 PM           142,481 Geography of Japan.html
+05/27/2014  09:42 AM           212,817 Geography of the United States.html
+05/27/2014  10:54 AM            65,634 Geological Society of London.html
+05/27/2014  10:02 AM           115,229 Geology of India.html
+05/27/2014  02:52 PM            48,680 Geology of Japan.html
+05/27/2014  11:00 AM           146,789 George Balanchine.html
+05/27/2014  11:00 AM           169,612 George Gershwin.html
+05/27/2014  09:47 AM           577,965 George Washington.html
+05/27/2014  09:48 AM            63,574 Georgia Colony.html
+05/27/2014  09:57 AM           371,767 German American.html
+05/27/2014  11:06 AM            98,117 German language in the United States.html
+05/27/2014  09:59 AM           412,937 German language.html
+05/27/2014  03:18 PM           752,090 Germany.html
+05/27/2014  11:07 AM           696,580 Ghana.html
+05/27/2014  10:44 AM            34,747 Ghoomar.html
+05/27/2014  11:12 AM           447,067 Gibraltar.html
+05/27/2014  03:12 PM           173,816 Gifu Prefecture.html
+05/27/2014  09:50 AM           261,348 Gilded Age.html
+05/27/2014  10:47 AM            47,793 Gilli-danda.html
+05/27/2014  02:37 PM           261,449 Gini coefficient.html
+05/27/2014  09:57 AM           531,749 Global city.html
+05/27/2014  10:31 AM           173,593 Global Competitiveness Report.html
+05/27/2014  10:16 AM           344,377 Goa.html
+05/27/2014  10:04 AM           160,108 Godavari River.html
+05/27/2014  11:01 AM           199,583 Golf.html
+05/27/2014  10:02 AM           116,473 Gondwana.html
+05/27/2014  03:09 PM            42,136 Gonzalo Garland.html
+05/27/2014  09:58 AM            58,549 Gopuram.html
+05/27/2014  10:08 AM            93,671 Governance.html
+05/27/2014  11:02 AM           114,049 Government Accountability Office.html
+05/27/2014  02:55 PM           175,257 Government debt.html
+05/27/2014  10:11 AM           159,338 Government of India.html
+05/27/2014  03:11 PM           107,942 Government of Japan.html
+05/27/2014  02:35 PM            53,738 Government Seal of Japan.html
+05/27/2014  10:57 AM            67,989 Great American Novel.html
+05/27/2014  09:54 AM           134,584 Great Basin.html
+05/27/2014  09:52 AM           124,703 Great Depression in the United States.html
+05/27/2014  09:51 AM           373,541 Great Depression.html
+05/27/2014  02:53 PM           129,786 Great Hanshin earthquake.html
+05/27/2014  09:54 AM           283,885 Great Lakes.html
+05/27/2014  09:54 AM           188,489 Great Plains.html
+05/27/2014  02:41 PM           226,779 Great power.html
+05/27/2014  09:53 AM           474,813 Great Recession.html
+05/27/2014  09:41 AM           270,828 Great Seal of the United States.html
+05/27/2014  09:58 AM           239,490 Greater Boston.html
+05/27/2014  02:48 PM           195,582 Greater East Asia Co-Prosperity Sphere.html
+05/27/2014  09:58 AM           220,604 Greater Houston.html
+05/27/2014  09:58 AM           202,873 Greater St. Louis.html
+05/27/2014  02:40 PM           179,452 Greater Tokyo Area.html
+05/27/2014  10:33 AM            89,028 Green Revolution in India.html
+05/27/2014  10:57 AM            39,491 Greenwood Publishing Group.html
+05/27/2014  10:53 AM            51,324 Gregory Possehl.html
+05/27/2014  03:22 PM           259,871 Grenada.html
+05/27/2014  02:37 PM           217,281 Gross domestic product.html
+05/27/2014  10:12 AM            76,571 Gross national income.html
+05/27/2014  10:23 AM            60,442 Gross world product.html
+05/27/2014  11:15 AM           153,415 Group of Six.html
+05/27/2014  09:50 AM           345,704 Guam.html
+05/27/2014  11:12 AM           269,876 Guernsey.html
+05/27/2014  02:50 PM            92,043 Guided missile destroyer.html
+05/27/2014  10:16 AM           410,218 Gujarat.html
+05/27/2014  10:45 AM            82,091 Gujarati cinema.html
+05/27/2014  09:54 AM           271,291 Gujarati language.html
+05/27/2014  09:56 AM           200,008 Gulf of Mexico.html
+05/27/2014  10:21 AM           391,292 Gun politics in the United States.html
+05/27/2014  10:20 AM           390,928 Gun violence in the United States.html
+05/27/2014  03:12 PM           115,891 Gunma Prefecture.html
+05/27/2014  09:58 AM           218,454 Gupta Empire.html
+05/27/2014  10:41 AM           112,215 Guru Nanak.html
+05/27/2014  11:07 AM           354,181 Guyana.html
+05/27/2014  10:02 AM           129,283 Habeas corpus in the United States.html
+05/27/2014  03:07 PM            40,712 Haikai.html
+05/27/2014  03:07 PM           132,242 Haiku.html
+05/27/2014  03:02 PM           165,279 Hamamatsu, Shizuoka.html
+05/27/2014  02:59 PM           262,605 Haneda Airport.html
+05/27/2014  09:57 AM           101,267 Harappa.html
+05/27/2014  10:58 AM            54,924 Hardboiled.html
+05/16/2014  09:33 AM           116,520 Harmandir Sahib.html
+05/27/2014  11:03 AM           126,859 Harold Bloom.html
+05/27/2014  10:54 AM           146,281 HarperCollins.html
+05/27/2014  10:05 AM           276,908 Harry Reid.html
+05/27/2014  09:58 AM           107,918 Harsha.html
+05/27/2014  10:36 AM           325,919 Hartsfield-Jackson Atlanta International Airport.html
+05/27/2014  03:07 PM           216,847 Haruki Murakami.html
+05/27/2014  10:17 AM           254,944 Haryana.html
+05/27/2014  09:43 AM           534,776 Hawaii.html
+05/27/2014  09:43 AM           213,525 Hawaiian language.html
+05/27/2014  10:26 AM           148,162 Hay.html
+05/27/2014  10:13 AM            84,388 Head of government.html
+05/27/2014  03:24 PM           347,994 Head of state.html
+05/27/2014  10:44 AM           418,010 Health care in the United States.html
+05/27/2014  10:44 AM           217,155 Health care reform in the United States.html
+05/27/2014  03:04 PM            89,283 Health care system in Japan.html
+05/27/2014  03:04 PM            65,461 Health in Japan.html
+05/27/2014  10:44 AM           330,332 Health insurance in the United States.html
+05/27/2014  10:46 AM           192,300 Health insurance.html
+05/27/2014  09:56 AM           159,206 Healthcare in India.html
+05/27/2014  11:11 AM           156,338 Heard Island and McDonald Islands.html
+05/27/2014  02:44 PM           122,270 Heian period.html
+05/27/2014  03:10 PM            65,355 Heisei period.html
+05/27/2014  11:00 AM           114,514 Henry Cowell.html
+05/27/2014  10:56 AM           302,058 Henry David Thoreau.html
+05/27/2014  10:39 AM           261,748 Henry Ford.html
+05/27/2014  11:02 AM           406,937 Henry Kissinger.html
+05/27/2014  03:24 PM            53,250 Hereditary monarchy.html
+05/27/2014  10:57 AM           213,270 Herman Melville.html
+05/27/2014  03:19 PM           212,681 Herman Van Rompuy.html
+05/27/2014  10:53 AM            34,994 Hermann Kulke.html
+05/27/2014  02:45 PM            46,027 Higashiyama period.html
+05/27/2014  10:46 AM           356,189 High blood pressure.html
+05/27/2014  10:46 AM            86,320 High blood sugar.html
+05/27/2014  10:14 AM           101,341 High Courts of India.html
+05/27/2014  10:44 AM           171,209 High school.html
+05/27/2014  03:04 PM            77,517 Higher education in Japan.html
+05/27/2014  10:43 AM           288,114 Higher education in the United States.html
+05/27/2014  02:58 PM           141,781 H-IIA.html
+05/27/2014  10:17 AM           241,390 Himachal Pradesh.html
+05/27/2014  10:03 AM           156,725 Himalayas.html
+05/27/2014  10:37 AM           173,022 Hindu mythology.html
+05/27/2014  10:37 AM           287,433 Hindu philosophy.html
+05/27/2014  10:39 AM           148,654 Hindu temple architecture.html
+05/27/2014  10:37 AM            92,157 Hindu texts.html
+05/27/2014  10:37 AM           129,821 Hindu theology.html
+05/27/2014  09:56 AM            78,156 Hinduism in India.html
+05/27/2014  03:03 PM            47,017 Hinduism in Japan.html
+05/27/2014  10:00 AM           163,796 Hinduism in the United States.html
+05/27/2014  09:57 AM           120,386 Hindus.html
+05/27/2014  09:57 AM            58,102 Hindustan.html
+05/27/2014  10:41 AM           132,887 Hindustani classical music.html
+05/27/2014  10:54 AM           337,898 Hip hop music.html
+05/27/2014  03:06 PM           224,005 Hiragana.html
+05/27/2014  03:06 PM            98,638 Hiroshige.html
+05/27/2014  03:01 PM           104,695 Hiroshima Prefecture.html
+05/27/2014  02:41 PM           217,692 Hiroshima.html
+05/27/2014  09:57 AM           543,690 Hispanic and Latino Americans.html
+05/27/2014  02:43 PM            64,633 Historic Monuments of Ancient Nara.html
+05/27/2014  09:56 AM           183,384 History of Buddhism in India.html
+05/27/2014  10:47 AM           267,682 History of chess.html
+05/27/2014  02:40 PM           316,644 History of China.html
+05/27/2014  10:47 AM           111,767 History of cotton.html
+05/27/2014  09:57 AM           419,526 History of India.html
+05/27/2014  02:36 PM           393,625 History of Japan.html
+05/27/2014  11:00 AM           182,773 History of metallurgy in the Indian subcontinent.html
+05/27/2014  11:00 AM            69,172 History of rail transport in India.html
+05/27/2014  09:59 AM           234,357 History of religion in the United States.html
+05/27/2014  09:58 AM           220,273 History of science and technology in the Indian subcontinent.html
+05/27/2014  10:42 AM           412,016 History of the internet.html
+05/27/2014  10:36 AM           125,616 History of the Jews in India.html
+05/27/2014  09:57 AM           217,629 History of the Republic of India.html
+05/27/2014  09:50 AM           398,145 History of the socialist movement in the United States.html
+05/27/2014  10:05 AM           267,191 History of the United States Republican Party.html
+05/27/2014  09:47 AM           483,076 History of the United States.html
+05/27/2014  11:04 AM           140,889 History of United States debt ceiling.html
+05/27/2014  10:47 AM            64,916 Hockey India.html
+05/27/2014  10:47 AM           181,545 Hockey World Cup.html
+05/27/2014  02:40 PM           218,782 Hokkaido.html
+05/27/2014  02:42 PM           223,888 Hokkien.html
+05/27/2014  03:12 PM            61,797 Hokuriku region.html
+05/27/2014  03:06 PM           134,092 Hokusai.html
+05/27/2014  10:46 AM           241,535 Holi.html
+05/27/2014  10:48 AM           156,114 Hollywood Sign.html
+05/27/2014  10:48 AM           175,950 Hollywood.html
+05/27/2014  10:34 AM           372,910 Homelessness in the United States.html
+05/27/2014  11:06 AM           126,015 Homeownership in the United States.html
+05/27/2014  10:44 AM           156,107 Homeschooling.html
+05/27/2014  09:57 AM           569,848 Homosexual.html
+05/27/2014  02:56 PM           408,098 Honda.html
+05/27/2014  03:03 PM           112,299 Honorific speech in Japanese.html
+05/27/2014  02:40 PM            92,232 Honshu.html
+05/27/2014  11:01 AM           224,060 Horse racing.html
+05/27/2014  10:55 AM           186,990 House music.html
+05/27/2014  09:48 AM            75,771 House of Burgesses.html
+05/27/2014  02:36 PM           117,814 House of Councillors.html
+05/27/2014  02:49 PM           156,305 House of Representatives of Japan.html
+05/27/2014  10:33 AM           273,413 Household income in the United States.html
+05/27/2014  09:46 AM           107,305 Household income.html
+05/27/2014  02:52 PM           113,951 Housing in Japan.html
+05/27/2014  09:57 AM           553,597 Houston.html
+05/27/2014  11:02 AM           227,297 Howard Zinn.html
+05/27/2014  11:00 AM           210,380 Hoysala Empire.html
+05/27/2014  10:59 AM            99,165 Hudson River School.html
+05/27/2014  02:37 PM           539,462 Human Development Index.html
+05/27/2014  11:02 AM           162,790 Human rights in India.html
+05/27/2014  03:11 PM           202,072 Human rights in Japan.html
+05/27/2014  11:07 AM           523,144 Human rights in the United States.html
+05/27/2014  11:02 AM           145,427 Human Rights Watch.html
+05/27/2014  02:53 PM           414,905 Humid continental climate.html
+05/27/2014  09:54 AM           415,068 Humid continental.html
+05/27/2014  09:54 AM           210,229 Humid subtropical climate.html
+05/27/2014  02:53 PM           210,412 Humid subtropical.html
+05/27/2014  10:56 AM            41,750 Humorist.html
+05/27/2014  02:43 PM           177,103 Hunter-gatherer.html
+05/27/2014  02:55 PM           257,108 Hybrid vehicle.html
+05/27/2014  10:35 AM           641,969 Hyderabad, India.html
+05/27/2014  02:59 PM            95,931 Hydropower.html
+05/27/2014  03:12 PM           114,615 Ibaraki Prefecture.html
+05/27/2014  10:42 AM           292,815 IBM.html
+05/27/2014  11:01 AM           346,487 Ice hockey.html
+05/27/2014  10:00 AM           395,039 Idaho.html
+05/27/2014  03:05 PM            69,927 Ikebana.html
+05/27/2014  09:57 AM           409,733 Illegal immigration to the United States.html
+05/27/2014  09:49 AM            95,024 Illinois and Michigan Canal.html
+05/27/2014  10:03 AM           544,425 Illinois.html
+05/27/2014  10:50 AM            93,663 Image Comics.html
+05/27/2014  09:57 AM            97,421 Immigration and Nationality Act of 1965.html
+05/27/2014  09:45 AM           435,870 Immigration to the United States.html
+05/27/2014  03:00 PM           364,850 Immigration.html
+05/27/2014  10:42 AM           116,947 Impact factor.html
+05/27/2014  10:01 AM           102,503 Impeachment.html
+05/27/2014  03:10 PM           168,231 Imperial Japanese Army.html
+05/27/2014  02:35 PM            77,812 Imperial Seal of Japan.html
+05/27/2014  09:41 AM           104,829 In God we trust.html
+05/27/2014  09:50 AM           235,626 Incandescent light bulb.html
+05/27/2014  10:18 AM           340,494 Incarceration in the United States.html
+05/27/2014  11:03 AM           111,652 Income in India.html
+05/27/2014  10:33 AM           128,018 Income in the United States.html
+05/27/2014  09:46 AM           598,012 Income inequality in the United States.html
+05/27/2014  10:32 AM           121,741 Income tax.html
+05/27/2014  09:48 AM           171,122 Indentured servant.html
+05/27/2014  11:05 AM           102,586 Independent agencies of the United States government.html
+05/27/2014  10:14 AM            83,194 Independent judiciary.html
+05/27/2014  03:08 PM            54,497 Index of Japan-related articles.html
+05/27/2014  11:01 AM           243,617 Index of United States-related articles.html
+05/27/2014  10:22 AM            81,415 India and the Non-Aligned Movement.html
+05/27/2014  10:47 AM           114,958 India Davis Cup team.html
+05/27/2014  10:02 AM           198,252 India in World War II.html
+05/27/2014  10:50 AM           202,396 India national basketball team.html
+05/27/2014  10:48 AM           377,581 India national cricket team.html
+05/27/2014  02:50 PM           788,022 India.html
+05/16/2014  04:35 PM           779,746 india1.html
+05/27/2014  10:54 AM            50,168 Indian Academy of Sciences.html
+05/27/2014  10:28 AM           483,143 Indian Air Force.html
+05/27/2014  09:57 AM           313,277 Indian American.html
+05/27/2014  10:21 AM           427,661 Indian Armed Forces.html
+05/27/2014  10:02 AM           229,410 Indian Army during World War I.html
+05/27/2014  10:26 AM           336,560 Indian Army.html
+05/27/2014  09:58 AM           204,333 Indian astronomy.html
+05/27/2014  10:25 AM           189,312 Indian Ballistic Missile Defense Program.html
+05/27/2014  11:04 AM            72,268 Indian classical dance.html
+05/27/2014  10:41 AM            85,449 Indian classical music.html
+05/27/2014  10:28 AM           146,533 Indian Coast Guard.html
+05/27/2014  11:00 AM            48,061 Indian Councils Act 1909.html
+05/27/2014  11:04 AM           448,027 Indian cuisine.html
+05/27/2014  09:53 AM           177,246 Indian English.html
+05/27/2014  10:39 AM            74,216 Indian epic poetry.html
+05/27/2014  11:03 AM            50,784 Indian fast food.html
+05/27/2014  10:42 AM            62,903 Indian folk music.html
+05/15/2014  05:30 PM            56,616 Indian general election 1957.html
+05/15/2014  05:30 PM            59,399 Indian general election 1962.html
+05/15/2014  05:30 PM           162,396 Indian general election 2004.html
+05/15/2014  05:30 PM           307,318 Indian general election 2009.html
+05/27/2014  10:11 AM            56,552 Indian general election, 1957.html
+05/27/2014  10:11 AM            59,318 Indian general election, 1962.html
+05/27/2014  10:10 AM           162,322 Indian general election, 2004.html
+05/27/2014  10:10 AM           307,729 Indian general election, 2009.html
+05/27/2014  10:50 AM           112,272 Indian Grand Prix.html
+05/27/2014  09:54 AM           283,194 Indian independence movement.html
+05/27/2014  11:04 AM           229,958 Indian literature.html
+05/27/2014  10:59 AM           164,251 Indian maritime history.html
+05/27/2014  10:47 AM           217,476 Indian martial arts.html
+05/27/2014  10:50 AM            49,837 Indian Masters.html
+05/27/2014  09:58 AM           339,847 Indian mathematics.html
+05/27/2014  10:12 AM            69,134 Indian national calendar.html
+05/27/2014  10:01 AM           287,097 Indian National Congress.html
+05/27/2014  11:02 AM           123,150 Indian nationalism.html
+05/27/2014  10:27 AM           359,897 Indian Navy.html
+05/27/2014  09:55 AM           191,389 Indian Ocean.html
+05/27/2014  10:22 AM           179,736 Indian Peace Keeping Force.html
+05/27/2014  10:13 AM           188,961 Indian Peafowl.html
+05/27/2014  09:54 AM           162,395 Indian people.html
+05/27/2014  10:02 AM            83,308 Indian Plate.html
+05/27/2014  10:48 AM           221,994 Indian Premier League.html
+05/27/2014  10:33 AM           292,712 Indian Railways.html
+05/27/2014  10:01 AM           429,211 Indian Rebellion of 1857.html
+05/27/2014  10:38 AM           400,996 Indian religions.html
+05/27/2014  09:55 AM           258,309 Indian rupee.html
+05/27/2014  11:00 AM           306,326 Indian Space Research Organisation.html
+05/27/2014  09:55 AM            57,601 Indian Standard Time.html
+05/27/2014  09:55 AM           101,085 Indian subcontinent.html
+05/27/2014  10:39 AM            49,132 Indian vernacular architecture.html
+05/27/2014  09:48 AM           263,798 Indian Wars.html
+05/27/2014  10:08 AM           139,249 Indian White-rumped Vulture.html
+05/27/2014  11:04 AM            54,779 Indian wine.html
+05/27/2014  10:58 AM            33,286 Indiana University Press.html
+05/27/2014  10:03 AM           514,112 Indiana.html
+05/27/2014  10:24 AM           175,074 India-Soviet Union relations.html
+05/27/2014  10:10 AM           358,713 Indira Gandhi.html
+05/27/2014  11:01 AM            35,169 Individual sport.html
+05/27/2014  10:36 AM           255,546 Indo-Aryan languages.html
+05/27/2014  09:57 AM           353,150 Indo-Aryan migration.html
+05/27/2014  10:02 AM            60,689 Indo-Australian Plate.html
+05/27/2014  09:57 AM            83,246 Indo-Gangetic Plain.html
+05/27/2014  10:39 AM            46,553 Indo-Islamic architecture.html
+05/27/2014  10:06 AM           100,049 Indomalaya ecozone.html
+05/27/2014  03:16 PM           420,827 Indonesia.html
+05/27/2014  10:22 AM           278,177 Indo-Pakistani relations.html
+05/27/2014  10:22 AM           150,316 Indo-Pakistani War of 1947.html
+05/27/2014  10:22 AM           311,126 Indo-Pakistani War of 1965.html
+05/27/2014  10:23 AM           341,921 Indo-Pakistani War of 1971.html
+05/27/2014  10:02 AM           218,058 Indo-Pakistani wars and conflicts.html
+05/27/2014  10:39 AM           117,056 Indo-Saracenic Revival architecture.html
+05/27/2014  11:02 AM            70,572 Indo-Tibetan Border Police.html
+05/27/2014  09:57 AM           206,431 Indus River.html
+05/27/2014  09:55 AM           254,444 Indus Valley Civilisation.html
+05/27/2014  09:57 AM           254,243 Indus Valley Civilization.html
+05/27/2014  02:57 PM           112,326 Industrial robot.html
+05/27/2014  02:42 PM           249,888 Infant mortality.html
+05/27/2014  10:33 AM           235,437 Inflation.html
+05/27/2014  10:57 AM            35,698 Infobase Publishing.html
+05/27/2014  10:31 AM            72,417 Information technology in India.html
+05/27/2014  10:25 AM           203,127 INS Vikramaditya.html
+05/27/2014  10:54 AM            53,118 Institute for Defence Studies and Analyses.html
+05/27/2014  03:09 PM           145,023 Institute of Space and Astronautical Science.html
+05/27/2014  09:44 AM           126,724 Insular area.html
+05/27/2014  11:06 AM           117,658 Insurance in the United States.html
+05/27/2014  10:02 AM           188,820 Insurgency in Jammu and Kashmir.html
+05/27/2014  10:02 AM            93,084 Insurgency in Northeast India.html
+05/27/2014  10:41 AM           559,314 Intel.html
+05/27/2014  10:26 AM           190,504 International Atomic Energy Agency.html
+05/27/2014  03:09 PM            50,238 International Futures.html
+05/27/2014  02:48 PM           231,560 International Military Tribunal for the Far East.html
+05/27/2014  03:09 PM           347,147 International Monetary Fund.html
+05/27/2014  11:03 AM           102,371 International rankings of India.html
+05/27/2014  03:11 PM           100,609 International rankings of Japan.html
+05/27/2014  11:07 AM            81,090 International rankings of the United States.html
+05/27/2014  03:09 PM            33,330 International Road Assessment Program.html
+05/27/2014  02:57 PM           850,699 International Space Station.html
+05/27/2014  03:09 PM           152,402 International Standard Book Number.html
+05/27/2014  10:57 AM           103,868 International Standard Serial Number.html
+05/16/2014  09:28 AM           160,946 International trade.html
+05/27/2014  10:54 AM           147,802 International Union for Conservation of Nature.html
+05/27/2014  09:53 AM           378,498 Internet.html
+05/27/2014  09:48 AM           520,257 Interracial marriage.html
+05/27/2014  09:53 AM           300,611 Interstate highway system.html
+05/27/2014  10:38 AM           204,758 Invention of the telephone.html
+05/27/2014  10:03 AM           524,782 Iowa.html
+05/27/2014  10:21 AM           625,050 Iran.html
+05/27/2014  10:48 AM            51,852 Irani Trophy.html
+05/27/2014  02:52 PM           958,264 Iraq War.html
+05/27/2014  03:08 PM           138,427 IRB Pacific Nations Cup.html
+05/27/2014  09:57 AM           419,291 Irish American.html
+05/27/2014  09:57 AM           157,521 Iron Age.html
+05/27/2014  09:59 AM           181,958 Irreligion.html
+05/27/2014  11:00 AM           262,319 Irving Berlin.html
+05/27/2014  11:00 AM           117,873 Isadora Duncan.html
+05/27/2014  03:05 PM           152,877 Ise Grand Shrine.html
+05/27/2014  03:12 PM           106,316 Ishikawa Prefecture.html
+05/27/2014  09:56 AM           478,248 Islam in India.html
+05/27/2014  03:03 PM           108,372 Islam in Japan.html
+05/27/2014  10:00 AM           382,650 Islam in the United States.html
+05/27/2014  02:38 PM            70,648 Island country.html
+05/27/2014  11:12 AM           319,658 Isle of Man.html
+05/27/2014  02:38 PM           107,830 ISO 3166.html
+05/27/2014  02:38 PM           316,825 ISO 4217.html
+05/27/2014  03:14 PM           897,263 Israel.html
+05/27/2014  10:47 AM           365,727 ISSF World Shooting Championships.html
+05/27/2014  11:00 AM           331,310 Italian cuisine.html
+05/27/2014  11:06 AM            68,457 Italian language in the United States.html
+05/27/2014  03:18 PM           721,663 Italy.html
+05/27/2014  03:02 PM            83,045 Itsukushima Shrine.html
+05/27/2014  03:12 PM           138,429 Iwate Prefecture.html
+05/27/2014  03:08 PM           238,054 J. League.html
+05/27/2014  10:59 AM           196,035 Jackson Pollock.html
+05/27/2014  09:49 AM           102,737 Jacksonian democracy.html
+05/27/2014  10:00 AM           242,441 Jain.html
+05/27/2014  03:22 PM           410,711 Jamaica.html
+05/27/2014  10:01 AM           133,598 James Broun-Ramsay, 1st Marquess of Dalhousie.html
+05/27/2014  10:54 AM           366,736 James Brown.html
+05/27/2014  10:37 AM           104,596 James Irwin.html
+05/27/2014  10:59 AM           118,762 James M. Buchanan.html
+05/27/2014  09:48 AM           176,318 Jamestown, Virginia.html
+05/27/2014  10:17 AM           307,986 Jammu and Kashmir.html
+05/27/2014  09:53 AM           130,398 Jana Gana Mana.html
+05/27/2014  10:10 AM            47,989 Janata Dal.html
+05/27/2014  10:10 AM           139,047 Janata Party.html
+05/27/2014  02:58 PM           270,970 Japan Aerospace Exploration Agency.html
+05/27/2014  02:52 PM           124,455 Japan Air Self-Defense Force.html
+05/27/2014  02:47 PM            92,383 Japan during World War I.html
+05/27/2014  02:52 PM           116,514 Japan Ground Self-Defense Force.html
+05/27/2014  02:52 PM           202,340 Japan Maritime Self-Defense Force.html
+05/27/2014  03:09 PM            68,979 Japan National Tourism Organization.html
+05/27/2014  02:59 PM           115,210 Japan Railways Group.html
+05/27/2014  02:50 PM           203,281 Japan Self-Defense Forces.html
+05/27/2014  02:38 PM            63,312 Japan Standard Time.html
+05/27/2014  03:18 PM           598,036 Japan.html
+05/27/2014  03:10 PM            73,456 Japanese addressing system.html
+05/27/2014  03:05 PM            89,852 Japanese aesthetics.html
+05/27/2014  02:52 PM            51,757 Japanese archipelago.html
+05/27/2014  03:05 PM           285,793 Japanese architecture.html
+05/27/2014  02:44 PM           203,116 Japanese art.html
+05/27/2014  02:49 PM           153,187 Japanese asset price bubble.html
+05/27/2014  03:00 PM           214,135 Japanese Brazilian.html
+05/27/2014  03:05 PM           213,884 Japanese Buddhist architecture.html
+05/27/2014  03:05 PM           101,952 Japanese calligraphy.html
+05/27/2014  03:07 PM           292,809 Japanese cuisine.html
+05/27/2014  02:35 PM            85,454 Japanese dialects.html
+05/27/2014  02:48 PM           221,529 Japanese diaspora.html
+05/27/2014  02:38 PM           187,800 Japanese era name.html
+05/27/2014  02:57 PM           141,300 Japanese Experiment Module.html
+05/27/2014  03:02 PM           123,533 Japanese festivals.html
+05/27/2014  03:11 PM           110,598 Japanese folklore.html
+05/27/2014  03:11 PM            80,544 Japanese folktales.html
+05/27/2014  03:11 PM            33,119 Japanese games.html
+05/27/2014  03:05 PM           315,173 Japanese garden.html
+05/27/2014  03:11 PM           315,337 Japanese gardens.html
+05/27/2014  02:49 PM           185,810 Japanese general election, 2012.html
+05/27/2014  02:54 PM            56,748 Japanese giant salamander.html
+05/27/2014  03:04 PM            50,823 Japanese handicrafts.html
+05/27/2014  02:47 PM           163,364 Japanese invasion of French Indochina.html
+05/27/2014  02:52 PM            65,259 Japanese Iraq Reconstruction and Support Group.html
+05/27/2014  03:05 PM            40,851 Japanese lacquerware.html
+05/27/2014  02:36 PM           264,581 Japanese language.html
+05/27/2014  02:43 PM           159,494 Japanese literature.html
+05/27/2014  02:53 PM           142,057 Japanese macaque.html
+05/27/2014  03:05 PM           232,091 Japanese martial arts.html
+05/27/2014  02:46 PM           115,116 Japanese militarism.html
+05/27/2014  02:42 PM            82,334 Japanese missions to Imperial China.html
+05/27/2014  03:12 PM           166,825 Japanese mythology.html
+05/27/2014  03:12 PM           177,850 Japanese name.html
+05/27/2014  03:03 PM            77,738 Japanese new religions.html
+05/27/2014  03:02 PM            85,586 Japanese New Year.html
+05/27/2014  03:07 PM            34,163 Japanese noodles.html
+05/27/2014  03:05 PM            97,736 Japanese painting.html
+05/27/2014  02:43 PM            84,863 Japanese Paleolithic.html
+05/27/2014  02:36 PM           195,022 Japanese people.html
+05/27/2014  03:00 PM            82,143 Japanese Peruvian.html
+05/27/2014  02:44 PM           169,600 Japanese poetry.html
+05/27/2014  03:04 PM            53,560 Japanese popular culture.html
+05/27/2014  02:48 PM            82,455 Japanese post-war economic miracle.html
+05/27/2014  03:04 PM            90,694 Japanese pottery and porcelain.html
+05/27/2014  02:54 PM           135,618 Japanese raccoon dog.html
+05/27/2014  03:07 PM            99,138 Japanese regional cuisine.html
+05/27/2014  03:07 PM            54,735 Japanese rice.html
+05/27/2014  03:05 PM            66,171 Japanese sculpture.html
+05/27/2014  03:05 PM           200,156 Japanese sword.html
+05/27/2014  03:05 PM           168,882 Japanese tea ceremony.html
+05/27/2014  03:05 PM            51,704 Japanese traditional dance.html
+05/27/2014  03:05 PM            54,149 Japanese traditional dolls.html
+05/27/2014  02:48 PM           430,379 Japanese war crimes.html
+05/27/2014  02:56 PM            49,940 Japanese work environment.html
+05/27/2014  03:03 PM           120,395 Japanese writing system.html
+05/27/2014  02:38 PM           251,916 Japanese yen.html
+05/27/2014  03:04 PM            96,510 Japonic languages.html
+05/27/2014  03:06 PM            88,959 Japonism.html
+05/27/2014  10:00 AM           181,881 Java.html
+05/27/2014  10:01 AM           407,067 Jawaharlal Nehru.html
+05/27/2014  10:52 AM           466,763 Jazz.html
+05/27/2014  11:00 AM           152,344 Jerome Robbins.html
+05/27/2014  11:13 AM           378,279 Jersey.html
+05/27/2014  10:32 AM           271,906 Jharkand.html
+05/27/2014  10:17 AM           271,767 Jharkhand.html
+05/27/2014  11:03 AM            47,628 JHU Press.html
+05/27/2014  02:53 PM            46,834 Jigokudani Monkey Park.html
+05/27/2014  09:50 AM           192,385 Jim Crow laws.html
+05/16/2014  09:30 AM            43,988 Jivya Soma Mashe.html
+05/27/2014  09:42 AM           785,578 Joe Biden.html
+05/27/2014  10:58 AM            83,585 John Barth.html
+05/27/2014  09:42 AM           360,840 John Boehner.html
+05/27/2014  11:00 AM           253,370 John Cage.html
+05/27/2014  10:59 AM           209,452 John Dewey.html
+05/27/2014  03:00 PM            40,949 John Lie.html
+05/27/2014  10:02 AM           270,537 John Marshall.html
+05/27/2014  10:59 AM           171,788 John Rawls.html
+05/27/2014  09:42 AM           250,376 John Roberts.html
+05/27/2014  10:40 AM           348,329 John von Neumann.html
+05/27/2014  10:49 AM           265,323 John Wayne.html
+05/27/2014  10:15 AM           198,225 Joint Chiefs of Staff.html
+05/27/2014  02:52 PM            82,061 Joint Strike Fighter program.html
+05/27/2014  03:14 PM           511,467 Jordan.html
+05/27/2014  10:54 AM            31,761 Joseph E. Schwartzberg.html
+05/27/2014  11:03 AM            40,289 Journal of Cold War Studies.html
+05/27/2014  03:06 PM           389,076 J-pop.html
+05/27/2014  03:03 PM           477,707 Judaism.html
+05/27/2014  10:02 AM            55,515 Judicial review.html
+05/27/2014  02:49 PM            78,578 Judicial system of Japan.html
+05/27/2014  10:14 AM            96,033 Judiciary.html
+05/27/2014  10:59 AM           210,401 Judith Butler.html
+05/27/2014  10:53 AM            37,119 Judith M. Brown.html
+05/27/2014  03:07 PM           287,257 Judo.html
+05/27/2014  02:56 PM           176,092 Junichiro Koizumi.html
+05/27/2014  10:20 AM           212,671 Jury trial.html
+05/27/2014  10:03 AM           145,984 Jyotirlinga.html
+05/27/2014  10:47 AM           143,154 Kabaddi.html
+05/27/2014  10:41 AM            75,454 Kabir.html
+05/27/2014  03:05 PM           125,939 Kabuki.html
+05/27/2014  03:13 PM           110,779 Kagawa Prefecture.html
+05/27/2014  03:13 PM           123,644 Kagoshima Prefecture.html
+05/27/2014  11:00 AM            85,386 Kakatiya dynasty.html
+05/27/2014  10:47 AM           174,793 Kalarippayattu.html
+05/27/2014  09:57 AM            92,025 Kalibangan.html
+05/27/2014  02:45 PM            95,928 Kamakura period.html
+05/27/2014  02:45 PM            81,628 Kamakura shogunate.html
+05/27/2014  02:44 PM           222,017 Kamakura, Kanagawa.html
+05/27/2014  10:40 AM           140,992 Kamasutra.html
+05/27/2014  03:03 PM           103,586 Kana.html
+05/27/2014  03:01 PM           159,995 Kanagawa Prefecture.html
+05/27/2014  03:02 PM           160,124 Kanagawa.html
+05/27/2014  02:40 PM           305,922 Kanji.html
+05/27/2014  09:54 AM           254,433 Kannada language.html
+05/27/2014  09:58 AM           120,507 Kannauj.html
+05/27/2014  03:00 PM           208,509 Kansai International Airport.html
+05/27/2014  03:12 PM           104,144 Kansai region.html
+05/27/2014  10:03 AM           398,252 Kansas.html
+05/27/2014  03:06 PM           113,399 Karaoke.html
+05/27/2014  03:07 PM           273,620 Karate.html
+05/27/2014  10:23 AM           349,962 Kargil War.html
+05/27/2014  10:37 AM           176,503 Karma.html
+05/27/2014  10:17 AM           386,137 Karnataka.html
+05/27/2014  10:23 AM           475,907 Kashmir conflict.html
+05/27/2014  10:51 AM           250,952 Kashmir.html
+05/27/2014  09:54 AM           156,452 Kashmiri language.html
+05/27/2014  10:05 AM            43,572 Katabatic wind.html
+05/27/2014  03:07 PM           242,808 Katakana.html
+05/27/2014  10:44 AM            91,279 Kathak.html
+05/27/2014  10:44 AM           138,979 Kathakali.html
+05/27/2014  10:04 AM           137,655 Kaveri River.html
+05/27/2014  03:12 PM           154,002 Kawaii.html
+05/27/2014  03:02 PM           142,737 Kawasaki, Kanagawa.html
+05/27/2014  10:03 AM           109,484 Kedarnath Temple.html
+05/27/2014  02:59 PM           125,452 Keio Corporation.html
+05/27/2014  02:56 PM           106,566 Keiretsu.html
+05/27/2014  11:00 AM           179,260 Kellogg Company.html
+05/27/2014  03:07 PM           206,057 Kendo.html
+05/27/2014  02:45 PM            94,454 Kenmu Restoration.html
+05/27/2014  10:02 AM           514,426 Kentucky.html
+05/27/2014  11:07 AM           490,401 Kenya.html
+05/27/2014  10:18 AM           810,301 Kerala.html
+05/27/2014  10:58 AM            34,658 Kessinger Publishing.html
+05/27/2014  10:47 AM            41,216 Kho kho.html
+05/27/2014  02:35 PM           214,582 Kimigayo.html
+05/27/2014  03:04 PM           158,082 Kimono.html
+05/27/2014  10:43 AM           249,019 Kindergarten.html
+05/27/2014  10:39 AM           171,050 Kinetoscope.html
+05/27/2014  09:42 AM           186,228 Kingdom of Great Britain.html
+05/27/2014  03:22 PM           237,152 Kingdom of the Netherlands.html
+05/27/2014  03:04 PM            98,149 Kinkaku-ji.html
+05/27/2014  02:59 PM           143,787 Kintetsu.html
+05/27/2014  11:07 AM           247,293 Kiribati.html
+05/27/2014  02:45 PM            37,534 Kiri-sute gomen.html
+05/27/2014  03:01 PM           147,502 Kitakyushu.html
+05/27/2014  03:01 PM           214,940 Kobe.html
+05/27/2014  03:10 PM           216,190 Kofun period.html
+05/27/2014  03:06 PM            87,025 Kojiki.html
+05/27/2014  02:46 PM            36,822 Kokugaku.html
+05/27/2014  10:34 AM           641,851 Kolkata.html
+05/27/2014  09:54 AM           339,737 Konkani language.html
+05/27/2014  02:43 PM           294,939 Korea.html
+05/27/2014  09:59 AM           267,762 Korean language.html
+05/27/2014  09:52 AM           853,823 Korean War.html
+05/27/2014  02:36 PM           153,622 Koreans in Japan.html
+05/27/2014  10:04 AM           156,106 Kosi River.html
+05/27/2014  10:04 AM           161,353 Krishna River.html
+05/27/2014  10:44 AM            57,475 Kuchipudi.html
+05/27/2014  10:06 AM           132,618 Kudremukh.html
+05/27/2014  02:49 PM            27,847 Kujikata Osadamegaki.html
+05/27/2014  03:02 PM           107,542 Kumamoto Prefecture.html
+05/27/2014  03:02 PM           117,482 Kumamoto.html
+05/27/2014  03:04 PM            38,847 Kunigami language.html
+05/27/2014  02:51 PM           176,493 Kuril Islands dispute.html
+05/27/2014  10:47 AM            64,675 Kurta.html
+05/27/2014  03:14 PM           459,077 Kuwait.html
+05/27/2014  03:02 PM           123,923 Kyoto Prefecture.html
+05/27/2014  02:54 PM           534,504 Kyoto Protocol.html
+05/27/2014  03:04 PM           176,254 Kyoto University.html
+05/27/2014  02:45 PM           267,703 Kyoto, Kyoto.html
+05/27/2014  02:44 PM           267,556 Kyoto.html
+05/27/2014  02:40 PM            83,457 Kyushu.html
+05/27/2014  10:22 AM            69,084 Labor force.html
+05/27/2014  09:50 AM           268,178 Labor history of the United States.html
+05/27/2014  03:11 PM            72,252 Labor market of Japan.html
+05/27/2014  10:30 AM            66,816 Labor productivity.html
+05/27/2014  10:30 AM           162,640 Labor unions in the United States.html
+05/27/2014  10:30 AM           170,357 Labour in India.html
+05/27/2014  11:01 AM           188,412 Lacrosse.html
+05/27/2014  10:05 AM           221,508 Lakshadweep.html
+05/27/2014  10:09 AM           195,717 Lal Bahadur Shastri.html
+05/27/2014  10:00 AM            71,330 Landmark decision.html
+05/27/2014  09:59 AM            54,032 Language Spoken at Home.html
+05/27/2014  09:56 AM           196,879 Languages of India.html
+05/27/2014  03:03 PM            53,386 Languages of Japan.html
+05/27/2014  09:59 AM           419,040 Languages of the United States.html
+05/27/2014  03:16 PM           424,885 Laos.html
+05/27/2014  03:03 PM           148,977 Latin alphabet.html
+05/27/2014  09:57 AM           527,520 Latin America.html
+05/27/2014  10:47 AM           196,438 Latin American culture.html
+05/27/2014  03:00 PM           243,402 Latin Americans.html
+05/27/2014  09:41 AM           302,026 Latin language.html
+05/27/2014  09:46 AM           301,851 Latin.html
+05/27/2014  10:07 AM            74,014 Laurasia.html
+05/27/2014  10:44 AM            66,723 Lavani.html
+05/27/2014  10:24 AM           185,750 Law enforcement in India.html
+05/27/2014  03:11 PM           176,408 Law enforcement in Japan.html
+05/27/2014  10:18 AM           180,166 Law enforcement in the United States.html
+05/27/2014  10:11 AM           116,375 Law of India.html
+05/27/2014  02:49 PM           137,766 Law of Japan.html
+05/27/2014  10:01 AM           193,065 Law of the United States.html
+05/27/2014  10:28 AM           375,734 Lead.html
+05/27/2014  10:04 AM           212,920 Leaders of the United States House of Representatives.html
+05/27/2014  02:47 PM           480,877 League of Nations.html
+05/27/2014  10:30 AM           168,252 Legal right.html
+05/27/2014  10:14 AM            68,140 Legislature.html
+05/27/2014  09:52 AM           162,550 Lend-Lease.html
+05/27/2014  11:03 AM            46,199 Les Daniels.html
+05/27/2014  03:22 PM           301,832 Lesotho.html
+05/27/2014  10:01 AM            66,732 LGBT rights in Alaska.html
+05/27/2014  10:01 AM            83,963 LGBT rights in Colorado.html
+05/27/2014  03:11 PM           106,528 LGBT rights in Japan.html
+05/27/2014  10:01 AM            83,781 LGBT rights in Missouri.html
+05/27/2014  10:01 AM            70,786 LGBT rights in Ohio.html
+05/27/2014  11:07 AM           608,625 LGBT rights in the United States.html
+05/27/2014  03:20 PM           178,270 Li Keqiang.html
+05/27/2014  02:51 PM           137,812 Liancourt Rocks.html
+05/27/2014  10:12 AM           250,541 Liberal democracy.html
+05/27/2014  10:30 AM           395,589 Liberia.html
+05/27/2014  10:52 AM            37,121 Library of Congress Country Studies.html
+05/27/2014  10:52 AM           230,259 Library of Congress.html
+05/27/2014  10:30 AM            56,388 Licence Raj.html
+05/27/2014  03:22 PM           295,783 Liechtenstein.html
+05/27/2014  02:42 PM           190,348 Life expectancy.html
+05/27/2014  10:35 AM           314,739 Light rail in the United States.html
+05/27/2014  10:59 AM           322,901 Linguistic history of the Indian subcontinent.html
+05/27/2014  03:00 PM           235,619 Linguistics.html
+05/27/2014  10:42 AM           379,755 Linux.html
+05/27/2014  10:24 AM           178,682 Liquefied natural gas.html
+05/27/2014  10:35 AM           166,362 List of airlines of the United States.html
+05/27/2014  10:44 AM            73,765 List of American institutions of higher education.html
+05/27/2014  09:56 AM           362,015 List of areas in the United States National Park System.html
+05/27/2014  11:01 AM           113,315 List of beaches in India.html
+05/27/2014  11:01 AM           479,597 List of cities and towns in India.html
+05/27/2014  03:00 PM           425,331 List of cities in Japan by population.html
+05/27/2014  03:01 PM           425,096 List of cities in Japan.html
+05/27/2014  11:03 AM           161,527 List of companies of India.html
+05/27/2014  11:05 AM           214,600 List of companies of the United States by state.html
+05/27/2014  11:05 AM           255,179 List of companies of the United States.html
+05/27/2014  02:37 PM           399,780 List of countries and dependencies by area.html
+05/27/2014  09:55 AM           400,106 List of countries and outlying territories by total area.html
+05/27/2014  09:44 AM           399,987 List of countries by area.html
+05/27/2014  09:46 AM           147,342 List of countries by average wage.html
+05/27/2014  10:36 AM           154,847 List of countries by energy consumption per capita.html
+05/27/2014  10:24 AM           133,594 List of countries by exports per capita.html
+05/27/2014  02:41 PM           202,031 List of countries by exports.html
+05/27/2014  02:37 PM           605,902 List of countries by Human Development Index.html
+05/27/2014  02:41 PM           204,904 List of countries by imports.html
+05/27/2014  02:37 PM           234,924 List of countries by income equality.html
+05/27/2014  10:34 AM           256,619 List of countries by inequality-adjusted HDI.html
+05/27/2014  10:30 AM           178,742 List of countries by labour force.html
+05/27/2014  02:41 PM           195,749 List of countries by military expenditures.html
+05/27/2014  10:37 AM           417,005 List of countries by Muslim population.html
+05/27/2014  02:42 PM           183,449 List of countries by natural disaster risk.html
+05/27/2014  09:56 AM           322,799 List of countries by number of troops.html
+05/27/2014  02:59 PM           172,691 List of countries by oil imports.html
+05/27/2014  02:52 PM           388,728 List of countries by population density.html
+05/27/2014  02:37 PM           293,050 List of countries by population.html
+05/27/2014  10:30 AM           118,793 List of countries by real GDP growth rate.html
+05/27/2014  02:56 PM           181,207 List of countries by tax revenue as percentage of GDP.html
+05/27/2014  02:55 PM           241,797 List of countries by unemployment rate.html
+05/27/2014  03:20 PM           155,891 List of current constituent monarchs.html
+05/27/2014  03:20 PM           281,593 List of current sovereign monarchs.html
+05/27/2014  10:08 AM           215,477 List of current United States governors.html
+05/27/2014  10:11 AM           552,625 List of diplomatic missions in the United States.html
+05/27/2014  10:11 AM           304,777 List of diplomatic missions of the United States.html
+05/27/2014  11:01 AM           414,808 List of districts of India.html
+05/27/2014  10:06 AM           174,946 List of ecoregions in India.html
+05/27/2014  10:07 AM            69,816 List of endangered animals in India.html
+05/27/2014  09:59 AM            91,051 List of endangered languages in the United States.html
+05/27/2014  11:01 AM           118,310 List of extreme points of India.html
+05/27/2014  03:10 PM           111,066 List of extreme points of Japan.html
+05/27/2014  11:05 AM           536,220 List of federal political scandals in the United States.html
+05/27/2014  03:17 PM            70,127 List of G8 leaders.html
+05/27/2014  11:01 AM            46,962 List of glaciers of India.html
+05/27/2014  11:02 AM           101,158 List of High Courts of India.html
+05/27/2014  11:04 AM           477,559 List of hospitals in India.html
+05/27/2014  11:01 AM           174,117 List of Indian agencies.html
+05/27/2014  10:44 AM           174,936 List of Indian folk dances.html
+05/27/2014  11:02 AM           102,764 List of Indian intelligence agencies.html
+05/27/2014  10:32 AM            93,290 List of Indian states by GDP.html
+05/27/2014  11:01 AM            87,989 List of islands of India.html
+05/27/2014  02:40 PM            84,601 List of islands of Japan.html
+05/27/2014  11:04 AM           269,665 List of islands of the United States.html
+05/27/2014  03:05 PM            32,963 List of Japanese games.html
+05/27/2014  03:11 PM           257,281 List of Japanese monarchs.html
+05/27/2014  03:06 PM            47,422 List of Japanese poetry anthologies.html
+05/27/2014  03:10 PM           223,290 List of Japan-related topics.html
+05/27/2014  11:01 AM           120,503 List of lakes in India.html
+05/27/2014  03:10 PM            58,397 List of lakes in Japan.html
+05/27/2014  10:31 AM           191,860 List of largest consumer markets.html
+05/27/2014  11:04 AM           138,383 List of law schools in India.html
+05/27/2014  11:04 AM           189,005 List of medical colleges in India.html
+05/27/2014  02:51 PM           495,420 List of members of the United Nations Security Council.html
+05/27/2014  11:02 AM           972,668 List of metropolitan areas of the United States.html
+05/27/2014  09:57 AM           333,792 List of Metropolitan Statistical Areas.html
+05/27/2014  10:33 AM            87,132 List of most populous cities in India.html
+05/27/2014  10:35 AM            61,755 List of most populous metropolitan areas in India.html
+05/27/2014  11:01 AM            56,102 List of mountains in India.html
+05/27/2014  11:04 AM           336,478 List of mountains of the United States.html
+05/27/2014  11:01 AM           174,820 List of national parks of India.html
+05/27/2014  02:54 PM            63,410 List of national parks of Japan.html
+05/27/2014  10:46 AM           320,390 List of Nobel laureates in Physiology or Medicine.html
+05/27/2014  11:02 AM            94,470 List of official United States national symbols.html
+05/27/2014  11:03 AM           106,642 List of political parties in India.html
+05/27/2014  03:11 PM           146,204 List of political parties in Japan.html
+05/27/2014  10:08 AM           375,980 List of Presidents of the United States.html
+05/27/2014  03:11 PM           330,308 List of Prime Ministers of Japan.html
+05/27/2014  10:59 AM           135,035 List of proposed states and territories of India.html
+05/27/2014  02:59 PM           117,555 List of railway companies in Japan.html
+05/27/2014  10:08 AM            58,551 List of Ramsar Sites in India.html
+05/27/2014  10:09 AM           106,928 List of recognised political parties in India.html
+05/27/2014  11:01 AM            79,830 List of regions of India.html
+05/27/2014  03:12 PM            76,049 List of regions of Japan.html
+05/27/2014  11:04 AM           294,588 List of regions of the United States.html
+05/27/2014  09:59 AM            34,958 List of religious movements that began in the United States.html
+05/27/2014  09:54 AM           142,401 List of rivers by length.html
+05/27/2014  11:01 AM           137,707 List of rivers of India.html
+05/27/2014  11:04 AM            87,639 List of rivers of the United States.html
+05/27/2014  11:03 AM           409,519 List of scandals in India.html
+05/27/2014  02:37 PM           387,739 List of sovereign states and dependent territories by population density.html
+05/27/2014  11:05 AM           500,390 List of sovereign states.html
+05/27/2014  03:04 PM           530,014 List of Special Places of Scenic Beauty, Special Historic Sites and Special Natural Monuments.html
+05/27/2014  10:02 AM           225,345 List of states and territories of the United States.html
+05/27/2014  10:32 AM           128,798 List of states and union territories of India by population.html
+05/27/2014  10:30 AM            65,175 List of statutory minimum employment leave by country.html
+05/27/2014  11:03 AM            40,657 List of supermarket chains in India.html
+05/27/2014  10:22 AM            79,580 List of U.S. states by incarceration rate.html
+05/27/2014  09:56 AM           485,630 List of United States cities by population.html
+05/27/2014  11:04 AM           124,413 List of universities in India.html
+05/27/2014  11:01 AM            75,153 List of valleys in India.html
+05/27/2014  11:01 AM            39,467 List of volcanoes in India.html
+05/27/2014  11:01 AM           199,783 List of waterfalls in India.html
+05/27/2014  02:43 PM           142,150 List of World Heritage Sites in Japan.html
+05/27/2014  11:04 AM           206,080 Lists of populated places in the United States.html
+05/27/2014  11:04 AM           194,505 Literacy in India.html
+05/27/2014  10:44 AM           234,914 Literacy.html
+05/27/2014  10:01 AM           193,033 Local government in the United States.html
+05/27/2014  09:54 AM           137,452 Lok Sabha.html
+05/27/2014  10:54 AM           398,423 London School of Economics.html
+05/27/2014  10:53 AM            54,231 Longman.html
+05/27/2014  10:32 AM           377,638 Long-term unemployment.html
+05/27/2014  10:24 AM            84,929 Look East policy.html
+05/27/2014  09:58 AM           253,462 Los Angeles metropolitan area.html
+05/27/2014  11:03 AM           173,190 Los Angeles Times.html
+05/27/2014  10:48 AM           643,002 Los Angeles, California.html
+05/27/2014  09:57 AM           642,803 Los Angeles.html
+05/27/2014  10:52 AM           235,565 Louis Armstrong.html
+05/27/2014  11:00 AM           103,534 Louisiana Creole cuisine.html
+05/27/2014  09:48 AM           181,691 Louisiana Purchase.html
+05/27/2014  09:59 AM           540,238 Louisiana.html
+05/27/2014  02:36 PM            43,786 Lower house.html
+05/27/2014  09:53 AM           118,653 Lower Manhattan.html
+05/27/2014  10:38 AM            57,358 Lunar rover.html
+05/27/2014  10:45 AM           370,679 Lung cancer.html
+05/27/2014  10:47 AM            65,418 Lungi.html
+05/27/2014  10:00 AM           479,474 Lutheranism.html
+05/27/2014  03:22 PM           336,995 Luxembourg.html
+05/27/2014  09:50 AM           233,959 Lynching in the United States.html
+05/27/2014  02:47 PM            41,013 Lytton Report.html
+05/27/2014  10:54 AM            36,266 M. E. Sharpe.html
+05/27/2014  02:55 PM           135,379 Machine tool.html
+05/27/2014  10:57 AM            87,554 Macmillan Publishers.html
+05/27/2014  09:57 AM           230,592 Madhya Pradesh.html
+05/27/2014  10:45 AM           482,801 Madurai.html
+05/27/2014  09:58 AM           166,204 Magadha.html
+05/27/2014  10:29 AM           311,490 Magnesium.html
+05/27/2014  10:40 AM           353,488 Mahabharata.html
+05/27/2014  09:57 AM           144,923 Mahajanapada.html
+05/27/2014  10:04 AM           120,885 Mahanadi River.html
+05/27/2014  09:58 AM            73,225 Maharaja.html
+05/27/2014  10:09 AM           432,201 Maharashtra.html
+05/27/2014  10:01 AM           673,338 Mahatma Gandhi.html
+05/27/2014  09:57 AM            94,911 Mahavira.html
+05/27/2014  10:02 AM           366,032 Maine.html
+05/27/2014  09:54 AM           131,636 Maithili language.html
+05/27/2014  10:25 AM           344,610 Maize.html
+05/27/2014  10:45 AM           634,199 Major depressive disorder.html
+05/27/2014  03:13 PM            86,228 Major non-NATO ally.html
+05/27/2014  10:11 AM            89,680 Majority rule.html
+05/27/2014  10:46 AM           124,595 Makar Sankranti.html
+05/27/2014  11:08 AM           329,801 Malawi.html
+05/27/2014  02:42 PM           139,051 Malay language.html
+05/27/2014  10:54 AM            78,323 Malayala Manorama.html
+05/27/2014  10:45 AM           236,515 Malayalam cinema.html
+05/27/2014  09:54 AM           306,358 Malayalam language.html
+05/27/2014  03:16 PM           685,038 Malaysia.html
+05/27/2014  09:55 AM           488,046 Maldives.html
+05/27/2014  09:56 AM            97,925 Malnutrition in India.html
+05/27/2014  11:08 AM           630,437 Malta.html
+05/27/2014  10:39 AM            36,572 Mamuni Mayan.html
+05/27/2014  02:47 PM           115,208 Manchuria.html
+05/27/2014  03:06 PM           266,514 Manga.html
+05/27/2014  10:13 AM           234,332 Mango.html
+05/27/2014  09:52 AM           518,151 Manhattan Project.html
+05/27/2014  10:59 AM           635,476 Manhattan.html
+05/27/2014  09:45 AM           239,459 Manifest destiny.html
+05/27/2014  10:18 AM           273,185 Manipur.html
+05/27/2014  10:44 AM            55,814 Manipuri dance.html
+05/27/2014  10:11 AM           322,287 Manmohan Singh.html
+05/27/2014  02:52 PM            88,937 Manufacturing in Japan.html
+05/27/2014  03:11 PM            89,169 Manufacturing industries of Japan.html
+05/27/2014  02:53 PM           115,950 Maple tree.html
+05/27/2014  09:57 AM           264,432 Maps of American ancestries.html
+05/27/2014  10:00 AM           275,970 Maratha Empire.html
+05/27/2014  10:45 AM           251,197 Marathi cinema.html
+05/27/2014  09:54 AM           230,402 Marathi language.html
+05/27/2014  10:02 AM           112,803 Marbury v. Madison.html
+05/27/2014  02:42 PM           175,791 Marco Polo.html
+05/27/2014  10:49 AM           347,197 Marilyn Monroe.html
+05/27/2014  10:17 AM            88,730 Marine Expeditionary Unit.html
+05/27/2014  03:02 PM            37,735 Marius Jansen.html
+05/27/2014  10:56 AM           329,012 Mark Twain.html
+05/27/2014  02:57 PM            62,698 Market capitalization.html
+05/27/2014  02:54 PM           130,052 Market economy.html
+05/27/2014  10:47 AM            39,274 Marma adi.html
+05/27/2014  10:59 AM            73,649 Marsden Hartley.html
+05/27/2014  10:13 AM           303,104 Marshall Islands.html
+05/27/2014  11:00 AM           149,281 Martha Graham.html
+05/27/2014  09:53 AM           673,527 Martin Luther King Jr..html
+05/27/2014  10:50 AM           267,527 Marvel Comics.html
+05/27/2014  10:03 AM           506,875 Maryland.html
+05/27/2014  09:51 AM            68,591 Mass communication.html
+05/27/2014  10:34 AM            65,765 Mass transit in the United States.html
+05/27/2014  11:03 AM           688,462 Massachusetts Institute of Technology.html
+05/27/2014  10:02 AM           750,553 Massachusetts.html
+05/27/2014  10:41 AM           194,427 Materials science.html
+05/27/2014  03:18 PM           192,521 Matteo Renzi.html
+05/27/2014  02:46 PM           132,579 Matthew C. Perry.html
+05/27/2014  11:08 AM           365,479 Mauritius.html
+05/27/2014  09:58 AM           269,764 Maurya Empire.html
+05/27/2014  09:48 AM            76,275 Mayflower Compact.html
+05/27/2014  09:47 AM           273,716 Measles.html
+05/27/2014  11:04 AM           143,448 Media of India.html
+05/27/2014  03:12 PM           117,478 Media of Japan.html
+05/27/2014  10:48 AM           112,288 Media of the United States.html
+05/27/2014  10:33 AM            88,757 Median household income.html
+05/27/2014  09:54 AM           253,426 Mediterranean climate.html
+05/27/2014  10:06 AM            55,553 Megadiverse countries.html
+05/27/2014  09:57 AM           196,862 Megalith.html
+05/27/2014  10:18 AM           264,889 Meghalaya.html
+05/27/2014  09:57 AM           157,142 Mehrgarh.html
+05/27/2014  02:36 PM           100,319 Meiji Constitution.html
+05/27/2014  03:10 PM           244,118 Meiji period.html
+05/27/2014  02:42 PM           128,338 Meiji Restoration.html
+05/27/2014  03:00 PM            69,006 Meiji Shrine.html
+05/15/2014  04:52 PM            48,764 Meira Kumar.html
+05/27/2014  09:54 AM            73,895 Meitei language.html
+05/27/2014  10:47 AM           153,917 Melting pot.html
+05/27/2014  11:03 AM            50,229 Melvyn P. Leffler.html
+05/27/2014  11:05 AM           237,513 Member states of the Commonwealth of Nations.html
+05/27/2014  10:49 AM            57,616 Merchandising.html
+05/27/2014  02:58 PM           200,000 Mercury Magnetospheric Orbiter.html
+05/27/2014  02:52 PM            52,666 Merger and dissolution of municipalities of Japan.html
+05/27/2014  02:43 PM            82,766 Mesolithic.html
+05/27/2014  02:43 PM           124,397 Metallurgy.html
+05/27/2014  09:58 AM           197,241 Metro Detroit.html
+05/27/2014  09:57 AM           301,765 Mexican American.html
+05/27/2014  09:49 AM            60,245 Mexican Cession.html
+05/27/2014  09:49 AM           437,300 Mexican-American War.html
+05/27/2014  03:20 PM           734,247 Mexico.html
+05/27/2014  09:58 AM           464,426 Miami.html
+05/27/2014  10:55 AM           821,065 Michael Jackson.html
+05/27/2014  11:00 AM           659,474 Michael Phelps.html
+05/27/2014  10:53 AM           113,180 Michael Witzel.html
+05/27/2014  03:07 PM           104,092 Michelin Guide.html
+05/27/2014  10:03 AM           562,118 Michigan.html
+05/27/2014  10:41 AM           190,910 Microprocessor.html
+05/27/2014  10:42 AM           392,705 Microsoft.html
+05/27/2014  11:04 AM           198,090 Mid-Atlantic states.html
+05/27/2014  10:32 AM           151,779 Mid-Day Meal Scheme.html
+05/27/2014  11:00 AM           340,427 Middle kingdoms of India.html
+05/27/2014  10:09 AM           156,997 Midtown Manhattan.html
+05/27/2014  09:54 AM           332,157 Midwest.html
+05/27/2014  09:58 AM           332,028 Midwestern United States.html
+05/27/2014  03:12 PM           123,783 Mie Prefecture.html
+05/27/2014  09:52 AM           445,893 Mikhail Gorbachev.html
+05/27/2014  10:18 AM           189,702 Military budget of the United States.html
+05/27/2014  11:00 AM           286,366 Military history of India.html
+05/27/2014  03:10 PM           171,079 Military history of Japan.html
+05/27/2014  09:52 AM           380,480 Military history of the United States during World War II.html
+05/27/2014  11:04 AM           324,297 Military history of the United States.html
+05/27/2014  11:02 AM           427,836 Military of India.html
+05/27/2014  10:26 AM           443,242 Milk.html
+05/27/2014  10:59 AM           418,513 Milton Friedman.html
+05/27/2014  02:44 PM            67,009 Minamoto no Yoritomo.html
+05/27/2014  10:27 AM           274,096 Minerals.html
+05/27/2014  02:46 PM           365,468 Ming Dynasty.html
+05/27/2014  10:25 AM            31,018 Minimum Credible Deterrence.html
+05/27/2014  11:06 AM            75,913 Mining in the United States.html
+05/27/2014  02:49 PM            57,178 Minister of State.html
+05/27/2014  03:11 PM            85,877 Ministries of Japan.html
+05/27/2014  03:05 PM           114,125 Minka.html
+05/27/2014  10:03 AM           447,496 Minnesota.html
+05/27/2014  10:10 AM            62,809 Minority government.html
+05/27/2014  09:57 AM            95,779 Minority group.html
+05/27/2014  10:11 AM            81,335 Minority rights.html
+05/27/2014  02:45 PM           213,199 Missionary.html
+05/27/2014  09:48 AM           346,477 Mississippi River.html
+05/27/2014  10:00 AM           433,473 Mississippi.html
+05/27/2014  09:47 AM           139,234 Mississippian culture.html
+05/27/2014  09:54 AM           582,034 Missouri River.html
+05/27/2014  10:03 AM           552,041 Missouri.html
+05/27/2014  10:05 AM           279,011 Mitch McConnell.html
+05/27/2014  10:22 AM           102,962 Mixed economy.html
+05/27/2014  11:01 AM           379,539 Mixed martial arts.html
+05/27/2014  02:45 PM            31,993 Miyabi.html
+05/27/2014  03:01 PM           134,171 Miyagi Prefecture.html
+05/27/2014  03:04 PM            48,029 Miyako language.html
+05/27/2014  03:13 PM            93,140 Miyazaki Prefecture.html
+05/27/2014  10:18 AM           191,808 Mizoram.html
+05/27/2014  10:57 AM           221,426 Moby-Dick.html
+05/27/2014  09:47 AM           278,177 Models of migration to the New World.html
+05/27/2014  10:59 AM           200,831 Modern art.html
+05/27/2014  11:00 AM           139,609 Modern dance.html
+05/27/2014  11:02 AM            43,560 Modern Language Association.html
+05/27/2014  10:07 AM           310,927 Modern liberalism in the United States.html
+05/27/2014  09:54 AM            77,251 Mohammad Hamid Ansari.html
+05/27/2014  09:56 AM           672,684 Mohandas Karamchand Gandhi.html
+05/27/2014  09:57 AM           175,144 Mohenjo-daro.html
+05/27/2014  10:44 AM            54,602 Mohiniyattam.html
+05/27/2014  10:38 AM           194,028 Moksha.html
+05/27/2014  02:53 PM            81,532 Momiji.html
+05/27/2014  03:22 PM           455,142 Monaco.html
+05/27/2014  03:20 PM            74,829 Monarchies in Africa.html
+05/27/2014  03:20 PM            76,117 Monarchies in Asia.html
+05/27/2014  03:20 PM           151,712 Monarchies in Europe.html
+05/27/2014  03:20 PM            87,670 Monarchies in Oceania.html
+05/27/2014  03:20 PM           243,777 Monarchies in the Americas.html
+05/27/2014  03:20 PM           171,313 Monarchy.html
+05/27/2014  03:11 PM            64,382 Monetary and fiscal policy of Japan.html
+05/27/2014  10:00 AM           390,856 Mongol Empire.html
+05/27/2014  02:44 PM           130,697 Mongol invasions of Japan.html
+05/27/2014  03:00 PM            55,581 Monoculturalism.html
+05/27/2014  10:05 AM           123,560 Monsoon.html
+05/27/2014  10:03 AM           772,037 Montana.html
+05/27/2014  11:13 AM           272,205 Montserrat.html
+05/27/2014  02:59 PM           534,583 Moon.html
+05/27/2014  03:04 PM           112,321 Moribund language.html
+05/27/2014  10:00 AM            70,784 Mormon Corridor.html
+05/27/2014  09:59 AM           276,730 Mormon.html
+05/27/2014  10:00 AM           188,312 Mormonism.html
+05/27/2014  03:15 PM           433,849 Morocco.html
+05/27/2014  10:58 AM            44,137 Motilal Banarsidass.html
+05/27/2014  09:54 AM           184,689 Mount McKinley.html
+05/27/2014  02:53 PM            37,905 Mount Yoshino.html
+05/27/2014  11:04 AM           597,204 Mountain peaks of the United States.html
+05/27/2014  11:08 AM           389,990 Mozambique.html
+05/27/2014  10:03 AM            82,502 Mudflat.html
+05/27/2014  10:00 AM            90,375 Mughal architecture.html
+05/27/2014  10:00 AM           285,924 Mughal Empire.html
+05/27/2014  10:00 AM            95,756 Mughal painting.html
+05/27/2014  09:45 AM           337,040 Multicultural.html
+05/27/2014  10:47 AM           336,888 Multiculturalism.html
+05/27/2014  03:00 PM           133,611 Multiethnic society.html
+05/27/2014  09:45 AM           133,423 Multinational state.html
+05/27/2014  10:09 AM            54,219 Multi-party system.html
+05/27/2014  09:57 AM           538,675 Multiracial American.html
+05/27/2014  10:50 AM           108,775 Mumbai Marathon.html
+05/27/2014  09:53 AM           707,589 Mumbai.html
+05/27/2014  10:01 AM            62,075 Municipal government.html
+05/27/2014  11:01 AM            66,010 Municipalities of India.html
+05/27/2014  02:44 PM           191,963 Murasaki Shikibu.html
+05/27/2014  02:45 PM           148,778 Muromachi Period.html
+05/27/2014  10:45 AM            89,388 Musculoskeletal disorder.html
+05/27/2014  10:41 AM           211,170 Music of India.html
+05/27/2014  03:06 PM           233,744 Music of Japan.html
+05/27/2014  10:48 AM           404,720 Music of the United States.html
+05/27/2014  10:59 AM           277,097 Musical theatre.html
+05/27/2014  10:47 AM            82,814 Musti yuddha.html
+05/27/2014  09:59 AM           777,323 Myanmar.html
+05/27/2014  10:18 AM           156,786 Nagaland.html
+05/27/2014  03:12 PM           115,660 Nagano Prefecture.html
+05/27/2014  03:13 PM           111,779 Nagasaki Prefecture.html
+05/27/2014  02:41 PM           185,686 Nagasaki.html
+05/27/2014  03:00 PM            47,250 Nagoya Port.html
+05/27/2014  03:01 PM           244,279 Nagoya.html
+05/27/2014  09:46 AM            53,783 Names for United States citizens.html
+05/27/2014  09:57 AM            97,361 Names of India.html
+05/27/2014  02:40 PM            91,324 Names of Japan.html
+05/27/2014  09:57 AM            49,742 Names of the Republic of India in its official languages.html
+05/27/2014  11:08 AM           406,933 Namibia.html
+05/27/2014  11:06 AM           129,954 Naming in the United States.html
+05/27/2014  02:45 PM            40,203 Nanban art.html
+05/27/2014  02:42 PM           218,245 Nanban trade.html
+05/27/2014  10:04 AM           405,891 Nancy Pelosi.html
+05/27/2014  02:47 PM           430,331 Nanjing.html
+05/27/2014  02:47 PM           355,692 Nanking Massacre.html
+05/27/2014  02:43 PM            97,312 Nara period.html
+05/27/2014  03:12 PM           145,418 Nara Prefecture.html
+05/27/2014  02:43 PM           142,056 Nara, Nara.html
+05/27/2014  11:02 AM            60,987 Narcotics Control Bureau.html
+05/27/2014  09:54 AM           400,228 Narendra Modi.html
+05/27/2014  02:59 PM           322,184 Narita International Airport.html
+05/27/2014  10:04 AM           209,012 Narmada River.html
+05/27/2014  11:01 AM           207,496 NASCAR.html
+05/27/2014  10:57 AM            42,290 NASSCOM.html
+05/27/2014  10:56 AM           177,164 Nathaniel Hawthorne.html
+05/27/2014  11:02 AM            33,654 National Academies Press.html
+05/27/2014  10:24 AM            64,627 National Agricultural Statistics Service.html
+05/27/2014  09:56 AM           354,838 National animal.html
+05/27/2014  03:08 PM           317,740 National Basketball Association.html
+05/27/2014  09:56 AM           283,907 National bird.html
+05/27/2014  10:15 AM           539,171 National Capital Territory of Delhi.html
+05/27/2014  10:14 AM           341,342 National debt of the United States.html
+05/27/2014  02:36 PM           122,011 National Diet.html
+05/27/2014  02:36 PM            52,845 National Foundation Day.html
+05/27/2014  10:17 AM           279,943 National Guard of the United States.html
+05/27/2014  10:52 AM            46,648 National Informatics Centre.html
+05/27/2014  11:02 AM            75,062 National Investigation Agency.html
+05/27/2014  02:36 PM           136,905 National language.html
+05/27/2014  10:27 AM            38,879 National Mining Association.html
+05/27/2014  11:05 AM           130,033 National Oceanic and Atmospheric Administration Commissioned Officer Corps.html
+05/27/2014  10:08 AM           175,007 National parks of India.html
+05/27/2014  11:02 AM           213,615 National Public Radio.html
+05/27/2014  03:09 PM            85,475 National Science Museum of Japan.html
+05/27/2014  11:05 AM           663,922 National Security Agency.html
+05/27/2014  11:02 AM           124,805 National Security Guard.html
+05/27/2014  11:00 AM           144,178 National sport.html
+05/27/2014  11:03 AM           131,870 National Stock Exchange of India.html
+05/27/2014  10:12 AM            86,281 National symbols of India.html
+05/27/2014  02:43 PM           300,100 National Treasures of Japan.html
+05/27/2014  11:03 AM            64,265 Nationalist Congress Party.html
+05/27/2014  10:00 AM           132,712 Native American religion.html
+05/27/2014  09:57 AM           628,983 Native Americans in the United States.html
+05/27/2014  09:57 AM           178,254 Native Hawaiians.html
+05/27/2014  09:52 AM           494,436 NATO.html
+05/27/2014  09:45 AM           168,114 Natural and legal rights.html
+05/27/2014  02:57 PM           210,801 Natural gas.html
+05/27/2014  10:23 AM           107,961 Natural resource.html
+05/27/2014  09:48 AM           168,276 Natural rights.html
+05/27/2014  09:59 AM           174,865 Naturalized citizen of the United States.html
+05/27/2014  02:54 PM            78,249 Nature conservation.html
+05/27/2014  11:08 AM           350,274 Nauru.html
+05/27/2014  10:44 AM            30,432 Nautanki.html
+05/27/2014  03:10 PM           139,415 Naval history of Japan.html
+05/27/2014  10:46 AM            92,878 Navratri.html
+05/27/2014  10:02 AM           195,358 Naxalite.html
+05/27/2014  02:47 PM           766,127 Nazi Germany.html
+05/27/2014  10:40 AM           439,293 Nazism.html
+05/27/2014  10:02 AM           313,425 Nebraska.html
+05/27/2014  10:07 AM           116,630 Neem.html
+05/27/2014  09:57 AM            85,730 Nekkhamma.html
+05/27/2014  10:13 AM           122,926 Nelumbo nucifera.html
+05/27/2014  10:00 AM           150,971 Neo-Druidism.html
+05/27/2014  02:43 PM           212,775 Neolithic.html
+05/27/2014  09:55 AM           449,623 Nepal.html
+05/27/2014  09:54 AM           145,328 Nepali language.html
+05/27/2014  10:32 AM            29,260 Net domestic product.html
+05/27/2014  10:31 AM           626,206 Netherlands.html
+05/27/2014  10:00 AM           423,869 Nevada.html
+05/27/2014  09:52 AM           433,690 New Deal.html
+05/27/2014  09:53 AM           309,479 New Delhi.html
+05/27/2014  10:00 AM           482,107 New England.html
+05/27/2014  10:00 AM           397,051 New Hampshire.html
+05/27/2014  10:03 AM           631,177 New Jersey.html
+05/27/2014  09:59 AM           492,738 New Mexico.html
+05/27/2014  09:48 AM           121,641 New World.html
+05/27/2014  10:19 AM           217,576 New York City Police Department.html
+05/27/2014  09:41 AM           946,646 New York City.html
+05/27/2014  10:03 AM           448,715 New York.html
+05/27/2014  09:58 AM           724,292 New York-Newark-Jersey City, NY-NJ-PA MSA.html
+05/27/2014  03:15 PM           720,161 New Zealand.html
+05/27/2014  09:56 AM           129,114 Newly industrialised country.html
+05/27/2014  11:09 AM           523,121 Nigeria.html
+05/27/2014  03:06 PM            95,746 Nihon Shoki.html
+05/27/2014  03:02 PM           128,063 Niigata Prefecture.html
+05/27/2014  03:02 PM           144,596 Niigata, Niigata.html
+05/27/2014  02:57 PM           177,733 Nikkei 225.html
+05/27/2014  03:00 PM           221,647 Nikkeijin.html
+05/27/2014  10:07 AM            41,935 Nilgiri Langur.html
+05/27/2014  09:51 AM           162,485 Nineteenth Amendment to the United States Constitution.html
+05/27/2014  02:42 PM            83,817 Ningbo dialect.html
+05/27/2014  02:56 PM           387,364 Nintendo.html
+05/27/2014  03:15 PM            69,860 Ninth East Asia Summit.html
+05/27/2014  02:52 PM            76,305 Nippon Keidanren.html
+05/27/2014  02:57 PM            98,310 Nippon Oil.html
+05/27/2014  03:08 PM           174,515 Nippon Professional Baseball.html
+05/27/2014  02:56 PM            96,374 Nippon Steel.html
+05/27/2014  03:22 PM           306,632 Niue.html
+05/27/2014  10:48 AM            47,106 NKP Salve Challenger Trophy.html
+05/27/2014  10:25 AM            69,402 No first use.html
+05/27/2014  10:59 AM           530,281 Noam Chomsky.html
+05/27/2014  03:07 PM           199,536 Nobel Prize in Literature.html
+05/27/2014  02:57 PM           312,435 Nobel Prize.html
+05/27/2014  03:05 PM           108,347 Noh.html
+05/27/2014  02:55 PM           217,675 Nominal GDP.html
+05/27/2014  10:05 AM            33,967 Nomination.html
+05/27/2014  10:22 AM           309,273 Non-Aligned Movement.html
+05/27/2014  10:44 AM            40,146 Nonsectarian.html
+05/27/2014  09:53 AM           178,367 Nonviolence.html
+05/27/2014  09:56 AM           209,540 Non-violent resistance.html
+05/27/2014  11:11 AM           291,014 Norfolk Island.html
+05/27/2014  09:44 AM           415,336 North America.html
+05/27/2014  10:12 AM           183,717 North American Free Trade Agreement.html
+05/27/2014  09:43 AM           216,629 North American Numbering Plan.html
+05/27/2014  10:02 AM           476,905 North Carolina.html
+05/27/2014  10:00 AM           407,512 North Dakota.html
+05/27/2014  11:01 AM           166,370 North India.html
+05/27/2014  02:51 PM           265,641 North Korea and weapons of mass destruction.html
+05/27/2014  02:39 PM           723,609 North Korea.html
+05/27/2014  02:51 PM           108,978 North Korean abductions of Japanese citizens.html
+05/27/2014  10:06 AM           161,876 Northeast India.html
+05/27/2014  09:58 AM           221,327 Northeastern United States.html
+05/27/2014  10:00 AM           101,608 Northern Europe.html
+05/27/2014  03:12 PM            48,808 Northern Kyushu.html
+05/27/2014  10:02 AM           282,128 Northern Mariana Islands.html
+05/27/2014  11:04 AM            52,576 Northern United States.html
+05/27/2014  09:49 AM           108,688 Northwestern United States.html
+05/27/2014  03:22 PM           633,850 Norway.html
+05/27/2014  02:54 PM            64,571 NOx.html
+05/27/2014  11:03 AM           213,394 NPR.html
+05/27/2014  02:56 PM           213,485 NTT DoCoMo.html
+05/27/2014  09:56 AM           107,640 Nuclear binding energy.html
+05/27/2014  10:25 AM           308,404 Nuclear Non-Proliferation Treaty.html
+05/27/2014  10:26 AM           214,987 Nuclear power in India.html
+05/27/2014  02:59 PM           301,929 Nuclear power in Japan.html
+05/27/2014  10:37 AM           375,416 Nuclear power in the United States.html
+05/27/2014  02:49 PM           577,082 Nuclear power.html
+05/27/2014  10:26 AM            75,416 Nuclear Suppliers Group.html
+05/27/2014  10:25 AM           111,461 Nuclear triad.html
+05/27/2014  09:46 AM           286,845 Nuclear weapons and the United States.html
+05/27/2014  09:56 AM           203,639 Nuclear weapons state.html
+05/27/2014  10:24 AM           158,069 Oats.html
+05/27/2014  10:45 AM           248,103 Obesity in the United States.html
+05/27/2014  03:03 PM           111,521 Obon.html
+05/27/2014  02:48 PM           251,296 Occupation of Japan.html
+05/27/2014  09:56 AM           188,184 Oceanic climate.html
+05/27/2014  10:03 AM            72,974 Oceanic crust.html
+05/27/2014  02:45 PM           165,872 Oda Nobunaga.html
+05/27/2014  11:03 AM            43,681 Odd Arne Westad.html
+05/27/2014  10:19 AM           316,944 Odisha.html
+05/27/2014  10:44 AM           153,557 Odissi.html
+05/27/2014  03:09 PM           344,964 OECD.html
+05/27/2014  11:02 AM            49,074 Office of Immigration Statistics.html
+05/27/2014  02:50 PM            69,730 Official development assistance.html
+05/27/2014  09:43 AM           419,492 Official language of the United States.html
+05/27/2014  09:54 AM            93,564 Official language.html
+05/27/2014  11:04 AM           144,804 Ohio River.html
+05/27/2014  10:03 AM           434,158 Ohio.html
+05/27/2014  10:26 AM           144,911 Oilseed.html
+05/27/2014  03:13 PM           114,683 Okayama Prefecture.html
+05/27/2014  03:07 PM            31,458 Okazu.html
+05/27/2014  02:52 PM            64,617 Okhotsk Plate.html
+05/27/2014  02:52 PM            36,634 Okinawa Plate.html
+05/27/2014  03:12 PM           254,523 Okinawa Prefecture.html
+05/27/2014  02:52 PM           254,658 Okinawa.html
+05/27/2014  03:04 PM            53,046 Okinawan Japanese.html
+05/27/2014  03:04 PM           152,085 Okinawan language.html
+05/27/2014  02:51 PM            75,355 Okinotorishima.html
+05/27/2014  10:03 AM           603,873 Oklahoma.html
+05/27/2014  03:07 PM            66,620 Oku no Hosomichi.html
+05/27/2014  02:42 PM            91,114 Old Mandarin.html
+05/27/2014  09:57 AM           163,796 Old Persian language.html
+05/27/2014  10:52 AM           119,502 Old-time music.html
+05/27/2014  03:10 PM           236,527 Olivier Messiaen.html
+05/27/2014  11:00 AM           683,333 Olympic Games.html
+05/27/2014  09:51 AM           325,689 Omaha Beach.html
+05/27/2014  03:22 PM           385,173 Oman.html
+05/27/2014  10:53 AM            42,299 One World Media.html
+05/27/2014  09:53 AM           462,757 One World Trade Center.html
+05/27/2014  03:05 PM           114,133 Onsen.html
+05/27/2014  11:00 AM            50,727 Operation Flood.html
+05/27/2014  09:53 AM           272,829 Opposition to the U.S. involvement in the Vietnam War.html
+05/27/2014  02:57 PM           323,772 Optics.html
+05/27/2014  09:49 AM            77,750 Oregon Treaty.html
+05/27/2014  09:56 AM           445,923 Oregon.html
+05/27/2014  02:56 PM           344,841 Organisation for Economic Co-operation and Development.html
+05/27/2014  10:12 AM           194,995 Organization of American States.html
+05/27/2014  03:05 PM           126,700 Origami.html
+05/27/2014  10:14 AM            35,255 Original jurisdiction.html
+05/27/2014  09:49 AM           393,065 Origins of the American Civil War.html
+05/27/2014  09:54 AM           187,329 Oriya language.html
+05/27/2014  10:48 AM           428,428 Orson Welles.html
+05/27/2014  03:01 PM           154,097 Osaka Prefecture.html
+05/27/2014  02:54 PM            41,662 Osaka rice brokers.html
+05/27/2014  03:01 PM           343,124 Osaka.html
+05/27/2014  10:51 AM           261,095 Outline of India.html
+05/27/2014  03:08 PM           223,071 Outline of Japan.html
+05/27/2014  11:01 AM           341,818 Outline of the United States.html
+05/27/2014  10:52 AM           174,114 Oxford English Dictionary.html
+05/27/2014  10:52 AM           181,238 Oxford University Press.html
+05/27/2014  10:59 AM           145,168 P. T. Barnum.html
+05/27/2014  10:10 AM           205,104 P. V. Narasimha Rao.html
+05/27/2014  10:47 AM            62,184 Pachisi.html
+05/27/2014  02:52 PM            31,278 Pacific coast.html
+05/27/2014  09:57 AM           113,915 Pacific Islander American.html
+05/27/2014  09:57 AM           106,539 Pacific Islander.html
+05/27/2014  02:38 PM           268,468 Pacific Ocean.html
+05/27/2014  02:52 PM            56,619 Pacific Plate.html
+05/27/2014  02:52 PM           174,274 Pacific Ring of Fire.html
+05/27/2014  11:04 AM           108,974 Pacific States.html
+05/27/2014  10:30 AM            34,676 Paid family leave.html
+05/27/2014  10:47 AM            97,825 Pajamas.html
+05/27/2014  03:15 PM           879,126 Pakistan.html
+05/27/2014  09:58 AM           154,566 Pala Empire.html
+05/27/2014  10:13 AM           338,981 Palau.html
+05/27/2014  09:45 AM           221,461 Paleo-indians.html
+05/27/2014  09:58 AM           163,498 Pallava.html
+05/27/2014  02:56 PM           241,928 Panasonic Corporation.html
+05/27/2014  09:58 AM           180,380 Pandyan Dynasty.html
+05/27/2014  11:03 AM            88,873 Pantheon Books.html
+05/27/2014  03:23 PM           419,137 Papua New Guinea.html
+05/27/2014  10:28 AM           107,011 Paramilitary forces of India.html
+05/27/2014  10:47 AM            52,123 Parcheesi.html
+05/27/2014  09:51 AM           215,089 Paris Peace Conference of 1919.html
+05/27/2014  03:20 PM           282,381 Park Geun-hye.html
+05/27/2014  09:54 AM            89,662 Parliament of India.html
+05/27/2014  10:09 AM           134,158 Parliamentary republic.html
+05/27/2014  02:36 PM           161,429 Parliamentary system.html
+05/27/2014  10:44 AM            78,366 Parochial school.html
+05/27/2014  09:56 AM           229,236 Parsi.html
+05/27/2014  10:02 AM           374,038 Partition of India.html
+05/27/2014  10:05 AM           148,234 Party leaders of the United States Senate.html
+05/27/2014  10:34 AM           162,891 Passenger vehicles in the United States.html
+05/27/2014  10:46 AM           772,589 Patient Protection and Affordable Care Act.html
+05/27/2014  03:10 PM           201,808 PBS.html
+05/27/2014  02:41 PM           178,273 Peacekeeping.html
+05/27/2014  10:24 AM           260,763 Peanuts.html
+05/27/2014  02:47 PM            65,218 Pearl Harbor.html
+05/27/2014  10:53 AM            64,757 Pearson Education.html
+05/27/2014  10:56 AM           154,628 Pearson PLC.html
+05/27/2014  10:47 AM            81,810 Pehlwani.html
+05/27/2014  10:57 AM           137,342 Penguin Books.html
+05/27/2014  03:10 PM            60,766 Penguin Classics.html
+05/27/2014  09:49 AM           518,517 Pennsylvania.html
+05/27/2014  11:00 AM           262,309 PepsiCo.html
+05/27/2014  02:56 PM            66,842 Permanent employment.html
+05/27/2014  09:46 AM           105,207 Permanent members of the United Nations Security Council.html
+05/27/2014  09:57 AM           329,734 Persian language.html
+05/27/2014  10:42 AM           275,503 Personal computer.html
+05/27/2014  11:06 AM           160,850 Personal income in the United States.html
+05/27/2014  03:24 PM            45,430 Personal union.html
+05/27/2014  03:00 PM           147,219 Peruvian people.html
+05/27/2014  11:02 AM            45,185 Peter Force.html
+05/27/2014  10:32 AM            62,891 Pharmaceutical industry in India.html
+05/27/2014  09:48 AM           219,128 Philadelphia Convention.html
+05/27/2014  09:58 AM           525,414 Philadelphia.html
+05/27/2014  10:59 AM           120,189 Philip Johnson.html
+05/27/2014  02:52 PM            69,833 Philippine Sea Plate.html
+05/27/2014  10:12 AM           147,671 Philippines - United States relations.html
+05/27/2014  03:15 PM           720,510 Philippines.html
+05/27/2014  09:58 AM           686,962 Phoenix, Arizona.html
+05/27/2014  09:58 AM           687,108 Phoenix, AZ.html
+05/27/2014  10:39 AM           248,460 Phonograph.html
+05/27/2014  11:00 AM           232,719 Photography.html
+05/27/2014  10:09 AM            77,777 Pimpri Gawali.html
+05/27/2014  11:13 AM           292,805 Pitcairn Islands.html
+05/27/2014  09:49 AM           133,706 Plains Indians.html
+05/27/2014  10:02 AM           323,086 Plate tectonics.html
+05/27/2014  10:20 AM           142,527 Plea bargain.html
+05/27/2014  10:20 AM            74,028 Plea bargaining in the United States.html
+05/27/2014  10:01 AM           107,259 Plurality voting system.html
+05/27/2014  09:48 AM           308,469 Plymouth Colony.html
+05/27/2014  10:25 AM           169,307 Pokhran-II.html
+05/27/2014  10:09 AM            70,609 Political culture.html
+05/27/2014  10:01 AM           188,868 Political divisions of the United States.html
+05/27/2014  10:04 AM           179,401 Political ideologies in the United States.html
+05/27/2014  10:14 AM           293,536 Political integration of India.html
+05/27/2014  11:05 AM           203,257 Political parties in the United States.html
+05/27/2014  10:07 AM           105,515 Political party strength in U.S. states.html
+05/27/2014  10:13 AM           169,520 Political party.html
+05/27/2014  10:59 AM           233,047 Political philosophy.html
+05/27/2014  11:05 AM           267,889 Political status of Puerto Rico.html
+05/27/2014  09:54 AM           132,155 Politics of India.html
+05/27/2014  02:36 PM           191,630 Politics of Japan.html
+05/27/2014  10:07 AM           221,704 Politics of the Northeastern United States.html
+05/27/2014  10:07 AM           117,364 Politics of the Southern United States.html
+05/27/2014  09:41 AM           217,510 Politics of the United States.html
+05/27/2014  10:33 AM           208,024 Pollution in India.html
+05/27/2014  10:01 AM           265,931 Polygamy.html
+05/27/2014  10:59 AM           196,895 Pop art.html
+05/27/2014  10:52 AM            97,428 Popular music.html
+05/27/2014  10:57 AM            41,125 Popular Prakashan.html
+05/27/2014  09:57 AM           144,403 Population growth.html
+05/27/2014  09:47 AM           206,346 Population history of indigenous peoples of the Americas.html
+05/27/2014  10:26 AM           151,458 Pork.html
+05/27/2014  02:45 PM           773,296 Portugal.html
+05/27/2014  02:42 PM           477,127 Portuguese Empire.html
+05/27/2014  02:43 PM           143,772 Portuguese Malacca.html
+05/27/2014  11:00 AM           165,666 Postage stamps and postal history of India.html
+05/27/2014  11:04 AM           289,986 Postage stamps and postal history of the United States.html
+05/27/2014  03:06 PM           121,241 Post-Impressionism.html
+05/27/2014  10:24 AM            76,170 Post-industrial society.html
+05/27/2014  09:46 AM            76,332 Post-industrial.html
+05/27/2014  10:58 AM           168,907 Postmodern literature.html
+05/27/2014  10:59 AM           231,953 Postmodernism.html
+05/27/2014  09:53 AM            65,670 Post-World War II baby boom.html
+05/27/2014  10:26 AM           173,082 Poultry.html
+05/27/2014  09:56 AM           256,548 Poverty in India.html
+05/27/2014  09:46 AM           257,086 Poverty in the United States.html
+05/27/2014  10:31 AM            80,652 Power loom.html
+05/27/2014  10:01 AM            39,346 Power of the purse.html
+05/27/2014  10:59 AM           235,763 Pragmatism.html
+05/27/2014  09:54 AM            79,616 Prairie.html
+05/27/2014  09:54 AM           228,422 Pranab Mukherjee.html
+05/27/2014  10:12 AM            48,676 Preamble to the Constitution of India.html
+05/27/2014  09:47 AM           291,846 Pre-Columbian era.html
+05/27/2014  09:47 AM           292,004 Pre-Columbian.html
+05/27/2014  02:40 PM           208,139 Prefectures of Japan.html
+05/27/2014  10:54 AM            47,508 Prentice Hall.html
+05/27/2014  09:49 AM           520,137 Presidency of Ulysses S. Grant.html
+05/27/2014  11:03 AM            34,178 President and Fellows of Harvard College.html
+05/27/2014  09:54 AM           230,357 President of India.html
+05/27/2014  09:42 AM           450,857 President of the United States.html
+05/27/2014  11:05 AM           245,883 President pro tempore of the United States Senate.html
+05/27/2014  09:41 AM           160,554 Presidential system.html
+05/27/2014  10:32 AM           174,693 PricewaterhouseCoopers.html
+05/27/2014  10:05 AM           129,058 Primary election.html
+05/27/2014  09:54 AM           121,022 Prime Minister of India.html
+05/27/2014  02:36 PM           110,558 Prime Minister of Japan.html
+05/27/2014  10:01 AM           186,280 Princely state.html
+05/27/2014  11:04 AM           107,527 Prisons in India.html
+05/27/2014  10:44 AM           125,674 Private school.html
+05/27/2014  10:33 AM           155,979 Productivity.html
+05/27/2014  11:06 AM           102,132 Professional and working class conflict in the United States.html
+05/27/2014  03:04 PM           673,236 Programme for International Student Assessment.html
+05/27/2014  09:51 AM           190,236 Progressive Era.html
+05/27/2014  10:14 AM           132,941 Progressive tax.html
+05/27/2014  09:51 AM           325,276 Prohibition in the United States.html
+05/27/2014  10:08 AM            82,247 Project Tiger.html
+05/27/2014  10:01 AM           103,330 Proportional representation.html
+05/27/2014  09:56 AM            98,021 Protected area.html
+05/27/2014  09:57 AM           104,151 Protected areas of India.html
+05/27/2014  10:30 AM           122,470 Protectionism.html
+05/27/2014  10:47 AM           355,076 Protestant.html
+05/27/2014  10:00 AM           162,106 Protestantism in the United States.html
+05/27/2014  09:59 AM           354,917 Protestantism.html
+05/27/2014  09:52 AM            67,290 Proxy war.html
+05/27/2014  10:43 AM           137,959 Public education.html
+05/27/2014  10:33 AM           121,835 Public finances.html
+05/27/2014  10:46 AM           139,770 Public holidays in India.html
+05/27/2014  10:46 AM           480,959 Public holidays in the United States.html
+05/27/2014  11:05 AM           102,827 Public policy of the United States.html
+05/27/2014  10:44 AM           174,779 Public university.html
+05/27/2014  03:09 PM           124,210 PubMed Identifier.html
+05/27/2014  10:15 AM           193,690 Puducherry.html
+05/27/2014  09:43 AM            84,594 Puerto Rican Spanish.html
+05/27/2014  09:44 AM           690,464 Puerto Rico.html
+05/27/2014  11:00 AM           120,340 Pulitzer Prize for Drama.html
+05/27/2014  10:35 AM           462,063 Pune.html
+05/27/2014  09:57 AM           154,365 Punjab region.html
+05/27/2014  10:59 AM           284,889 Punjab, India.html
+05/16/2014  09:45 AM           283,607 Punjab.html
+05/27/2014  09:54 AM           234,887 Punjabi language.html
+05/27/2014  02:37 PM           126,306 Purchasing power parity.html
+05/27/2014  02:44 PM           161,182 Pure Land Buddhism.html
+05/27/2014  11:05 AM            69,748 Purple America.html
+05/27/2014  03:23 PM           465,898 Qatar.html
+05/27/2014  10:41 AM           506,518 Rabindranath Tagore.html
+05/27/2014  09:57 AM           122,663 Race and ethnicity in the United States Census.html
+05/27/2014  09:50 AM           245,626 Racial segregation in the United States.html
+05/27/2014  11:07 AM           410,894 Racism in the United States.html
+05/27/2014  11:06 AM           181,322 Radio in the United States.html
+05/27/2014  09:51 AM           296,983 Radio.html
+05/27/2014  09:49 AM           179,076 Rail transport in the United States.html
+05/27/2014  10:35 AM           178,843 Rail transportation in the United States.html
+05/27/2014  11:02 AM            48,995 Railway Protection Force.html
+05/27/2014  09:58 AM           138,369 Raja Raja Chola I.html
+05/27/2014  10:19 AM           260,817 Rajasthan.html
+05/27/2014  09:54 AM            58,546 Rajendra Mal Lodha.html
+05/27/2014  10:50 AM            99,491 Rajiv Gandhi Khel Ratna.html
+05/27/2014  10:10 AM           200,770 Rajiv Gandhi.html
+05/27/2014  10:00 AM           112,283 Rajputs.html
+05/27/2014  09:54 AM           165,659 Rajya Sabha.html
+05/27/2014  03:05 PM            62,253 Rakugo.html
+05/27/2014  10:58 AM           236,873 Ralph Waldo Emerson.html
+05/27/2014  10:40 AM           253,924 Ramayana.html
+05/27/2014  10:44 AM            71,664 Ramlila.html
+05/27/2014  10:08 AM           107,439 Ramsar Convention.html
+05/27/2014  02:54 PM           142,127 Ramsar sites in Japan.html
+05/27/2014  02:46 PM           169,561 Rangaku.html
+05/27/2014  10:48 AM           117,300 Ranji Trophy.html
+05/27/2014  10:04 AM            52,921 Rann of Kutch.html
+05/27/2014  10:39 AM            62,949 Ransom E. Olds.html
+05/27/2014  10:09 AM           113,765 Rashtrapati Bhavan.html
+05/27/2014  09:48 AM           353,172 Ratification of the United States Constitution.html
+05/27/2014  09:53 AM           184,160 Reaganomics.html
+05/27/2014  10:59 AM           138,777 Realist visual arts.html
+05/27/2014  03:06 PM            61,254 Recitative.html
+05/27/2014  09:49 AM           424,768 Reconstruction Era.html
+05/27/2014  02:43 PM           114,780 Records of the Three Kingdoms.html
+05/27/2014  10:07 AM           177,870 Red states and blue states.html
+05/27/2014  10:56 AM            57,435 Rediff.com.html
+05/27/2014  02:52 PM            76,208 Regions of Japan.html
+05/27/2014  10:14 AM            68,748 Regressive tax.html
+05/27/2014  10:36 AM           286,094 Religion in India.html
+05/27/2014  03:02 PM           175,844 Religion in Japan.html
+05/27/2014  09:59 AM           376,094 Religion in the United States.html
+05/27/2014  10:00 AM           115,215 Religious humanism.html
+05/27/2014  10:02 AM           358,119 Religious violence in India.html
+05/27/2014  10:31 AM            91,436 Renewable energy in India.html
+05/27/2014  10:36 AM           442,591 Renewable energy.html
+05/27/2014  09:57 AM            79,228 Replacement rate.html
+05/27/2014  10:11 AM            72,478 Representative democracy.html
+05/27/2014  09:49 AM           142,409 Republic of Texas.html
+05/27/2014  09:54 AM           182,983 Republic.html
+05/27/2014  09:48 AM           139,743 Republicanism in the United States.html
+05/27/2014  11:02 AM           379,174 Research and Analysis Wing.html
+05/27/2014  02:57 PM            96,934 Research and development.html
+05/27/2014  11:03 AM           181,932 Reservation in India.html
+05/27/2014  11:03 AM           186,018 Reserve Bank of India.html
+05/27/2014  10:17 AM           184,041 Reserve component of the Armed Forces of the United States.html
+05/27/2014  10:23 AM           130,409 Reserve currency.html
+05/27/2014  10:06 AM            31,909 Resilience.html
+05/27/2014  11:03 AM           218,504 Retailing in India.html
+05/27/2014  03:09 PM           161,105 Reuters.html
+05/27/2014  10:03 AM           457,381 Rhode Island.html
+05/27/2014  10:53 AM           190,730 Rhythm and blues.html
+05/27/2014  10:56 AM            79,316 RIA Novosti.html
+05/27/2014  02:43 PM           436,711 Rice.html
+05/27/2014  11:02 AM            52,962 Richard N. Haass.html
+05/27/2014  10:59 AM           129,383 Richard Rorty.html
+05/27/2014  02:38 PM           527,873 Right- and left-hand traffic.html
+05/27/2014  09:48 AM            71,567 Rights of Englishmen.html
+05/27/2014  02:50 PM           142,442 RIM-161 Standard Missile 3.html
+05/27/2014  02:52 PM           100,071 RIMPAC.html
+05/27/2014  11:04 AM           139,179 Rio Grande.html
+05/27/2014  10:45 AM            46,122 Risk factor.html
+05/27/2014  03:10 PM            89,396 Rivers of Japan.html
+05/27/2014  09:51 AM           232,804 Roaring Twenties.html
+05/27/2014  10:59 AM           147,487 Robert Nozick.html
+05/27/2014  02:58 PM           305,103 Robotics.html
+05/27/2014  10:53 AM           219,156 Rock and roll.html
+05/27/2014  09:54 AM           257,405 Rocky Mountains.html
+05/27/2014  10:00 AM           211,205 Roe v. Wade.html
+05/27/2014  09:53 AM           141,617 Rollback.html
+05/27/2014  09:58 AM           745,367 Roman Empire.html
+05/27/2014  09:52 AM           956,130 Ronald Reagan.html
+05/27/2014  11:11 AM            82,798 Ross Dependency.html
+05/27/2014  10:53 AM            60,583 Routledge.html
+05/27/2014  10:59 AM           226,483 Roy Lichtenstein.html
+05/27/2014  03:08 PM           419,040 Rugby Union.html
+05/27/2014  03:08 PM           196,618 Rugby World Cup.html
+05/16/2014  09:31 AM            84,510 Rukmini Devi Arundale.html
+05/27/2014  02:39 PM           941,058 Russia.html
+05/27/2014  02:40 PM           261,127 Russo-Japanese War.html
+05/27/2014  11:09 AM           526,536 Rwanda.html
+05/27/2014  10:25 AM           100,216 Rye.html
+05/27/2014  02:52 PM           189,599 Ryukyu Islands.html
+05/27/2014  02:35 PM           139,922 Ryukyuan languages.html
+05/27/2014  03:00 PM            77,582 Ryukyuan people.html
+05/27/2014  10:54 AM            38,395 S. Chand.html
+05/27/2014  10:54 AM            68,304 S. Dillon Ripley.html
+05/27/2014  10:07 AM           102,269 Sacred fig.html
+05/27/2014  03:13 PM           139,407 Saga Prefecture.html
+05/27/2014  03:02 PM            99,015 Sagamihara.html
+05/27/2014  10:56 AM            43,579 SAGE Publications.html
+05/27/2014  10:57 AM            51,971 Sahitya Akademi.html
+05/27/2014  03:07 PM            59,418 Saikaku.html
+05/27/2014  11:13 AM           191,709 Saint Helena, Ascension and Tristan da Cunha.html
+05/27/2014  03:23 PM           258,963 Saint Kitts and Nevis.html
+05/27/2014  03:23 PM           263,453 Saint Lucia.html
+05/27/2014  03:23 PM           250,826 Saint Vincent and the Grenadines.html
+05/27/2014  03:02 PM           133,929 Saitama Prefecture.html
+05/27/2014  03:02 PM           118,085 Saitama, Saitama.html
+05/27/2014  03:01 PM            92,433 Sakai, Osaka.html
+05/27/2014  02:46 PM           204,688 Sakhalin.html
+05/27/2014  02:46 PM           113,171 Sakoku.html
+05/27/2014  10:31 AM           162,193 Salem, Tamil Nadu.html
+05/27/2014  10:24 AM           249,063 Salt.html
+05/27/2014  09:58 AM            51,708 Samanta.html
+05/27/2014  10:01 AM           137,476 Same-sex marriage in District of Columbia.html
+05/27/2014  10:01 AM           705,619 Same-sex marriage in the United States.html
+05/27/2014  10:01 AM           181,216 Same-sex marriage in Utah.html
+05/27/2014  10:01 AM           115,082 Same-sex marriage under United States tribal jurisdictions.html
+05/27/2014  11:09 AM           279,805 Samoa.html
+05/27/2014  09:43 AM           137,362 Samoan language.html
+05/27/2014  10:46 AM            26,746 Samskara.html
+05/27/2014  11:03 AM           108,936 Samuel P. Huntington.html
+05/27/2014  02:44 PM           262,408 Samurai.html
+05/27/2014  10:50 AM           266,761 San Diego Comic-Con International.html
+05/27/2014  09:58 AM           628,604 San Diego.html
+05/27/2014  09:52 AM           837,089 San Francisco.html
+05/27/2014  10:33 AM           572,271 San Jose, California.html
+05/27/2014  09:58 AM           100,521 Sangam literature.html
+05/27/2014  10:44 AM            52,007 Sangeet Natak Akademi.html
+05/27/2014  10:40 AM           141,321 Sanskrit Classical poetry.html
+05/27/2014  09:53 AM           411,797 Sanskrit language.html
+05/27/2014  09:58 AM           140,967 Sanskrit literature.html
+05/27/2014  09:54 AM           411,615 Sanskrit.html
+05/27/2014  09:54 AM            99,867 Santali language.html
+05/27/2014  03:01 PM           227,777 Sapporo.html
+05/27/2014  10:47 AM           271,292 Sari.html
+05/27/2014  11:02 AM            79,046 Sashastra Seema Bal.html
+05/27/2014  10:03 AM           137,121 Satpura Range.html
+05/27/2014  10:44 AM            56,930 Sattriya.html
+05/27/2014  09:53 AM            42,153 Satyameva Jayate.html
+05/27/2014  02:55 PM           718,344 Saudi Arabia.html
+05/27/2014  10:36 AM            65,887 Scheduled castes and scheduled tribes.html
+05/27/2014  02:57 PM            63,662 Science and technology in Japan.html
+05/27/2014  10:37 AM           134,926 Science and technology in the United States.html
+05/27/2014  09:48 AM           203,829 Scotch-Irish American.html
+05/27/2014  09:58 AM            70,902 Sculpture in the Indian subcontinent.html
+05/27/2014  02:38 PM           140,670 Sea of Japan.html
+05/27/2014  02:39 PM            99,962 Sea of Okhotsk.html
+05/27/2014  10:03 AM            92,029 Seafloor spreading.html
+05/27/2014  03:07 PM            36,039 Seasonal food.html
+05/27/2014  09:58 AM           644,778 Seattle.html
+05/27/2014  10:02 AM           147,288 Secession.html
+05/27/2014  10:19 AM           499,098 Second Amendment to the United States Constitution.html
+05/27/2014  09:48 AM            91,181 Second Continental Congress.html
+05/27/2014  03:15 PM           102,231 Second East Asia Summit.html
+05/27/2014  09:48 AM           163,013 Second Great Awakening.html
+05/27/2014  09:49 AM            94,881 Second Party System.html
+05/27/2014  02:41 PM           554,626 Second Sino-Japanese War.html
+05/27/2014  03:04 PM            95,502 Secondary education in Japan.html
+05/27/2014  11:04 AM           367,853 Second-wave feminism.html
+05/27/2014  02:49 PM            81,560 Secret ballot.html
+05/27/2014  11:03 AM           125,760 Secularism in India.html
+05/27/2014  10:12 AM           247,914 Secularism.html
+05/27/2014  10:59 AM           409,246 Seemandhra.html
+05/27/2014  02:59 PM           117,760 Seibu Railway.html
+05/27/2014  10:17 AM           126,858 Selective Service System.html
+05/27/2014  02:58 PM           171,685 SELENE.html
+05/27/2014  02:41 PM            91,887 Self-defense.html
+05/27/2014  02:58 PM           124,150 Semiconductor.html
+05/27/2014  03:01 PM           229,486 Sendai.html
+05/27/2014  02:45 PM           119,867 Sengoku period.html
+05/27/2014  02:51 PM           196,167 Senkaku Islands.html
+05/27/2014  09:59 AM           186,397 Separation of church and state in the United States.html
+05/27/2014  11:05 AM           151,461 Separation of powers under the United States Constitution.html
+05/27/2014  10:12 AM           142,504 Separation of powers.html
+05/27/2014  09:53 AM           652,504 September 11 attacks.html
+05/27/2014  02:55 PM            78,735 Service sector.html
+05/27/2014  02:53 PM            95,892 Seto Inland Sea.html
+05/27/2014  09:45 AM           277,914 Settlement of the Americas.html
+05/27/2014  03:15 PM            62,150 Seventh East Asia Summit.html
+05/27/2014  10:40 AM           492,243 Sexual intercourse.html
+05/27/2014  09:53 AM           150,724 Sexual revolution.html
+05/27/2014  03:11 PM           144,705 Sexuality in Japan.html
+05/27/2014  11:09 AM           274,582 Seychelles.html
+05/27/2014  10:39 AM           153,051 Shah Jahan.html
+05/27/2014  10:00 AM           133,457 Shaivism.html
+05/27/2014  02:57 PM            58,309 Shale.html
+05/27/2014  10:47 AM            81,722 Shalwar kameez.html
+05/27/2014  03:06 PM           110,356 Shamisen.html
+05/27/2014  02:42 PM           179,969 Shanghainese.html
+05/27/2014  02:56 PM            52,029 Shareholder activism.html
+05/27/2014  02:56 PM           164,898 Sharp Corporation.html
+05/27/2014  10:19 AM            93,692 Sheriff.html
+05/27/2014  03:12 PM           149,786 Shiga Prefecture.html
+05/27/2014  02:40 PM            89,425 Shikoku.html
+05/27/2014  10:39 AM            65,828 Shilpa Shastras.html
+05/27/2014  03:13 PM           176,338 Shimane Prefecture.html
+05/27/2014  02:44 PM           167,818 Shingon.html
+05/27/2014  02:59 PM           262,732 Shinkansen.html
+05/27/2014  03:02 PM           256,452 Shinto.html
+05/27/2014  10:57 AM           105,843 Shivarama Karanth.html
+05/27/2014  03:02 PM           110,349 Shizuoka Prefecture.html
+05/27/2014  03:02 PM           233,887 Shizuoka, Shizuoka.html
+05/27/2014  02:44 PM           109,024 Shogun.html
+05/27/2014  02:40 PM           109,146 Shoguns.html
+05/27/2014  10:06 AM            55,531 Shola.html
+05/27/2014  10:06 AM            55,905 Shorea robusta.html
+05/27/2014  10:51 AM           180,214 Siachen Glacier.html
+05/27/2014  09:47 AM           210,626 Siberia.html
+05/27/2014  09:48 AM           185,558 Siege of Yorktown.html
+05/27/2014  11:10 AM           612,125 Sierra Leone.html
+05/27/2014  10:01 AM           151,926 Sikh empire.html
+05/27/2014  10:00 AM           287,602 Sikh.html
+05/27/2014  09:56 AM            76,119 Sikhism in India.html
+05/27/2014  03:03 PM           353,236 Sikhism.html
+05/27/2014  10:19 AM           314,487 Sikkim.html
+05/27/2014  10:47 AM           122,441 Silambam.html
+05/27/2014  03:03 PM           220,820 Simplified Chinese characters.html
+05/27/2014  09:54 AM           179,756 Sindhi language.html
+05/27/2014  03:17 PM           653,314 Singapore.html
+05/27/2014  10:24 AM           276,355 Sino-Indian War.html
+05/27/2014  10:12 AM            38,363 Six Assurances.html
+05/27/2014  02:49 PM            40,515 Six Codes.html
+05/27/2014  02:51 PM           230,958 Six-party talks.html
+05/27/2014  03:15 PM            82,627 Sixth East Asia Summit.html
+05/27/2014  11:01 AM           238,683 Skateboarding.html
+05/27/2014  09:49 AM            84,760 Slave and free states.html
+05/27/2014  09:45 AM           472,585 Slavery in the United States.html
+05/27/2014  02:44 PM           331,043 Smallpox.html
+05/27/2014  10:25 AM           125,249 Smiling Buddha.html
+05/27/2014  03:11 PM           106,113 Smoking in Japan.html
+05/27/2014  11:06 AM            40,368 Smoking in the United States.html
+05/27/2014  11:01 AM           163,288 Snowboarding.html
+05/27/2014  11:01 AM           308,724 Soccer.html
+05/27/2014  10:46 AM           266,265 Social class in the United States.html
+05/27/2014  10:47 AM           120,010 Social mobility.html
+05/27/2014  11:06 AM           191,678 Social programs in the United States.html
+05/27/2014  11:02 AM            88,165 Social Security Administration.html
+05/27/2014  10:11 AM           158,922 Socialism in India.html
+05/27/2014  10:12 AM           840,008 Socialism.html
+05/27/2014  10:47 AM           123,147 Socialization.html
+05/27/2014  02:45 PM           319,190 Society of Jesus.html
+05/27/2014  11:04 AM           168,518 Socio-economic issues in India.html
+05/27/2014  10:30 AM           195,330 Soft drink.html
+05/27/2014  10:41 AM           105,581 Software.html
+05/27/2014  11:03 AM           188,822 Solar power in India.html
+05/27/2014  03:11 PM            78,723 Solar power in Japan.html
+05/27/2014  03:23 PM           240,672 Solomon Islands.html
+05/27/2014  02:56 PM           287,280 Sony.html
+05/27/2014  11:00 AM           102,384 Soul food.html
+05/27/2014  10:48 AM           278,128 Sound film.html
+05/27/2014  03:20 PM           633,243 South Africa.html
+05/27/2014  09:55 AM           341,848 South Asia.html
+05/27/2014  10:24 AM           292,547 South Asian Association for Regional Cooperation.html
+05/27/2014  10:50 AM           100,575 South Asian Games.html
+05/27/2014  10:13 AM           128,097 South Asian River Dolphin.html
+05/27/2014  11:00 AM            87,718 South Asian Stone Age.html
+05/27/2014  10:03 AM           444,180 South Carolina.html
+05/27/2014  10:00 AM           466,895 South Dakota.html
+05/27/2014  09:58 AM           265,756 South Florida metropolitan area.html
+05/27/2014  11:13 AM           267,538 South Georgia and the South Sandwich Islands.html
+05/27/2014  10:03 AM           251,291 South India.html
+05/27/2014  02:39 PM           657,357 South Korea.html
+05/27/2014  10:06 AM            40,477 South Western Ghats montane rain forests.html
+05/27/2014  09:58 AM           268,436 Southeast Asia.html
+05/27/2014  11:04 AM           108,668 Southeastern United States.html
+05/27/2014  10:00 AM           381,149 Southern Baptist Convention.html
+05/27/2014  09:58 AM           343,841 Southern United States.html
+05/27/2014  11:04 AM           198,598 Southwestern United States.html
+05/27/2014  10:12 AM           155,490 Sovereignty.html
+05/27/2014  02:48 PM           187,893 Soviet invasion of Manchuria.html
+05/27/2014  09:52 AM            83,234 Soviet Union and the United Nations.html
+05/27/2014  09:46 AM           597,319 Soviet Union.html
+05/27/2014  02:58 PM           542,847 Space agency.html
+05/27/2014  02:58 PM           320,034 Space exploration.html
+05/27/2014  02:58 PM           137,302 Space probe.html
+05/27/2014  09:52 AM           428,943 Space Race.html
+05/27/2014  02:58 PM           445,398 Space Shuttle.html
+05/27/2014  03:23 PM           657,549 Spain.html
+05/27/2014  09:50 AM           453,555 Spanish American War.html
+05/27/2014  10:00 AM           125,244 Spanish colonization of the Americas.html
+05/27/2014  09:59 AM           237,335 Spanish language in the United States.html
+05/27/2014  09:58 AM           662,624 Spanish language.html
+05/27/2014  09:58 AM            47,811 Spanish-based creole language.html
+05/15/2014  04:52 PM            59,113 Speaker of the Lok Sabha.html
+05/27/2014  09:42 AM           297,721 Speaker of the United States House of Representatives.html
+05/27/2014  10:28 AM            82,581 Special Frontier Force.html
+05/27/2014  11:02 AM            63,294 Special Protection Group.html
+05/27/2014  10:12 AM           400,155 Special Relationship.html
+05/27/2014  10:47 AM           335,337 Sport in India.html
+05/27/2014  03:07 PM           142,478 Sport in Japan.html
+05/27/2014  10:34 AM           162,565 Sport utility vehicle.html
+05/27/2014  11:00 AM           275,635 Sports in the United States.html
+05/27/2014  10:58 AM            34,523 Springer Publishing.html
+05/27/2014  09:52 AM           202,664 Sputnik 1.html
+05/27/2014  09:55 AM           739,187 Sri Lanka.html
+05/27/2014  09:58 AM           430,693 St. Louis, MO.html
+05/27/2014  09:53 AM           130,585 Stagflation.html
+05/27/2014  09:53 AM           192,425 Standard Hindi.html
+05/27/2014  09:59 AM           175,716 Standard Mandarin.html
+05/27/2014  11:04 AM            94,464 Standard of living in India.html
+05/27/2014  11:06 AM           142,943 Standard of living in the United States.html
+05/27/2014  10:53 AM            72,279 Stanley Wolpert.html
+05/27/2014  03:07 PM            81,738 Staple food.html
+05/27/2014  11:02 AM            54,697 State governments of India.html
+05/27/2014  10:01 AM           118,227 State governments of the United States.html
+05/27/2014  10:19 AM            76,639 State police.html
+05/27/2014  09:56 AM           208,394 States and territories of India.html
+05/27/2014  10:59 AM           208,158 States and union territories of India.html
+05/27/2014  10:15 AM            63,283 States Reorganisation Act.html
+05/27/2014  09:56 AM            90,700 Statistics of Jainism.html
+05/27/2014  10:47 AM           516,954 Statue of Liberty.html
+05/27/2014  09:49 AM           239,320 Steam engine.html
+05/27/2014  09:49 AM           207,839 Steamboats.html
+05/27/2014  03:17 PM           539,149 Stephen Harper.html
+05/27/2014  09:46 AM            34,980 Stephen Moylan.html
+05/27/2014  11:00 AM           311,027 Stephen Sondheim.html
+05/27/2014  10:57 AM            41,857 Sterling Publishing.html
+05/27/2014  10:28 AM            67,862 Stockholm International Peace Research Institute.html
+05/27/2014  10:28 AM            56,342 Strategic Forces Command.html
+05/27/2014  10:45 AM           428,459 Stroke.html
+05/27/2014  10:44 AM            59,898 Student debt.html
+05/27/2014  02:52 PM           113,647 Subduction.html
+05/27/2014  02:53 PM           427,526 Subtropics.html
+05/27/2014  09:53 AM           141,838 Suburb.html
+05/27/2014  10:53 AM            98,511 Sugata Bose.html
+05/27/2014  03:00 PM            93,519 Suicide in Japan.html
+05/27/2014  11:01 AM           274,052 Summer Olympic Games.html
+05/27/2014  03:07 PM           164,304 Sumo.html
+05/27/2014  10:42 AM           272,351 Sun Microsystems.html
+05/27/2014  10:04 AM           221,310 Sundarbans.html
+05/27/2014  10:26 AM           137,778 Sunflowers.html
+05/27/2014  03:08 PM           172,090 Super GT.html
+05/27/2014  10:50 AM           181,442 Superhero.html
+05/27/2014  10:50 AM           455,190 Superman.html
+05/27/2014  09:46 AM           174,493 Superpower.html
+05/27/2014  09:54 AM           128,479 Supervolcano.html
+05/27/2014  02:48 PM            50,433 Supreme Allied Commander.html
+05/27/2014  10:09 AM           174,910 Supreme Court Justices.html
+05/27/2014  10:14 AM           206,795 Supreme Court of India.html
+05/27/2014  02:49 PM            85,606 Supreme Court of Japan.html
+05/27/2014  10:01 AM           619,649 Supreme Court of the United States.html
+05/27/2014  11:01 AM           197,103 Surfing.html
+05/27/2014  10:30 AM           346,553 Suriname.html
+05/27/2014  02:48 PM           335,592 Surrender of Japan.html
+05/27/2014  10:01 AM           111,774 Suzerainty.html
+05/27/2014  03:23 PM           272,891 Swaziland.html
+05/27/2014  03:23 PM           582,814 Sweden.html
+05/27/2014  03:03 PM            61,222 Syllabary.html
+05/27/2014  03:02 PM           175,775 Syncretism.html
+05/27/2014  09:58 AM           334,116 Table of United States Metropolitan Statistical Areas.html
+05/27/2014  09:59 AM           236,415 Tagalog language.html
+05/27/2014  02:44 PM            38,998 Taira clan.html
+05/27/2014  02:39 PM           700,578 Taiwan.html
+05/27/2014  10:38 AM           230,869 Taj Mahal.html
+05/27/2014  02:56 PM           102,436 Takeda Pharmaceutical Company.html
+05/27/2014  10:44 AM            57,059 Tamasha.html
+05/27/2014  10:45 AM           278,259 Tamil cinema.html
+05/27/2014  09:54 AM           361,013 Tamil language.html
+05/27/2014  10:40 AM           133,514 Tamil literature.html
+05/27/2014  10:19 AM           515,561 Tamil Nadu.html
+05/27/2014  03:03 PM            87,932 Tanabata.html
+05/27/2014  02:58 PM            75,337 Tanegashima Space Center.html
+05/27/2014  11:10 AM           357,929 Tanzania.html
+05/27/2014  03:02 PM           314,100 Taoism.html
+05/27/2014  10:00 AM           314,223 Taoist.html
+05/27/2014  10:04 AM           114,677 Tapti River.html
+05/27/2014  03:05 PM            65,926 Tatami.html
+05/27/2014  10:14 AM            74,860 Tax incidence.html
+05/27/2014  10:13 AM           273,438 Taxation in the United States.html
+05/27/2014  10:07 AM            51,634 Taxon.html
+05/27/2014  10:07 AM           121,752 Teak.html
+05/27/2014  10:37 AM           291,934 Technological and industrial history of the United States.html
+05/27/2014  10:00 AM           255,391 Teenage pregnancy.html
+05/27/2014  10:15 AM            83,331 Tehsil.html
+05/27/2014  10:57 AM            46,941 Telecom Regulatory Authority of India.html
+05/27/2014  11:04 AM           314,683 Telecommunications in India.html
+05/27/2014  03:11 PM           110,532 Telecommunications in Japan.html
+05/27/2014  10:59 AM           270,991 Telengana.html
+05/27/2014  09:55 AM           117,027 Telephone numbers in India.html
+05/27/2014  02:38 PM            58,567 Telephone numbers in Japan.html
+05/27/2014  09:43 AM           216,882 Telephone numbers in the United States.html
+05/27/2014  09:50 AM           197,112 Telephone.html
+05/27/2014  11:05 AM           172,748 Television in India.html
+05/27/2014  03:12 PM           126,412 Television in Japan.html
+05/27/2014  10:48 AM           273,070 Television in the United States.html
+05/27/2014  10:50 AM           159,727 Television network.html
+05/27/2014  09:51 AM           290,903 Television.html
+05/27/2014  09:54 AM           187,850 Telugu language.html
+05/27/2014  02:53 PM            80,873 Temperate broadleaf and mixed forests.html
+05/27/2014  02:53 PM            83,544 Temperate coniferous forest.html
+05/27/2014  02:53 PM            69,476 Temperate.html
+05/27/2014  02:44 PM           110,901 Tendai.html
+05/27/2014  11:00 AM           177,413 Tennessee Williams.html
+05/27/2014  10:02 AM           441,523 Tennessee.html
+05/27/2014  10:01 AM           163,889 Term limits in the United States.html
+05/27/2014  09:48 AM           184,074 Territorial acquisitions of the United States.html
+05/27/2014  10:02 AM           299,820 Territorial evolution of the United States.html
+05/27/2014  09:44 AM           209,043 Territories of the United States.html
+05/27/2014  09:56 AM           142,825 Terrorism in India.html
+05/27/2014  11:07 AM           444,778 Terrorism in the United States.html
+05/27/2014  10:24 AM            78,823 Tertiary sector of economic activity.html
+05/27/2014  10:44 AM            56,300 Terukkuttu.html
+05/27/2014  10:03 AM            53,880 Tethys Ocean.html
+05/27/2014  10:44 AM           109,327 Texas Medical Center.html
+05/27/2014  10:02 AM            82,127 Texas v. White.html
+05/27/2014  10:02 AM           693,758 Texas.html
+05/27/2014  11:00 AM            84,470 Tex-Mex.html
+05/27/2014  10:31 AM            62,541 Textile industry in India.html
+05/27/2014  10:46 AM            79,535 Thai Pongal.html
+05/27/2014  03:15 PM           471,341 Thailand.html
+05/16/2014  09:30 AM           126,805 Thane district.html
+05/27/2014  09:58 AM           304,958 Thanjavur.html
+05/27/2014  10:03 AM           206,117 Thar Desert.html
+05/27/2014  11:03 AM           117,090 The Atlantic.html
+05/27/2014  10:54 AM            92,436 The Australian.html
+05/27/2014  03:21 PM           389,282 The Bahamas.html
+05/27/2014  10:57 AM            74,698 The Economic Times.html
+05/27/2014  10:55 AM            94,315 The Globe and Mail.html
+05/27/2014  10:57 AM           233,262 The Great Gatsby.html
+05/27/2014  03:09 PM           380,536 The Guardian.html
+05/27/2014  11:00 AM           127,750 The Hershey Company.html
+05/27/2014  11:02 AM            32,656 The Hindu Group.html
+05/27/2014  10:54 AM           134,555 The Hindu.html
+05/27/2014  11:02 AM           143,445 The Huffington Post.html
+05/27/2014  10:01 AM            40,819 The Imperial Gazetteer of India.html
+05/27/2014  11:02 AM           342,811 The New York Times.html
+05/27/2014  09:53 AM           290,410 The Pentagon.html
+05/27/2014  03:07 PM            43,356 The Pillow Book.html
+05/27/2014  11:02 AM           113,727 The Plain Dealer.html
+05/27/2014  10:53 AM            27,996 The Short Oxford History of the Modern World.html
+05/27/2014  09:41 AM           216,164 The Star-Spangled Banner.html
+05/27/2014  02:44 PM           223,141 The Tale of Genji.html
+05/27/2014  02:59 PM            82,832 The Tale of the Bamboo Cutter.html
+05/27/2014  02:44 PM            92,238 The Tale of the Heike.html
+05/27/2014  03:04 PM            67,814 The Temple of the Golden Pavilion.html
+05/27/2014  10:52 AM           121,467 The Times Of India.html
+05/27/2014  02:56 PM            63,902 The Toyota Way.html
+05/27/2014  09:47 AM            62,966 The Virginia Gazette.html
+05/27/2014  11:03 AM            35,732 The Wages of Destruction.html
+05/27/2014  10:57 AM           203,028 The Wall Street Journal.html
+05/27/2014  03:10 PM           174,789 The World Factbook.html
+05/27/2014  10:59 AM            82,720 Theater District.html
+05/27/2014  10:59 AM           146,021 Theater of the United States.html
+05/27/2014  10:44 AM           146,165 Theatre in India.html
+05/27/2014  03:12 PM            61,415 Theatre of Japan.html
+05/27/2014  10:06 AM           673,354 Theodore Roosevelt.html
+05/27/2014  03:15 PM            68,826 Third East Asia Summit.html
+05/27/2014  09:52 AM            93,032 Third World.html
+05/27/2014  09:45 AM           167,589 Thirteen Colonies.html
+05/27/2014  09:47 AM           292,666 Thirteenth Amendment to the United States Constitution.html
+05/27/2014  10:59 AM           159,185 Thomas Eakins.html
+05/27/2014  10:39 AM           372,483 Thomas Edison.html
+05/27/2014  10:43 AM           601,591 Thomas Jefferson.html
+05/27/2014  11:02 AM            81,956 Thomas Piketty.html
+05/27/2014  10:58 AM           187,208 Thomas Pynchon.html
+05/27/2014  10:53 AM            38,337 Thomas R. Metcalf.html
+05/27/2014  10:59 AM           140,849 Thomas Sowell.html
+05/27/2014  10:37 AM           228,405 Three Mile Island accident.html
+05/27/2014  03:02 PM            53,461 Three Views of Japan.html
+05/27/2014  10:36 AM           172,703 Tibeto-Burman languages.html
+05/27/2014  10:13 AM           508,079 Tiger.html
+05/27/2014  09:44 AM           101,890 Time in the United States.html
+05/27/2014  10:59 AM           252,093 Timeline of Indian history.html
+05/27/2014  11:04 AM           392,290 Timeline of modern American conservatism.html
+05/27/2014  11:04 AM           370,343 Timeline of United States discoveries.html
+05/27/2014  09:47 AM         1,409,303 Timeline of United States history.html
+05/27/2014  11:04 AM            34,882 Timeline of United States inventions.html
+05/27/2014  10:59 AM           194,662 Times Square.html
+05/27/2014  11:03 AM            36,721 Titan Books.html
+05/27/2014  10:29 AM           368,533 Titanium.html
+05/27/2014  11:02 AM            69,865 Title 36 of the United States Code.html
+05/27/2014  11:02 AM            37,826 Title 8 of the United States Code.html
+05/27/2014  03:12 PM           113,135 Tochigi Prefecture.html
+05/27/2014  03:07 PM           259,788 Tofu.html
+05/27/2014  11:12 AM           250,620 Tokelau.html
+05/27/2014  02:46 PM           265,477 Tokugawa Ieyasu.html
+05/27/2014  02:46 PM           458,347 Tokugawa shogunate.html
+05/27/2014  03:13 PM           105,056 Tokushima Prefecture.html
+05/27/2014  02:59 PM           201,980 Tokyo Station.html
+05/27/2014  02:54 PM           129,519 Tokyo Stock Exchange.html
+05/27/2014  02:35 PM           509,101 Tokyo.html
+05/27/2014  02:59 PM           122,530 Toll road.html
+05/27/2014  03:24 PM           259,513 Tonga.html
+05/27/2014  10:58 AM           264,865 Toni Morrison.html
+05/27/2014  02:57 PM            55,721 TOPIX.html
+05/27/2014  03:02 PM           172,164 Torii.html
+05/27/2014  09:56 AM            64,359 Tornado Alley.html
+05/27/2014  09:56 AM           344,161 Tornado.html
+05/27/2014  03:06 PM           169,963 Toru Takemitsu.html
+05/27/2014  02:56 PM           227,312 Toshiba.html
+05/27/2014  03:12 PM           115,558 Tottori Prefecture.html
+05/27/2014  10:29 AM           384,407 Tourism in India.html
+05/27/2014  03:08 PM           104,936 Tourism in Japan.html
+05/27/2014  10:46 AM           134,385 Tourism in the United States.html
+05/27/2014  02:52 PM           136,238 Towns of Japan.html
+05/27/2014  03:12 PM           108,047 Toyama Prefecture.html
+05/27/2014  02:55 PM           601,484 Toyota.html
+05/27/2014  02:46 PM            82,481 Toyotomi Hideyori.html
+05/27/2014  02:45 PM           148,394 Toyotomi Hideyoshi.html
+05/27/2014  10:33 AM            47,569 Tract housing.html
+05/27/2014  03:06 PM            69,182 Traditional Japanese musical instruments.html
+05/27/2014  11:00 AM            76,113 Traditional pop music.html
+05/27/2014  09:49 AM           233,958 Trail of Tears.html
+05/27/2014  10:58 AM           219,699 Transcendentalism.html
+05/27/2014  09:57 AM           345,005 Transgender.html
+05/27/2014  10:57 AM           100,537 Transparency International.html
+05/27/2014  10:29 AM           407,337 Transport in India.html
+05/27/2014  02:59 PM            74,273 Transport in Japan.html
+05/27/2014  10:34 AM           186,839 Transportation in the United States.html
+05/27/2014  09:48 AM           125,729 Treaty of Paris 1783.html
+05/27/2014  02:37 PM           113,637 Treaty of San Francisco.html
+05/27/2014  09:51 AM           310,723 Treaty of Versailles.html
+05/27/2014  10:02 AM           113,832 Tribal sovereignty in the United States.html
+05/27/2014  11:10 AM           427,810 Trinidad and Tobago.html
+05/27/2014  02:47 PM           158,743 Tripartite Pact.html
+05/27/2014  10:19 AM           349,498 Tripura.html
+05/27/2014  02:53 PM            56,860 Tropical and subtropical moist broadleaf forests.html
+05/27/2014  09:56 AM           539,797 Tropical cyclone.html
+05/27/2014  10:13 AM            67,388 Trust Territory of the Pacific Islands.html
+05/27/2014  02:53 PM           214,305 Tsunami.html
+05/27/2014  02:42 PM           214,439 Tsunamis.html
+05/27/2014  10:41 AM           340,489 Tulsidas.html
+05/27/2014  03:20 PM           593,741 Turkey.html
+05/27/2014  11:13 AM           399,268 Turks and Caicos Islands.html
+05/27/2014  03:24 PM           495,093 Tuvalu.html
+05/27/2014  10:43 AM            77,614 Twelfth grade.html
+05/27/2014  10:48 AM           180,712 Twenty20.html
+05/27/2014  10:05 AM           155,740 Two-party system.html
+05/27/2014  02:53 PM           123,136 Typhoon.html
+05/27/2014  10:01 AM           286,255 U.S. Capitol.html
+05/27/2014  09:57 AM           169,269 U.S. Census Bureau.html
+05/27/2014  10:01 AM           339,294 U.S. House.html
+05/27/2014  09:54 AM           124,563 U.S. Interior Highlands.html
+05/27/2014  10:01 AM           321,479 U.S. Senate.html
+05/27/2014  09:44 AM           253,720 U.S. state.html
+05/27/2014  10:24 AM           102,038 U.S. trade deficit.html
+05/27/2014  11:03 AM           545,251 UC Berkley.html
+05/27/2014  11:11 AM           406,068 Uganda.html
+05/27/2014  03:06 PM           336,459 Ukiyo-e.html
+05/27/2014  11:05 AM           119,033 Uncle Sam.html
+05/27/2014  10:14 AM            43,170 Unearned income.html
+05/27/2014  10:22 AM           349,268 Unemployment in the United States.html
+05/27/2014  10:32 AM           377,284 Unemployment.html
+05/27/2014  10:39 AM           120,720 UNESCO World Heritage List.html
+05/27/2014  10:58 AM           310,522 UNESCO.html
+05/27/2014  10:02 AM            95,793 Unicameral.html
+05/27/2014  11:05 AM           221,166 Uniformed services of the United States.html
+05/27/2014  10:14 AM            53,021 Union Territory.html
+05/27/2014  02:48 PM           216,889 Unit 731.html
+05/27/2014  10:00 AM           258,979 Unitarian Universalism.html
+05/27/2014  02:36 PM           158,831 Unitary state.html
+05/27/2014  02:55 PM           531,972 United Arab Emirates.html
+05/27/2014  03:19 PM         1,030,270 United Kingdom.html
+05/27/2014  09:52 AM           165,412 United Nations Charter.html
+05/27/2014  09:52 AM            45,805 United Nations Conference on International Organization.html
+05/27/2014  10:54 AM            88,092 United Nations Department of Economic and Social Affairs.html
+05/27/2014  10:34 AM           154,424 United Nations Development Programme.html
+05/27/2014  10:09 AM           197,155 United Nations Headquarters.html
+05/27/2014  03:00 PM           164,700 United Nations High Commissioner for Refugees.html
+05/27/2014  09:52 AM            66,727 United Nations Monetary and Financial Conference.html
+05/27/2014  02:50 PM           321,221 United Nations Security Council.html
+05/27/2014  10:52 AM           423,905 United Nations.html
+05/27/2014  10:10 AM           123,317 United Progressive Alliance.html
+05/27/2014  10:16 AM           527,227 United States Air Force.html
+05/27/2014  09:52 AM           141,758 United States and the United Nations.html
+05/27/2014  09:51 AM           249,827 United States antitrust law.html
+05/27/2014  10:14 AM           377,557 United States Armed Forces.html
+05/27/2014  10:15 AM           440,867 United States Army.html
+05/27/2014  11:01 AM           189,112 United States at the Olympics.html
+05/27/2014  10:02 AM           280,109 United States Bill of Rights.html
+05/27/2014  10:01 AM           213,237 United States Cabinet.html
+05/27/2014  11:02 AM           169,083 United States Census Bureau.html
+05/27/2014  10:01 AM           178,326 United States Census, 2000.html
+05/27/2014  10:16 AM           489,532 United States Coast Guard.html
+05/27/2014  11:05 AM           121,104 United States Code.html
+05/27/2014  09:42 AM           656,923 United States Congress.html
+05/27/2014  10:01 AM           176,735 United States congressional apportionment.html
+05/27/2014  09:42 AM           453,697 United States Constitution.html
+05/27/2014  11:05 AM           191,203 United States courts of appeals.html
+05/27/2014  09:42 AM           378,698 United States Declaration of Independence.html
+05/27/2014  10:53 AM           153,615 United States Department of Agriculture.html
+05/27/2014  10:15 AM           245,368 United States Department of Defense.html
+05/27/2014  10:43 AM           116,724 United States Department of Education.html
+05/27/2014  10:16 AM           308,878 United States Department of Homeland Security.html
+05/27/2014  10:17 AM           158,752 United States Department of the Navy.html
+05/27/2014  11:05 AM           159,575 United States district court.html
+05/27/2014  09:43 AM           395,725 United States dollar.html
+05/27/2014  10:02 AM           445,235 United States Electoral College.html
+05/27/2014  09:56 AM           253,358 United States Environmental Protection Agency.html
+05/27/2014  10:13 AM           284,927 United States federal budget.html
+05/27/2014  11:05 AM            96,016 United States federal civil service.html
+05/27/2014  10:01 AM           131,252 United States federal courts.html
+05/27/2014  11:05 AM           117,778 United States federal executive departments.html
+05/27/2014  10:22 AM           107,036 United States Federal Sentencing Guidelines.html
+05/27/2014  09:56 AM            94,433 United States Fish and Wildlife Service.html
+05/27/2014  10:17 AM           225,697 United States Fleet Forces Command.html
+05/27/2014  10:12 AM            72,542 United States free trade agreements.html
+05/27/2014  11:04 AM           297,099 United States home front during World War II.html
+05/27/2014  10:01 AM           339,147 United States House of Representatives.html
+05/27/2014  10:32 AM           270,062 United States housing bubble.html
+05/27/2014  10:22 AM           208,653 United States incarceration rate.html
+05/27/2014  11:05 AM           135,175 United States Intelligence Community.html
+05/27/2014  10:16 AM           580,926 United States Marine Corps.html
+05/27/2014  10:19 AM           191,889 United States Marshals Service.html
+05/27/2014  09:44 AM           106,339 United States Minor Outlying Islands.html
+05/27/2014  11:02 AM            53,273 United States National Research Council.html
+05/27/2014  10:02 AM           174,459 United States nationality law.html
+05/27/2014  02:46 PM           436,150 United States Navy.html
+05/27/2014  10:17 AM           110,748 United States Pacific Fleet.html
+05/27/2014  09:57 AM           176,595 United States Permanent Resident Card.html
+05/27/2014  10:05 AM           169,887 United States presidential election, 1856.html
+05/27/2014  10:06 AM           259,143 United States presidential election, 1912.html
+05/27/2014  10:07 AM           668,117 United States presidential election, 2008.html
+05/27/2014  10:08 AM           498,246 United States presidential election, 2012.html
+05/27/2014  10:01 AM           222,402 United States presidential election.html
+05/27/2014  10:22 AM           341,548 United States public debt.html
+05/27/2014  11:05 AM           138,853 United States Public Health Service Commissioned Corps.html
+05/27/2014  11:05 AM            39,580 United States Reports.html
+05/27/2014  10:15 AM           271,029 United States Secretary of Defense.html
+05/27/2014  10:01 AM           321,329 United States Senate.html
+05/27/2014  10:01 AM           137,634 United States Supreme Court Building.html
+05/27/2014  10:01 AM           618,883 United States Supreme Court.html
+05/27/2014  09:45 AM           183,812 United States territorial acquisitions.html
+05/27/2014  11:04 AM           145,376 United States territory.html
+05/27/2014  09:57 AM            53,091 United States urban area.html
+05/27/2014  09:44 AM           230,704 United States Virgin Islands.html
+05/27/2014  03:13 PM         1,007,659 United States.html
+05/27/2014  10:12 AM           187,187 United States-Australia relations.html
+05/27/2014  10:12 AM           383,482 United States-Iran relations.html
+05/27/2014  10:46 AM           103,651 Universal health care.html
+05/27/2014  02:49 PM           155,424 Universal suffrage.html
+05/27/2014  03:10 PM            43,027 University of California Press.html
+05/27/2014  10:58 AM            67,394 University of Chicago Press.html
+05/27/2014  10:59 AM           258,664 University of Colorado at Boulder.html
+05/27/2014  03:09 PM           424,418 University of Durham.html
+05/27/2014  10:57 AM            48,881 University of Hawaii Press.html
+05/27/2014  11:03 AM            61,142 University of Illinois Press.html
+05/27/2014  10:57 AM            29,898 University of Iowa Press.html
+05/27/2014  11:03 AM            34,406 University of Massachusetts Press.html
+05/27/2014  10:57 AM            34,717 University of Minnesota Press.html
+05/27/2014  11:02 AM            43,454 University of Nebraska Press.html
+05/27/2014  11:02 AM            47,928 University of North Carolina Press.html
+05/27/2014  03:04 PM           181,454 University of Tokyo.html
+05/27/2014  10:43 AM           471,234 University of Virginia.html
+05/27/2014  10:58 AM            31,054 University Press of America.html
+05/27/2014  10:38 AM           280,259 Upanishads.html
+05/27/2014  10:53 AM            38,378 Upinder Singh.html
+05/27/2014  02:36 PM            73,561 Upper house.html
+05/27/2014  02:40 PM            85,838 Upper Paleolithic.html
+05/27/2014  09:54 AM           307,876 Urdu.html
+05/27/2014  10:36 AM           409,568 US Airways.html
+05/27/2014  11:03 AM           136,094 USA Today.html
+05/20/2014  01:11 PM        70,689,324 usa.zip
+05/27/2014  10:00 AM           525,201 Utah.html
+05/27/2014  10:20 AM           543,011 Uttar Pradesh.html
+05/27/2014  10:03 AM           314,268 Uttarakhand.html
+05/27/2014  10:46 AM            71,158 Vaisakhi.html
+05/27/2014  09:53 AM           119,808 Vande Mataram.html
+05/27/2014  11:11 AM           299,668 Vanuatu.html
+05/16/2014  09:30 AM           407,142 Varanasi.html
+05/27/2014  09:56 AM           103,999 Vascular plants.html
+05/27/2014  10:39 AM            77,730 Vastu shastra.html
+05/27/2014  03:24 PM           372,302 Vatican City.html
+05/27/2014  09:57 AM           187,081 Vedas.html
+05/27/2014  09:57 AM           169,283 Vedic period.html
+05/27/2014  02:58 PM           464,513 Venus.html
+05/27/2014  10:02 AM           703,808 Vermont.html
+05/27/2014  09:54 AM            98,792 Vice President of India.html
+05/27/2014  11:05 AM           286,323 Vice President of the United States.html
+05/27/2014  09:52 AM            60,595 Victory in Europe Day.html
+05/27/2014  03:06 PM           187,929 Video game console.html
+05/27/2014  09:52 AM           887,960 Vietnam War.html
+05/27/2014  03:17 PM           576,105 Vietnam.html
+05/27/2014  09:59 AM           269,060 Vietnamese language.html
+05/27/2014  03:24 PM           598,036 View the content page [c].html
+05/27/2014  10:00 AM           229,757 Vijayanagara Empire.html
+05/27/2014  10:26 AM           126,270 Vikrant class aircraft carrier.html
+05/27/2014  02:52 PM           103,797 Villages of Japan.html
+05/27/2014  10:03 AM            54,275 Vindhya Range.html
+05/27/2014  10:02 AM           739,231 Virginia.html
+05/16/2014  09:34 AM           242,407 Vishwanathan Anand.html
+05/27/2014  03:24 PM            68,380 Visit the main page [z].html
+05/27/2014  03:24 PM            68,380 Visit the main page.html
+05/27/2014  10:56 AM           211,925 Visual art of the United States.html
+05/27/2014  03:18 PM           768,416 Vladimir Putin.html
+05/27/2014  02:52 PM           212,837 Volcano.html
+05/27/2014  11:01 AM           221,194 Volleyball.html
+05/27/2014  09:52 AM           136,985 Vostok 1.html
+05/27/2014  03:12 PM            98,559 Wakayama Prefecture.html
+05/27/2014  09:51 AM           122,317 Wall Street Crash of 1929.html
+05/27/2014  11:06 AM           361,121 Wall Street.html
+05/27/2014  10:49 AM           413,911 Walt Disney.html
+05/27/2014  10:56 AM           189,971 Walt Whitman.html
+05/27/2014  09:48 AM           656,929 War of 1812.html
+05/27/2014  09:53 AM           141,217 War on Poverty.html
+05/27/2014  09:53 AM           526,600 War on Terror.html
+05/16/2014  09:30 AM            59,752 Warli.html
+05/27/2014  09:52 AM           247,505 Warsaw Pact.html
+05/27/2014  10:02 AM           625,905 Washington D.C.html
+05/27/2014  09:58 AM           273,867 Washington Metropolitan Area.html
+05/27/2014  09:41 AM           625,909 Washington, D.C..html
+05/27/2014  02:54 PM           149,762 Waste management.html
+05/27/2014  11:04 AM           217,280 Water supply and sanitation in India.html
+05/27/2014  11:04 AM           334,204 Water supply and sanitation in the United States.html
+05/27/2014  10:36 AM            65,715 Watt-hour.html
+05/27/2014  10:22 AM           120,977 Wealth in the United States.html
+05/27/2014  10:33 AM            93,170 Wealth inequality in the United States.html
+05/27/2014  10:50 AM            66,523 Web portal.html
+05/27/2014  10:51 AM           135,193 Web search engine.html
+05/27/2014  10:20 AM           421,480 West Bengal.html
+05/27/2014  09:54 AM           109,408 West Coast of the United States.html
+05/27/2014  11:01 AM            74,053 West India.html
+05/27/2014  10:02 AM           497,313 West Virginia.html
+05/27/2014  09:58 AM           181,355 Western Asia.html
+05/27/2014  11:01 AM            35,147 Western Coastal Plains.html
+05/27/2014  10:47 AM           239,504 Western culture.html
+05/27/2014  10:58 AM            58,370 Western fiction.html
+05/27/2014  10:03 AM           267,988 Western Ghats.html
+05/27/2014  02:35 PM            85,844 Western Japanese.html
+05/27/2014  09:58 AM           227,517 Western United States.html
+05/27/2014  11:03 AM           118,572 Westminister, Maryland.html
+05/27/2014  10:14 AM           122,819 Westminster system.html
+05/27/2014  10:25 AM           286,670 Wheat.html
+05/27/2014  09:56 AM           208,693 White American.html
+05/27/2014  10:08 AM           132,264 White Anglo-Saxon Protestants.html
+05/27/2014  10:01 AM           300,968 White House.html
+05/27/2014  10:00 AM           336,152 Wicca.html
+05/27/2014  10:51 AM           751,132 Wikipedia.html
+05/27/2014  09:56 AM           152,869 Wilderness.html
+05/27/2014  09:56 AM           116,738 Wildlife of India.html
+05/27/2014  02:53 PM            62,493 Wildlife of Japan.html
+05/27/2014  10:08 AM            51,059 Wildlife Protection Act of 1972.html
+05/27/2014  10:08 AM           171,095 Wildlife sanctuaries of India.html
+05/27/2014  10:59 AM           246,372 Willard Van Orman Quine.html
+05/27/2014  10:59 AM            88,181 Willem de Kooning.html
+05/27/2014  10:58 AM           161,911 William Faulkner.html
+05/27/2014  10:59 AM           244,352 William James.html
+05/27/2014  10:56 AM            53,293 William Morrow and Company.html
+05/27/2014  11:03 AM            40,181 William Tyler Page.html
+05/27/2014  11:03 AM           115,396 Wind power in India.html
+05/27/2014  11:01 AM           435,849 Winter Olympic Games.html
+05/27/2014  10:04 AM           424,891 Wisconsin.html
+05/27/2014  10:45 AM           298,830 Women in India.html
+05/27/2014  02:41 PM            88,550 Women in Japan.html
+05/27/2014  03:06 PM           117,864 Woodblock printing.html
+05/27/2014  09:51 AM           515,059 Woodrow Wilson.html
+05/27/2014  10:47 AM            73,113 Work ethic.html
+05/27/2014  10:41 AM            94,292 Works of Rabindranath Tagore.html
+05/27/2014  10:57 AM           237,054 World Bank.html
+05/27/2014  10:07 AM           147,998 World Conservation Union.html
+05/27/2014  10:56 AM           152,178 World Economic Forum.html
+05/27/2014  10:57 AM           321,708 World Health Organisation.html
+05/27/2014  10:20 AM           321,507 World Health Organization.html
+05/27/2014  02:54 PM           142,398 World Heritage Sites in Japan.html
+05/27/2014  10:08 AM            41,710 World Network of Biosphere Reserves.html
+05/27/2014  09:53 AM           379,028 World Trade Center.html
+05/27/2014  10:24 AM           243,277 World Trade Organisation.html
+05/27/2014  02:41 PM           833,425 World War I.html
+05/27/2014  09:52 AM           651,932 World War II casualties.html
+05/27/2014  02:41 PM         1,013,815 World War II.html
+05/27/2014  10:39 AM           293,023 Wright brothers.html
+05/27/2014  10:39 AM           112,544 Wright Flyer.html
+05/27/2014  10:30 AM           243,201 WTO.html
+05/27/2014  02:42 PM           246,923 Wu Chinese.html
+05/27/2014  10:00 AM           336,778 Wyoming.html
+05/27/2014  03:04 PM            41,860 Yaeyama language.html
+05/27/2014  11:02 AM               200 Yahoo! News.html
+05/27/2014  10:44 AM           167,417 Yakshagana.html
+05/27/2014  09:52 AM           201,279 Yalta Conference.html
+05/27/2014  03:12 PM           147,940 Yamagata Prefecture.html
+05/27/2014  03:13 PM           129,456 Yamaguchi Prefecture.html
+05/27/2014  03:12 PM           121,990 Yamanashi Prefecture.html
+05/27/2014  02:43 PM            61,968 Yamatai.html
+05/27/2014  02:43 PM            51,616 Yamato people.html
+05/27/2014  10:04 AM           190,123 Yamuna.html
+05/27/2014  03:07 PM           112,108 Yasunari Kawabata.html
+05/27/2014  02:43 PM           102,407 Yayoi period.html
+05/27/2014  10:59 AM           119,661 Years in the Republic of India.html
+05/27/2014  09:54 AM           512,864 Yellowstone National Park.html
+05/27/2014  10:22 AM           708,285 Yemen.html
+05/27/2014  10:38 AM           182,962 Yoga Sutras of Patanjali.html
+05/27/2014  10:38 AM           477,352 Yoga.html
+05/27/2014  03:01 PM           209,859 Yokohama.html
+05/27/2014  03:04 PM            39,361 Yonaguni language.html
+05/27/2014  02:49 PM           147,576 Yoshihiko Noda.html
+05/27/2014  10:51 AM               200 YouTube.html
+05/27/2014  03:04 PM           143,261 Yukio Mishima.html
+05/27/2014  03:20 PM            57,870 Yun Byung-se.html
+05/27/2014  03:08 PM            67,781 Yuta Tabuse.html
+05/27/2014  11:11 AM           314,864 Zambia.html
+05/27/2014  11:00 AM            78,657 Zamindar.html
+05/27/2014  02:44 PM           450,897 Zen.html
+05/27/2014  10:29 AM           577,862 Zinc.html
+05/27/2014  10:07 AM            42,538 Zoogeography.html
+05/27/2014  10:54 AM            43,391 Zoological Survey of India.html
+            3018 File(s)    803,660,723 bytes
+               2 Dir(s)  197,300,686,848 bytes free

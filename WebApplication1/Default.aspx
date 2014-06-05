@@ -1,4 +1,4 @@
-<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="search.aspx.cs" Inherits="WebApplication1.search"  Trace="true"%>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="search.aspx.cs" Inherits="WebApplication1.search"  %>
 
 <!DOCTYPE html>
 <html>
@@ -12,6 +12,20 @@
    <link href='css/bootstrap-theme.min.css' rel="Stylesheet" type='text/css' />
 
    <style type="text/css">
+       
+        .full
+        {
+            margin:0;
+            padding:0; 
+            display:block;
+            top:0;
+            left:0;
+            width:100%;
+            height:100%;
+            background:#fff;
+            position:absolute;
+        }
+        
        .Header
        {
            text-shadow: 1px 0px 5px #aaa;
@@ -44,17 +58,17 @@
        ::-moz-selection {color:white;background:gray;}
    </style>
 </head>
-<body>
+<body class="full">
    
-   <form id="form1" runat="server" style="height: 39px; width: 907px;">
+   <form id="form1" runat="server" style="height: 100%; width: 100%;">
    <div style="float: left; margin-left: 50px">
        <br />
        <asp:Label ID="Label1" runat="server" CssClass="Header" Font-Names="Open Sans" Font-Size="X-Large" Font-Bold="true"></asp:Label>
        <br />
        <br />
    </div>
-   <div style="margin-left: 50px; float: left; width: 100%;margin-right:auto">
-       <div class="col-lg-6" style="padding-left:0;">
+   <div style="margin-left: 50px; float: left; width: 600px;clear:both">
+       <div class="col-lg-6" style="padding-left:0;width:100%">
            <div class="input-group" style="width:100%">
                <asp:TextBox ID="TextBox1" runat="server" CssClass="form-control" Font-Names="Open Sans"></asp:TextBox>
                <span class="input-group-btn">
@@ -63,15 +77,14 @@
            </div>
            <!-- /input-group -->
        </div>
-       <div style="padding-top:10px;padding-bottom:10px">
-           <asp:Label ID="Label3" runat="server" Font-Names="Ubuntu" ForeColor="Gray">Did you mean: </asp:Label>
-            <asp:LinkButton ID="LinkButton4" runat="server" Font-Bold="true" Font-Italic="true" Font-Underline="true" Font-Names="Open Sans" ForeColor="DarkBlue" OnClick="LinkButton4_Click"></asp:LinkButton>
-           <br />
+       <div style="padding-top:10px;padding-bottom:10px;clear:both">
+                <asp:Label ID="Label3" runat="server" Font-Names="Ubuntu" ForeColor="Gray">Did you mean: </asp:Label>
+                <asp:LinkButton ID="LinkButton4" runat="server" Font-Bold="true" Font-Italic="true" Font-Underline="true" Font-Names="Open Sans" ForeColor="DarkBlue" OnClick="LinkButton4_Click"></asp:LinkButton>
            <asp:Label ID="Label2" runat="server" Font-Names="Ubuntu" Font-Bold="false"></asp:Label>
        </div>
    </div>
-   <br />
-   <br />
+<%--   <br />
+   <br />--%>
    <div style="margin-left: 45px; float: left; width: 747px;">
        <%--<asp:Label ID="Label3" Text='test me' Font-Bold='True' runat="server"
               Font-Names="Ubuntu"></asp:Label><br />--%>
@@ -79,7 +92,7 @@
            <ItemTemplate>
                <div class='linkDiv' onclick="window.open('<%# ((KeyValuePair<string,string>)Container.DataItem).Value %>','_blank');">
                    <div class='linkDivChild'>
-                       <strong><asp:HyperLink ID="HyperLink1" runat="server"  NavigateUrl="<%# ((KeyValuePair<string,string>)Container.DataItem).Value %>" Text="<%# ((KeyValuePair<string,string>)Container.DataItem).Key %>"
+                       <strong><asp:HyperLink ID="HyperLink1" runat="server"  Target="_blank" NavigateUrl="<%# ((KeyValuePair<string,string>)Container.DataItem).Value %>" Text="<%# ((KeyValuePair<string,string>)Container.DataItem).Key %>"
                            Font-Bold='true' Font-Size='Large' ForeColor='Blue' Font-Names="Open Sans" CssClass="linkstyle" /></strong>
                        <br />
                        <asp:Label ID="LinkLabel" runat="server" Text="<%# ((KeyValuePair<string,string>)Container.DataItem).Value %>"

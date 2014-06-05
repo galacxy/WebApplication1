@@ -547,13 +547,18 @@ namespace Search
                    {
                        success++;
                    }
-                   else if (SimDone==false && CompareSimilarMatch(term, result.Key, benchmark) <= benchmark)
+                   else
                    {
-                       SimilarMatch = new LinkItem();
-                       SimilarMatch.Href = result.Value.Link;
-                       SimilarMatch.Text = result.Key;
-                       SimDone = true;
-                       success++;
+                       float value = CompareSimilarMatch(term, result.Key);
+                       if (value < benchmark)
+                       {
+                           benchmark = value;
+                           SimilarMatch = new LinkItem();
+                           SimilarMatch.Href = result.Value.Link;
+                           SimilarMatch.Text = result.Key;
+                           SimDone = true;
+                           success++;
+                       }
                    }
                }
                if (success == queryTerms.Count)
@@ -646,9 +651,9 @@ namespace Search
            return deviationValue;
        }
 
-       public float CompareSimilarMatch(String str1, String str2, float benchmark)
+       public float CompareSimilarMatch(String str1, String str2)
        {
-           float deviation = benchmark;
+           float deviation = 1.0F;
            int count = 0;
            int length = str1.Length < str2.Length ? str1.Length : str2.Length;
            for (int index = 0; index < length; index++)
@@ -658,7 +663,7 @@ namespace Search
                    count++;
                }
            }
-           deviation = (count / (float)str1.Length);
+           deviation = (count / (float)length);
            return deviation;
        }
 
@@ -669,7 +674,7 @@ namespace Search
            Dictionary<string, string> relatedLinks = new Dictionary<string, string>();
            try
            {
-               String dataSource = @"D:\rohit.bansal\WebApplication1\WebApplication1\DataStore\" + pageTitle + ".html";
+               String dataSource = AppDomain.CurrentDomain.BaseDirectory + @"\DataStore\" + pageTitle + ".html";
                fr = new System.IO.StreamReader(dataSource);
                pageSource = fr.ReadToEnd();
            }

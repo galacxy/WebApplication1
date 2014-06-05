@@ -84,8 +84,8 @@ namespace WebApplication1
                Label1.Text = "WikiSearch";
                Label1.ForeColor = System.Drawing.Color.DeepSkyBlue;
                Label1.Font.Bold = true;
-               Label2.Visible = false;
-               Label2.Font.Bold = false;
+               
+              
                //TextBox1.BorderColor = System.Drawing.Color.LightGray;
                repLinks.Visible = false;
                Label1.TabIndex = 0;
@@ -96,8 +96,17 @@ namespace WebApplication1
                LinkButton1.Visible = false;
                LinkButton2.Visible = false;
            }
-          
+           try
+           {
+               Session.Add("ChangeTextBox.Text", false);
+           }
+           catch
+           {
+               Session["ChangeTextBox.Text"] = false;
+           }
+           Label2.Font.Bold = true;
            TextBox1.Focus();
+           Label2.Visible = false;
            LinkButton4.Text = "";
            Label3.Visible = false;
            LinkButton4.Visible = false;
@@ -112,6 +121,7 @@ namespace WebApplication1
        {
            if (IsPostBack)
            {
+               Label2.Visible = true;
                if (TextBox1.Text == "")
                {
                    Message = "Please fill out the field";
@@ -121,16 +131,22 @@ namespace WebApplication1
                else
                {
                    TextBox1.BorderColor = System.Drawing.Color.DeepSkyBlue;
-                   String filename = @"D:\rohit.bansal\SandBox\Interns\rohit.bansal\WebApplication1\WebApplication1\mergerResults.csv";
-                   ExecuteSearch ES = new ExecuteSearch(filename);
+                   //String filename = @"C:\rohit.bansal\WebApplication1\WebApplication1\mergerResults.csv";
+                   String filename = "";
                    try
                    {
-                       String suggestion=Session["suggestion"].ToString();
-                       TextBox1.Text = suggestion;
+                       filename = AppDomain.CurrentDomain.BaseDirectory + "mergerResults.csv";
+                       if (Convert.ToBoolean(Session["ChangeTextBox.Text"]) == true)
+                       {
+                           TextBox1.Text = Session["suggestion"].ToString();
+                       }
+                       Session.Remove("suggestion");
                    }
                    catch
                    {
+
                    }
+                   ExecuteSearch ES = new ExecuteSearch(filename);
                    ES.getSearchResults(TextBox1.Text, out Results, out did_you_mean);
                    if (Results == null)
                    {
@@ -142,49 +158,55 @@ namespace WebApplication1
                    }
                    else
                    {
-                       NumResults = Results1.Length;
-                       Label2.Visible = true;
-                       if (NumResults > 0)
+                       if (Did_you_mean == true)
                        {
-                           for (int index = Lower; index < WindowSize; index++)
-                           {
-                               try
-                               {
-                                   CurrentWindow1[index] = new KeyValuePair<string, string>(Results1[index].Key, Results1[index].Value);
-                               }
-                               catch
-                               {
-                                   break;
-                               }
-                           }
-                           repLinks.DataSource = CurrentWindow1;
-                           repLinks.DataBind();
-                           repLinks.Visible = true;
+                           Label2.Visible = false;
+                           Label3.Visible = true;
+                           LinkButton4.Text = Results1[0].Key;
+                           Session.Add("suggestion", LinkButton4.Text);
+                           LinkButton4.Visible = true;
                            LinkButton1.Visible = false;
-                           LinkButton2.Visible = NumResults > WindowSize ? true : false;
-                           Upper = NumResults > windowSize ? Upper : NumResults;
-                           Session.Add("WikiSearch_numResult", NumResults);
-                           Session.Add("WikiSearch_lower", Lower);
-                           Session.Add("WikiSearch_upper", Upper);
-                           Session.Add("WikiSearchResults", Results1);
-                           Label2.Style["color"] = "#9c9c9c";
-                           Message = "About " + NearestNum(NumResults) + " results found";
-                           if (Did_you_mean == true)
-                           {
-                               Label3.Visible = true;
-                               LinkButton4.Text = CurrentWindow1[0].Key;
-                               Session.Add("suggestion", LinkButton4.Text);
-                               //LinkButton4.PostBackUrl = CurrentWindow1[0].Value;
-                               LinkButton4.Visible = true;
-                           }
+                           LinkButton2.Visible = false;
+                           repLinks.Visible = false;
                        }
                        else
                        {
-                           Label2.Style["color"] = "red";
-                           Message = "No results found. Check your spellings and try again";
-                           repLinks.Visible = false;
-                           LinkButton1.Visible = false;
-                           LinkButton2.Visible = false;
+                           NumResults = Results1.Length;
+                           if (NumResults > 0)
+                           {
+                               WindowSize = WindowSize < NumResults ? WindowSize : NumResults;
+                               for (int index = Lower; index < WindowSize; index++)
+                               {
+                                   try
+                                   {
+                                       CurrentWindow1[index] = new KeyValuePair<string, string>(Results1[index].Key, Results1[index].Value);
+                                   }
+                                   catch
+                                   {
+                                       break;
+                                   }
+                               }
+                               repLinks.DataSource = CurrentWindow1;
+                               repLinks.DataBind();
+                               repLinks.Visible = true;
+                               LinkButton1.Visible = false;
+                               LinkButton2.Visible = NumResults > WindowSize ? true : false;
+                               Upper = NumResults > windowSize ? Upper : NumResults;
+                               Session.Add("WikiSearch_numResult", NumResults);
+                               Session.Add("WikiSearch_lower", Lower);
+                               Session.Add("WikiSearch_upper", Upper);
+                               Session.Add("WikiSearchResults", Results1);
+                               Label2.Style["color"] = "#9c9c9c";
+                               Message = "About " + NearestNum(NumResults) + " results found";
+                           }
+                           else
+                           {
+                               Label2.Style["color"] = "red";
+                               Message = "No results found. Check your spellings and try again";
+                               repLinks.Visible = false;
+                               LinkButton1.Visible = false;
+                               LinkButton2.Visible = false;
+                           }
                        }
                    }
                }
@@ -194,6 +216,10 @@ namespace WebApplication1
 
        private Int64 NearestNum(Int64 Number)
        {
+           if (Number < 10)
+           {
+               return Number;
+           }
            int temp = 10;
            while ((Number/temp) > 0)
            {
@@ -202,12 +228,13 @@ namespace WebApplication1
            temp /= 1000;
            try
            {
-               return Number - (Number % temp);
+               Number -= (Number % temp);
            }
            catch
            {
-               return Number - (Number % 10);
+              Number -= (Number % 10);
            }
+           return Number;
        }
 
        protected void LinkButton1_Click(object sender, EventArgs e)
@@ -302,6 +329,7 @@ namespace WebApplication1
 
        protected void LinkButton4_Click(object sender, EventArgs e)
        {
+           Session["ChangeTextBox.Text"] = true;
            Button1_Click(sender, e);
        }
 

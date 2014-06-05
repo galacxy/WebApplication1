@@ -73,7 +73,6 @@ namespace WebApplication1
            Did_you_mean = false;
            Lower = 0;
            windowSize = Upper = 15;
-           CurrentWindow1 = new KeyValuePair<string, string>[WindowSize];
        }
 
        protected void Page_Load(object sender, EventArgs e)
@@ -89,7 +88,7 @@ namespace WebApplication1
                //TextBox1.BorderColor = System.Drawing.Color.LightGray;
                repLinks.Visible = false;
                Label1.TabIndex = 0;
-               Label2.Style.Add("color", "#9c9c9c");
+               Label2.ForeColor = System.Drawing.Color.DarkSlateGray;
                //Literal lit1 = new Literal();
                //lit1.Text = @"<span class='glyphicon glyphicon-search'></span> ";
                //Button1.Text = lit1.Text;
@@ -104,9 +103,8 @@ namespace WebApplication1
            {
                Session["ChangeTextBox.Text"] = false;
            }
-           Label2.Font.Bold = true;
            TextBox1.Focus();
-           Label2.Visible = false;
+           Label2.Visible = true;
            LinkButton4.Text = "";
            Label3.Visible = false;
            LinkButton4.Visible = false;
@@ -129,7 +127,7 @@ namespace WebApplication1
                    TextBox1.BorderColor = System.Drawing.Color.Crimson;
                }
                else
-               {
+                {
                    TextBox1.BorderColor = System.Drawing.Color.DeepSkyBlue;
                    //String filename = @"C:\rohit.bansal\WebApplication1\WebApplication1\mergerResults.csv";
                    String filename = "";
@@ -157,58 +155,53 @@ namespace WebApplication1
                        Message = "Unable to load indexfile";
                    }
                    else
-                   {
-                       if (Did_you_mean == true)
-                       {
-                           Label2.Visible = false;
-                           Label3.Visible = true;
-                           LinkButton4.Text = Results1[0].Key;
-                           Session.Add("suggestion", LinkButton4.Text);
-                           LinkButton4.Visible = true;
-                           LinkButton1.Visible = false;
-                           LinkButton2.Visible = false;
-                           repLinks.Visible = false;
-                       }
-                       else
-                       {
-                           NumResults = Results1.Length;
-                           if (NumResults > 0)
-                           {
-                               WindowSize = WindowSize < NumResults ? WindowSize : NumResults;
-                               for (int index = Lower; index < WindowSize; index++)
-                               {
-                                   try
-                                   {
-                                       CurrentWindow1[index] = new KeyValuePair<string, string>(Results1[index].Key, Results1[index].Value);
-                                   }
-                                   catch
-                                   {
-                                       break;
-                                   }
-                               }
-                               repLinks.DataSource = CurrentWindow1;
-                               repLinks.DataBind();
-                               repLinks.Visible = true;
-                               LinkButton1.Visible = false;
-                               LinkButton2.Visible = NumResults > WindowSize ? true : false;
-                               Upper = NumResults > windowSize ? Upper : NumResults;
-                               Session.Add("WikiSearch_numResult", NumResults);
-                               Session.Add("WikiSearch_lower", Lower);
-                               Session.Add("WikiSearch_upper", Upper);
-                               Session.Add("WikiSearchResults", Results1);
-                               Label2.Style["color"] = "#9c9c9c";
-                               Message = "About " + NearestNum(NumResults) + " results found";
-                           }
-                           else
-                           {
-                               Label2.Style["color"] = "red";
-                               Message = "No results found. Check your spellings and try again";
-                               repLinks.Visible = false;
-                               LinkButton1.Visible = false;
-                               LinkButton2.Visible = false;
-                           }
-                       }
-                   }
+                  {
+                        NumResults = Results1.Length;
+                        if (NumResults > 0)
+                        {
+                            WindowSize = WindowSize < NumResults ? WindowSize : NumResults;
+                            CurrentWindow1 = new KeyValuePair<string, string>[WindowSize];
+                            for (int index = Lower; index < WindowSize; index++)
+                            {
+                                try
+                                {
+                                    CurrentWindow1[index] = new KeyValuePair<string, string>(Results1[index].Key, Results1[index].Value);
+                                }
+                                catch
+                                {
+                                    break;
+                                }
+                            }
+                            repLinks.DataSource = CurrentWindow1;
+                            repLinks.DataBind();
+                            repLinks.Visible = true;
+                            LinkButton1.Visible = false;
+                            LinkButton2.Visible = NumResults > WindowSize ? true : false;
+                            Upper = NumResults > windowSize ? Upper : NumResults;
+                            Session.Add("WikiSearch_numResult", NumResults);
+                            Session.Add("WikiSearch_lower", Lower);
+                            Session.Add("WikiSearch_upper", Upper);
+                            Session.Add("WikiSearchResults", Results1);
+                            Label2.Style["color"] = "#9c9c9c";
+                            Message = "About " + NearestNum(NumResults) + (NearestNum(NumResults) > 1 ? " results" : " result").ToString() + " found";
+                        }
+                        else
+                        {
+                            Label2.Style["color"] = "red";
+                            Message = "No results found. Check your spellings and try again";
+                            repLinks.Visible = false;
+                            LinkButton1.Visible = false;
+                            LinkButton2.Visible = false;
+                        }
+                        if (Did_you_mean == true)
+                        {
+                            Label3.Visible = true;
+                            LinkButton4.Text = Results1[0].Key;
+                            Session.Add("suggestion", LinkButton4.Text);
+                            LinkButton4.Visible = true;
+                            repLinks.Visible = true;
+                        }
+                    }
                }
                Label2.Text = Message;
            }

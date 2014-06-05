@@ -535,7 +535,7 @@ namespace Search
            LinkItem SimilarMatch = null; ;
            Boolean impDone = false;
            Boolean SimDone = false;
-           float benchmark=0.45F;
+           float benchmark=0.35F;
            Did_you_mean = false;
            foreach (var result in LR.LoadedResultsSet1) //.OrderByDescending(key => key.Value)
            {
@@ -592,8 +592,16 @@ namespace Search
            bool b2=String.IsNullOrEmpty(mostValuable.Text);
            if ( b1 && b2 && SimDone == true && impDone == false)
            {
-               mostValuable.Href = SimilarMatch.Href;
-               mostValuable.Text = SimilarMatch.Text;
+               if (exactWordsMatch.Count == 0)
+               {
+                   mostValuable.Href = SimilarMatch.Href;
+                   mostValuable.Text = SimilarMatch.Text;
+               }
+               else
+               {
+                   mostValuable.Text = exactWordsMatch.First().Key;
+                   mostValuable.Href = exactWordsMatch.First().Value.Link;
+               }
                Did_you_mean = true;
            }
            return exactWordsMatch;

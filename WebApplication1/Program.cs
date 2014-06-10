@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Globalization;
 using System.Text.RegularExpressions;
+using HtmlAgilityPack;
 
 namespace Search
 {
@@ -192,6 +193,34 @@ namespace Search
 
    public class LinkFinder
    {
+       public List<LinkItem> FindHtmlAgility(string filesource)
+       {
+           List<LinkItem> list = new List<LinkItem>();
+           HtmlAgilityPack.HtmlWeb htmlweb = new HtmlWeb();
+           try
+           {
+               HtmlDocument doc = htmlweb.Load("file://" + filesource);
+               var node = doc.DocumentNode.SelectNodes("//a");
+               foreach (var nd in node)
+               {
+                   if (nd.Attributes["href"] != null && nd.Attributes["href"].Value.Length > 0 && nd.Attributes["href"].Value.StartsWith(@"wiki/[\w]+") == true)
+                   {
+                       LinkItem ln = new LinkItem(nd.Attributes["title"].Value, nd.Attributes["href"].Value);
+                       if (list.Contains(ln) == false)
+                       {
+                           list.Add(ln);
+                       }
+
+                   }
+
+               }
+           }
+           catch
+           {
+           }
+           return list;
+       }
+
        public List<LinkItem> Find(string fileSource)
        {
            List<LinkItem> list = new List<LinkItem>();
@@ -547,7 +576,7 @@ namespace Search
                    {
                        success++;
                    }
-                   else
+                   else 
                    {
                        float value = CompareSimilarMatch(term, result.Key);
                        if (value < benchmark)
@@ -656,14 +685,29 @@ namespace Search
            float deviation = 1.0F;
            int count = 0;
            int length = str1.Length < str2.Length ? str1.Length : str2.Length;
-           for (int index = 0; index < length; index++)
+           if (str1[0] == str2[0])
            {
-               if (str1[index] != str2[index])
+               for (int index = 1; index < length; index++)
                {
-                   count++;
+                   if (str1[index] != str2[index])
+                   {
+                       count++;
+                   }
                }
+               deviation = (count / (float)length);
            }
-           deviation = (count / (float)length);
+           else if (String.CompareOrdinal(str1, length / 2, str2, length / 2, length / 2) == 0)
+           {
+               for (int index = 1; index < length/2; index++)
+               {
+                   if (str1[index] != str2[index])
+                   {
+                       count++;
+                   }
+               }
+               deviation = (count / (float)length/2);
+           }
+           
            return deviation;
        }
 
@@ -672,9 +716,11 @@ namespace Search
            System.IO.StreamReader fr = null;
            String pageSource = "";
            Dictionary<string, string> relatedLinks = new Dictionary<string, string>();
+           String dataSource = "";
            try
            {
-               String dataSource = AppDomain.CurrentDomain.BaseDirectory + @"\DataStore\" + pageTitle + ".html";
+               dataSource = AppDomain.CurrentDomain.BaseDirectory + @"\DataStore\" + pageTitle + ".html";
+               
                fr = new System.IO.StreamReader(dataSource);
                pageSource = fr.ReadToEnd();
            }
@@ -690,6 +736,7 @@ namespace Search
                }
 
                LinkFinder linkfinder = new LinkFinder();
+               linkfinder.FindHtmlAgility(dataSource);
                List<LinkItem> linkitems = linkfinder.Find(pageSource);
                Dictionary<String, titleHits> linkCounts = new Dictionary<string, titleHits>();
                foreach (var linkitem in linkitems)
